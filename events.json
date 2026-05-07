@@ -1,4 +1,80 @@
 {
+  "2026-05-07": [
+    {
+      "title": "🎬 Maryja. Matka Papieża",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Religijny / Dokumentalny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/maryja-matka-papieza.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Wolność po włosku",
+      "time": "18:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Dramat",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/wolnosc-po-wlosku.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Mumia: Film Lee Cronina",
+      "time": "18:30",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Horror",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/mumia.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
+  "2026-05-08": [
+    {
+      "title": "🎬 Pucio",
+      "time": "16:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Animacja / Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/pucio.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Kopnięci w czasie",
+      "time": "17:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Przygodowy",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎵 Billie Eilish: Hit Me Hard and Soft The Tour",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Muzyczne / Wydarzenie specjalne",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/billie-eilish-tour.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Michael",
+      "time": "19:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Biograficzny / Muzyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michael.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Miroirs III: Barka na oceanie",
+      "time": "19:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Artystyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/miroirs-iii.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
   "2026-05-09": [
     {
       "title": "🏃 Parkrun Łowicz #190",
@@ -9,6 +85,259 @@
       "image": "plakaty/parkrun-lowicz.jpg",
       "source": "https://lowicz24.eu/artykul/parkrun-w-lowiczu-po-n1816336",
       "notes": "Cotygodniowy bieg na 5 km organizowany w każdą sobotę."
+    },
+    {
+      "title": "🎬 Pucio",
+      "time": "16:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Animacja / Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/pucio.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Kopnięci w czasie",
+      "time": "17:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Przygodowy",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎵 Billie Eilish: Hit Me Hard and Soft The Tour",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Muzyczne / Wydarzenie specjalne",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/billie-eilish-tour.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Michael",
+      "time": "19:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Biograficzny / Muzyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michael.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Miroirs III: Barka na oceanie",
+      "time": "19:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Artystyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/miroirs-iii.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
+  "2026-05-10": [
+    {
+      "title": "🎬 Pucio",
+      "time": "16:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Animacja / Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/pucio.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Kopnięci w czasie",
+      "time": "17:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Przygodowy",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎵 Billie Eilish: Hit Me Hard and Soft The Tour",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Muzyczne / Wydarzenie specjalne",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/billie-eilish-tour.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Michael",
+      "time": "19:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Biograficzny / Muzyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michael.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Miroirs III: Barka na oceanie",
+      "time": "19:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Artystyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/miroirs-iii.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
+  "2026-05-11": [
+    {
+      "title": "🎬 Pucio",
+      "time": "16:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Animacja / Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/pucio.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Kopnięci w czasie",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Przygodowy",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Miroirs III: Barka na oceanie",
+      "time": "18:30",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Artystyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/miroirs-iii.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Michael",
+      "time": "19:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Biograficzny / Muzyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michael.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
+  "2026-05-12": [
+    {
+      "title": "🎬 Pucio",
+      "time": "16:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Animacja / Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/pucio.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Miroirs III: Barka na oceanie",
+      "time": "16:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Artystyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/miroirs-iii.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Kopnięci w czasie",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Przygodowy",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎞️ Wajda Re-wizje: Niewinni czarodzieje (1960)",
+      "time": "18:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "DKF / Klasyka kina",
+      "organizer": "DKF Bez Nazwy",
+      "image": "plakaty/wajda-niewinni-czarodzieje.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Michael",
+      "time": "19:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Biograficzny / Muzyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michael.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
+  "2026-05-13": [
+    {
+      "title": "🎬 Pucio",
+      "time": "16:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Animacja / Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/pucio.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Kopnięci w czasie",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Przygodowy",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Miroirs III: Barka na oceanie",
+      "time": "18:30",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Artystyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/miroirs-iii.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Michael",
+      "time": "19:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Biograficzny / Muzyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michael.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
+  "2026-05-14": [
+    {
+      "title": "🎬 Pucio",
+      "time": "16:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Animacja / Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/pucio.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Kopnięci w czasie",
+      "time": "17:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Przygodowy",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎥 Miroirs III: Barka na oceanie",
+      "time": "18:30",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "Artystyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/miroirs-iii.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    },
+    {
+      "title": "🎬 Michael",
+      "time": "19:00",
+      "place": "Kino Fenix Sala I, Łowicz",
+      "category": "Biograficzny / Muzyczny",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michael.jpg",
+      "source": "https://lok.systembiletowy.pl/"
     }
   ],
   "2026-05-16": [
@@ -33,6 +362,17 @@
       "source": "https://lok.art.pl/"
     }
   ],
+  "2026-05-19": [
+    {
+      "title": "🎞️ Przegląd filmów Luisa Buñuela: Viridiana",
+      "time": "19:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "DKF / Kino klasyczne",
+      "organizer": "DKF Bez Nazwy",
+      "image": "plakaty/viridiana.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
   "2026-05-23": [
     {
       "title": "🚴 Rajd rowerowy PTTK – Wiosna 2026",
@@ -45,6 +385,17 @@
       "notes": "PTTK regularnie organizuje rodzinne rajdy rowerowe i piesze."
     }
   ],
+  "2026-05-26": [
+    {
+      "title": "🎞️ Przegląd filmów Luisa Buñuela: Piękność dnia",
+      "time": "19:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "DKF / Kino klasyczne",
+      "organizer": "DKF Bez Nazwy",
+      "image": "plakaty/pieknosc-dnia.jpg",
+      "source": "https://lok.systembiletowy.pl/"
+    }
+  ],
   "2026-05-30": [
     {
       "title": "🎶 Koncert zespołu Koderek podczas prezentacji ludowych",
@@ -54,6 +405,17 @@
       "organizer": "Koderek / ŁOK",
       "image": "plakaty/koderek-boze-cialo.jpg",
       "source": "https://lok.art.pl/kalendarium_koderek/"
+    }
+  ],
+  "2026-06-02": [
+    {
+      "title": "🎞️ Przegląd filmów Luisa Buñuela: Widmo wolności",
+      "time": "19:00",
+      "place": "Kino Fenix Sala II, Łowicz",
+      "category": "DKF / Kino klasyczne",
+      "organizer": "DKF Bez Nazwy",
+      "image": "plakaty/widmo-wolnosci.jpg",
+      "source": "https://lok.systembiletowy.pl/"
     }
   ],
   "2026-06-06": [
