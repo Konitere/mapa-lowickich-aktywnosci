@@ -1,4 +1,27 @@
 {
+  "2026-05-09": [
+    {
+      "title": "🏃 Parkrun Łowicz #190",
+      "time": "09:00",
+      "place": "Park Błonie, Łowicz",
+      "category": "Biegi",
+      "organizer": "Parkrun Łowicz",
+      "image": "plakaty/parkrun-lowicz.jpg",
+      "source": "https://lowicz24.eu/artykul/parkrun-w-lowiczu-po-n1816336",
+      "notes": "Cotygodniowy bieg na 5 km organizowany w każdą sobotę."
+    }
+  ],
+  "2026-05-16": [
+    {
+      "title": "🏃 Parkrun Łowicz #191",
+      "time": "09:00",
+      "place": "Park Błonie, Łowicz",
+      "category": "Biegi",
+      "organizer": "Parkrun Łowicz",
+      "image": "plakaty/parkrun-lowicz.jpg",
+      "source": "https://lowicz24.eu/artykul/parkrun-w-lowiczu-po-n1816336"
+    }
+  ],
   "2026-05-17": [
     {
       "title": "🎼 Epoka Fogga – koncert Łódzkiej Orkiestry Retro",
@@ -8,6 +31,18 @@
       "organizer": "Łowicki Ośrodek Kultury",
       "image": "plakaty/epoka-fogga.jpg",
       "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-05-23": [
+    {
+      "title": "🚴 Rajd rowerowy PTTK – Wiosna 2026",
+      "time": "10:00",
+      "place": "Łowicz / okolice Bolimowskiego Parku Krajobrazowego",
+      "category": "Turystyka rowerowa",
+      "organizer": "PTTK Łowicz",
+      "image": "plakaty/pttk-rajd-rowerowy.jpg",
+      "source": "https://lowicz24.eu/artykul/powitanie-wiosny-n1796754",
+      "notes": "PTTK regularnie organizuje rodzinne rajdy rowerowe i piesze."
     }
   ],
   "2026-05-30": [
@@ -21,6 +56,17 @@
       "source": "https://lok.art.pl/kalendarium_koderek/"
     }
   ],
+  "2026-06-06": [
+    {
+      "title": "🏃 Parkrun Łowicz #194",
+      "time": "09:00",
+      "place": "Park Błonie, Łowicz",
+      "category": "Biegi",
+      "organizer": "Parkrun Łowicz",
+      "image": "plakaty/parkrun-lowicz.jpg",
+      "source": "https://lowicz24.eu/artykul/parkrun-w-lowiczu-po-n1816336"
+    }
+  ],
   "2026-06-10": [
     {
       "title": "🎤 Stand-up: Kowalski, Rejent, Zalewski – Trasa Powiatowa 2",
@@ -32,6 +78,18 @@
       "source": "https://www.kupbilecik.pl/obiekty/2409/%C5%81owicki%2BO%C5%9Brodek%2BKultury/"
     }
   ],
+  "2026-06-21": [
+    {
+      "title": "🏃 Sportowe Polesie 2026",
+      "time": "11:00",
+      "place": "Polesie, gm. Łyszkowice",
+      "category": "Biegi / piknik sportowy",
+      "organizer": "Lokalne stowarzyszenia i mieszkańcy Polesia",
+      "image": "plakaty/sportowe-polesie-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/polesie-znow-pobiegnie-n1804181",
+      "notes": "Biegi rodzinne, marsze, aktywności dla dzieci oraz rekreacja sportowa."
+    }
+  ],
   "2026-06-22": [
     {
       "title": "🎵 Koncert zespołu Koderek",
@@ -41,6 +99,18 @@
       "organizer": "Koderek",
       "image": "plakaty/koderek-rozdroze.jpg",
       "source": "https://lok.art.pl/kalendarium_koderek/"
+    }
+  ],
+  "2026-06-26": [
+    {
+      "title": "🛼 Night Skating Łowicz 2026 (termin tradycyjny – do potwierdzenia)",
+      "time": "20:00",
+      "place": "Start: Stary Rynek, Łowicz",
+      "category": "Rolki / rekreacja",
+      "organizer": "Lokalna społeczność rolkarska",
+      "image": "plakaty/night-skating-lowicz.jpg",
+      "source": "https://www.facebook.com/search/top?q=night%20skating%20%C5%82owicz",
+      "notes": "W poprzednich latach wydarzenie odbywało się pod koniec czerwca."
     }
   ],
   "2026-06-27": [
