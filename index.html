@@ -451,75 +451,94 @@
 
         list.forEach(event => {
 
-          let category =
-          event.category.toLowerCase();
+          let text =
+          (
+            event.category + " " +
+            event.title
+          ).toLowerCase();
 
           let iconKey = "inne";
 
-          if(category.includes("kino")){
+          if(
+            text.includes("bieg") ||
+            text.includes("maraton")
+          ){
+            iconKey = "bieg";
+          }
+
+          else if(
+            text.includes("rower") ||
+            text.includes("rajd")
+          ){
+            iconKey = "rower";
+          }
+
+          else if(
+            text.includes("kino")
+          ){
             iconKey = "kino";
           }
 
           else if(
-            category.includes("muzyka") ||
-            category.includes("koncert")
+            text.includes("muzyka") ||
+            text.includes("koncert")
           ){
             iconKey = "muzyka";
           }
 
           else if(
-            category.includes("sport")
+            text.includes("sport")
           ){
             iconKey = "sport";
           }
 
           else if(
-            category.includes("teatr")
+            text.includes("teatr")
           ){
             iconKey = "teatr";
           }
 
           else if(
-            category.includes("kabaret") ||
-            category.includes("stand")
+            text.includes("kabaret") ||
+            text.includes("stand")
           ){
             iconKey = "mikrofon";
           }
 
           else if(
-            category.includes("rodzin")
+            text.includes("rodzin")
           ){
             iconKey = "rodzina";
           }
 
           else if(
-            category.includes("dzieci")
+            text.includes("dzieci")
           ){
             iconKey = "dzieci";
           }
 
           else if(
-            category.includes("kultura")
+            text.includes("kultura")
           ){
             iconKey = "ksiazki";
           }
 
           else if(
-            category.includes("rozrywka")
+            text.includes("rozrywka")
           ){
             iconKey = "cyrk";
           }
 
           else if(
-            category.includes("folklor") ||
-            category.includes("impreza") ||
-            category.includes("tradycja")
+            text.includes("folklor") ||
+            text.includes("impreza") ||
+            text.includes("tradycja")
           ){
             iconKey = "wycinanka";
           }
 
           else if(
-            category.includes("media")
+            text.includes("media")
           ){
             iconKey = "tv";
           }
@@ -547,6 +566,14 @@
 
             case "sport":
               icon.textContent = "🏅";
+              break;
+
+            case "bieg":
+              icon.textContent = "🏃";
+              break;
+
+            case "rower":
+              icon.textContent = "🚴";
               break;
 
             case "teatr":
