@@ -296,4 +296,64 @@
       "source": "https://lok.art.pl/repertuar/"
     }
   ]
-}
+{
+  "2026-05-01": [
+    {"title": "🎬 Pucio (Animacja)", "time": "16:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/pucio.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Maryja. Matka Papieża", "time": "17:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/maryja.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Mumia: Film Lee Cronina", "time": "18:30", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/mumia.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-02": [
+    {"title": "🎬 Pucio (Animacja)", "time": "16:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/pucio.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Maryja. Matka Papieża", "time": "17:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/maryja.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Mumia: Film Lee Cronina", "time": "18:30", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/mumia.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-03": [
+    {"title": "🎬 Pucio (Animacja)", "time": "16:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/pucio.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Maryja. Matka Papieża", "time": "17:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/maryja.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Mumia: Film Lee Cronina", "time": "18:30", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/mumia.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-04": [
+    {"title": "🎬 Pucio (Animacja)", "time": "16:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/pucio.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Maryja. Matka Papieża", "time": "17:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/maryja.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Mumia: Film Lee Cronina", "time": "18:30", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/mumia.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-05": [
+    {"title": "🎬 Pucio (Animacja)", "time": "16:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/pucio.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Maryja. Matka Papieża", "time": "17:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/maryja.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Mumia: Film Lee Cronina", "time": "18:30", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/mumia.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-06": [
+    {"title": "🎬 Pucio (Animacja)", "time": "16:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/pucio.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Maryja. Matka Papieża", "time": "17:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/maryja.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Mumia: Film Lee Cronina", "time": "18:30", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/mumia.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-07": [
+    {"title": "🎬 Pucio (Animacja)", "time": "16:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/pucio.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Maryja. Matka Papieża", "time": "17:00", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/maryja.jpg", "source": "https://lok.art.pl/repertuar/"},
+    {"title": "🎬 Mumia: Film Lee Cronina", "time": "18:30", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/mumia.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-08": [
+    {"title": "🎬 Nowy Repertuar Tygodniowy", "time": "Do potwierdzenia", "place": "Kino Fenix", "category": "Kino", "organizer": "LOK", "image": "plakaty/kino.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-05-12": [
+    {"title": "🎥 DKF: Niewinni czarodzieje (1960)", "time": "18:00", "place": "Sala II LOK", "category": "Kino Klasyka", "organizer": "DKF", "image": "plakaty/niewinni.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-06-01": [
+    {"title": "🎈 Dzień Dziecka w Kinie Fenix", "time": "Do potwierdzenia", "place": "Kino Fenix", "category": "Dla dzieci", "organizer": "LOK", "image": "plakaty/dzieci.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-07-03": [
+    {"title": "🌙 Kino Letnie - Seans Inauguracyjny", "time": "21:30", "place": "Dziedziniec LOK", "category": "Kino Plenerowe", "organizer": "LOK", "image": "plakaty/kino_letnie.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-07-10": [
+    {"title": "🌙 Kino Letnie - Piątkowy wieczór filmowy", "time": "21:30", "place": "Dziedziniec LOK", "category": "Kino Plenerowe", "organizer": "LOK", "image": "plakaty/kino_letnie.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-07-17": [
+    {"title": "🌙 Kino Letnie - Piątkowy wieczór filmowy", "time": "21:15", "place": "Dziedziniec LOK", "category": "Kino Plenerowe", "organizer": "LOK", "image": "plakaty/kino_letnie.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-07-24": [
+    {"title": "🌙 Kino Letnie - Piątkowy wieczór filmowy", "time": "21:15", "place": "Dziedziniec LOK", "category": "Kino Plenerowe", "organizer": "LOK", "image": "plakaty/kino_letnie.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ],
+  "2026-07-31": [
+    {"title": "🌙 Kino Letnie - Pożegnanie Lipca", "time": "21:00", "place": "Dziedziniec LOK", "category": "Kino Plenerowe", "organizer": "LOK", "image": "plakaty/kino_letnie.jpg", "source": "https://lok.art.pl/repertuar/"}
+  ]
+}}
