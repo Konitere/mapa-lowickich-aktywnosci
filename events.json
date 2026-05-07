@@ -1,240 +1,89 @@
 {
-  "2026-05-01": [
+  "2026-05-17": [
     {
-      "title": "🎬 Pucio (Animacja)",
-      "time": "16:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/pucio.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Maryja. Matka Papieża",
-      "time": "17:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/maryja.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Mumia: Film Lee Cronina",
-      "time": "18:30",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/mumia.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    }
-  ],
-
-  "2026-05-02": [
-    {
-      "title": "🎬 Pucio (Animacja)",
-      "time": "16:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/pucio.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Maryja. Matka Papieża",
-      "time": "17:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/maryja.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Mumia: Film Lee Cronina",
-      "time": "18:30",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/mumia.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    }
-  ],
-
-  "2026-05-03": [
-    {
-      "title": "🎬 Pucio (Animacja)",
-      "time": "16:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/pucio.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Maryja. Matka Papieża",
-      "time": "17:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/maryja.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Mumia: Film Lee Cronina",
-      "time": "18:30",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/mumia.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    }
-  ],
-
-  "2026-05-04": [
-    {
-      "title": "🎬 Pucio (Animacja)",
-      "time": "16:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/pucio.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Maryja. Matka Papieża",
-      "time": "17:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/maryja.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Mumia: Film Lee Cronina",
-      "time": "18:30",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/mumia.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    }
-  ],
-
-  "2026-05-05": [
-    {
-      "title": "🎬 Pucio (Animacja)",
-      "time": "16:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/pucio.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Maryja. Matka Papieża",
-      "time": "17:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/maryja.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Mumia: Film Lee Cronina",
-      "time": "18:30",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/mumia.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    }
-  ],
-
-  "2026-05-06": [
-    {
-      "title": "🎪 Cyrk Fantazja - Nowe Widowisko 2026",
-      "time": "17:00",
-      "place": "Łowicz",
-      "category": "Rozrywka",
-      "organizer": "Cyrk Fantazja",
-      "image": "plakaty/cyrk-fantazja.jpg",
-      "source": "https://biletyna.pl/cyrk/Cyrk-Fantazja/program-2024/Lowicz"
-    },
-    {
-      "title": "🎬 Pucio (Animacja)",
-      "time": "16:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/pucio.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Maryja. Matka Papieża",
-      "time": "17:00",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/maryja.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Mumia: Film Lee Cronina",
-      "time": "18:30",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/mumia.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    }
-  ],
-
-  "2026-05-07": [
-    {
-      "title": "🎬 Pucio (Animacja)",
-      "time": "16:00",
-      "place": "Kino Fenix - Sala Główna",
-      "category": "Kino / Dla dzieci",
+      "title": "🎼 Epoka Fogga – koncert Łódzkiej Orkiestry Retro",
+      "time": "18:00",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Koncert",
       "organizer": "Łowicki Ośrodek Kultury",
-      "image": "plakaty/pucio.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Maryja. Matka Papieża",
-      "time": "17:00",
-      "place": "Kino Fenix - Sala Główna",
-      "category": "Kino / Dokument",
-      "organizer": "Łowicki Ośrodek Kultury",
-      "image": "plakaty/maryja.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    },
-    {
-      "title": "🎬 Mumia: Film Lee Cronina",
-      "time": "18:30",
-      "place": "Kino Fenix - Sala Główna",
-      "category": "Kino / Horror",
-      "organizer": "Łowicki Ośrodek Kultury",
-      "image": "plakaty/mumia.jpg",
-      "source": "https://lok.art.pl/repertuar/"
+      "image": "plakaty/epoka-fogga.jpg",
+      "source": "https://lok.art.pl/"
     }
   ],
-
-  "2026-05-08": [
+  "2026-05-30": [
     {
-      "title": "📚 XXIII Ogólnopolski Tydzień Bibliotek",
-      "time": "08–15 maja",
-      "place": "Miejska Biblioteka im. A.K. Cebrowskiego",
-      "category": "Kultura",
-      "organizer": "Biblioteka Miejska / Powiatowa",
-      "image": "plakaty/tydzien-bibliotek.jpg",
-      "source": "https://powiatlowicki.pl"
-    },
-    {
-      "title": "🎬 Nowy Repertuar Tygodniowy",
+      "title": "🎶 Koncert zespołu Koderek podczas prezentacji ludowych",
       "time": "Do potwierdzenia",
-      "place": "Kino Fenix",
-      "category": "Kino",
-      "organizer": "LOK",
-      "image": "plakaty/kino.jpg",
+      "place": "Muszla koncertowa, Łowicz",
+      "category": "Koncert",
+      "organizer": "Koderek / ŁOK",
+      "image": "plakaty/koderek-boze-cialo.jpg",
+      "source": "https://lok.art.pl/kalendarium_koderek/"
+    }
+  ],
+  "2026-06-10": [
+    {
+      "title": "🎤 Stand-up: Kowalski, Rejent, Zalewski – Trasa Powiatowa 2",
+      "time": "19:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Stand-up",
+      "organizer": "KupBilecik / ŁOK",
+      "image": "plakaty/trasa-powiatowa-2.jpg",
+      "source": "https://www.kupbilecik.pl/obiekty/2409/%C5%81owicki%2BO%C5%9Brodek%2BKultury/"
+    }
+  ],
+  "2026-06-22": [
+    {
+      "title": "🎵 Koncert zespołu Koderek",
+      "time": "18:00",
+      "place": "Hotel Rozdroże, Nieborów",
+      "category": "Koncert",
+      "organizer": "Koderek",
+      "image": "plakaty/koderek-rozdroze.jpg",
+      "source": "https://lok.art.pl/kalendarium_koderek/"
+    }
+  ],
+  "2026-06-27": [
+    {
+      "title": "🛼 Night Skating Łowicz 2026",
+      "time": "20:00",
+      "place": "Łowicz",
+      "category": "Wydarzenie cykliczne",
+      "organizer": "Organizatorzy lokalni",
+      "image": "plakaty/night-skating-lowicz.jpg",
+      "source": "https://www.facebook.com/LaczyNasLowicz"
+    }
+  ],
+  "2026-07-07": [
+    {
+      "title": "🎺 Koncert rocznicowy – pierwsza wzmianka o Łowiczu",
+      "time": "18:00",
+      "place": "Stary Rynek, Łowicz",
+      "category": "Koncert",
+      "organizer": "Koderek / Miasto Łowicz",
+      "image": "plakaty/rocznica-lowicza.jpg",
+      "source": "https://lok.art.pl/kalendarium_koderek/"
+    }
+  ],
+  "2026-07-09": [
+    {
+      "title": "😂 Mama Na Obrotach – Niezły Bajzel",
+      "time": "19:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Kabaret",
+      "organizer": "KupBilecik / ŁOK",
+      "image": "plakaty/mama-na-obrotach.jpg",
+      "source": "https://www.kupbilecik.pl/imprezy/188234/%C5%81owicz/Kabaret%2BParanienormalni/"
+    }
+  ],
+  "2026-07-15": [
+    {
+      "title": "🎭 Letni spektakl teatralny ŁOK",
+      "time": "Do potwierdzenia",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Teatr",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/letni-spektakl-lok.jpg",
       "source": "https://lok.art.pl/repertuar/"
     }
   ]
