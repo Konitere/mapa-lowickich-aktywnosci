@@ -438,10 +438,20 @@
       "time": "16:00",
       "place": "Biblioteka Miejska",
       "category": "Spotkanie",
-      "organizer": "Biblioteka Miejskaa",
+      "organizer": "Biblioteka Miejska",
       "image": "plakaty/klubmil.jpg",
       "source": "https://www.facebook.com/MiejskaBibliotekaIm.A.K.CebrowskiegowLowiczu/y"
+    },
+   {
+      "title": "Spotkanie z Michałem Grzejszczakiem",
+      "time": "18:00",
+      "place": "Kino Fenix - Pracownia",
+      "category": "Spotkanie",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/michalgrze.jpg",
+      "source": "https://lok.art.pl/wp-content/uploads/2026/04/podrzeczna20-grzeju-08-1.jpg"
     }
+   
   ],
   "2026-05-23": [
      {
