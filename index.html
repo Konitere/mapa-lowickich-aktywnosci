@@ -17,24 +17,23 @@
 
     /* ===== HEADER ===== */
 
-header{
-  width:100%;
-  background:#fff;
-  border-bottom:4px solid #ff7a00;
+    header{
+      width:100%;
+      background:#fff;
+      border-bottom:4px solid #ff7a00;
+      display:flex;
+      justify-content:center;
+    }
 
-  display:flex;
-  justify-content:center;
-}
+    .header-inner{
+      width:100%;
+      max-width:1200px;
+    }
 
-.header-inner{
-  width:100%;
-  max-width:1200px;
-}
-
-.header-inner img{
-  width:100%;
-  display:block;
-}
+    .header-inner img{
+      width:100%;
+      display:block;
+    }
 
     .main{
       display:grid;
@@ -188,6 +187,13 @@ header{
       border-radius:10px;
       margin-bottom:10px;
       background:white;
+    }
+
+    .event-card h4{
+      margin-top:0;
+      margin-bottom:10px;
+      color:#1d2b4f;
+      font-size:18px;
     }
 
     .event-card p{
@@ -690,6 +696,12 @@ header{
 
     events[dateStr].forEach(ev=>{
 
+      const organizer =
+        ev.organizer ||
+        (ev.category === "Kino"
+          ? "Łowicki Ośrodek Kultury"
+          : "");
+
       let card =
       document.createElement("div");
 
@@ -697,10 +709,14 @@ header{
 
       card.innerHTML = `
 
-        <img
-          src="${ev.image}"
-          alt="${ev.title}"
-        >
+        ${ev.image ? `
+          <img
+            src="${ev.image}"
+            alt="${ev.title}"
+          >
+        ` : ""}
+
+        <h4>${ev.title}</h4>
 
         <p>
           <strong>🕒 Godzina:</strong>
@@ -712,31 +728,35 @@ header{
           ${ev.place}
         </p>
 
-        <div class="organizer-box">
+        ${organizer ? `
+          <div class="organizer-box">
 
-          <div class="organizer-label">
-            Organizator
+            <div class="organizer-label">
+              Organizator
+            </div>
+
+            <div class="organizer-name">
+              ${organizer}
+            </div>
+
           </div>
-
-          <div class="organizer-name">
-            ${ev.organizer}
-          </div>
-
-        </div>
+        ` : ""}
 
         <span class="tag">
           ${ev.category}
         </span>
 
-        <br>
+        ${ev.source ? `
+          <br>
 
-        <a
-          href="${ev.source}"
-          target="_blank"
-          class="event-link"
-        >
-          🔗 Przejdź do wydarzenia
-        </a>
+          <a
+            href="${ev.source}"
+            target="_blank"
+            class="event-link"
+          >
+            🔗 Przejdź do wydarzenia
+          </a>
+        ` : ""}
 
       `;
 
