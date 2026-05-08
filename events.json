@@ -5,6 +5,14 @@
   },
   "2026-05-07": [
     {
+      "title": "Eliminacje miejskie konkursu Świerszczykowe Wierszyki 2026",
+          "place": "Biblioteka Miejska",
+      "category": "Inne",
+      "organizer": "Biblioteka Miejska",
+      "image": "plakaty/swierwier.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/w-maju-swietujemy-xxiii-ogolnopolski-tydzien-bibliotek/"
+    },
+    {
       "title": "🎬 Maryja. Matka Papieża",
       "time": "17:00",
       "place": "Kino Fenix Sala I, Łowicz",
@@ -80,6 +88,16 @@
     }
   ],
   "2026-05-09": [
+    
+    {
+      "title": "Planszówki Łowickie",
+      "time": "09:00",
+      "place": "Biblioteka Miejska",
+      "category": "Gry",
+      "organizer": "Planszówki Łowickie",
+      "image": "plakaty/planszowki-lowickie.jpg",
+      "source": "https://www.facebook.com/p/Plansz%C3%B3wki-%C5%81owickie-61557940280549/",
+    },
     {
       "title": "🏃 Parkrun Łowicz #190",
       "time": "09:00",
@@ -269,6 +287,15 @@
     }
   ],
    "2026-05-13": [
+     {
+      "title": "Splot Kobiet",
+      "time": "16:00",
+      "place": "Miejska Biblioteka w Łowiczu – Aleje H. Sienkiewicza 62",
+      "category": "Inne",
+      "organizer": "Miejska Biblioteka",
+      "image": "plakaty/splot.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/splot-kobiet-3/"
+    },
     {
       "title": "🎬 Pucio",
       "time": "16:00",
