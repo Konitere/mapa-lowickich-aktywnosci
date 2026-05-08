@@ -15,16 +15,26 @@
       color:#222;
     }
 
-    header{
-      width:100%;
-      background:#fff;
-      border-bottom:4px solid #ff7a00;
-    }
+    /* ===== HEADER ===== */
 
-    header img{
-      width:100%;
-      display:block;
-    }
+header{
+  width:100%;
+  background:#fff;
+  border-bottom:4px solid #ff7a00;
+
+  display:flex;
+  justify-content:center;
+}
+
+.header-inner{
+  width:100%;
+  max-width:1200px;
+}
+
+.header-inner img{
+  width:100%;
+  display:block;
+}
 
     .main{
       display:grid;
@@ -258,10 +268,14 @@
 
 <header>
 
-  <img
-    src="naglowek-lowicz.png"
-    alt="Mapa Łowickich Aktywności"
-  >
+  <div class="header-inner">
+
+    <img
+      src="naglowek-lowicz.png"
+      alt="Mapa Łowickich Aktywności"
+    >
+
+  </div>
 
 </header>
 
