@@ -355,14 +355,14 @@
       "source": "https://muzeumlowicz.pl/"
     },
     {
-      "title": "🏃 Parkrun Łowicz #191",
-      "time": "09:00",
-      "place": "Park Błonie, Łowicz",
-      "category": "Biegi"
-      "organizer": "Parkrun Łowicz",
-      "image": "plakaty/parkrun-lowicz.jpg",
-      "source": "https://lowicz24.eu/artykul/parkrun-w-lowiczu-po-n1816336"
-    }
+  "title": "🏃 Parkrun Łowicz #191",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Biegi",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun-lowicz.jpg",
+  "source": "https://lowicz24.eu/artykul/parkrun-w-lowiczu-po-n1816336"
+}
   ],
   "2026-05-17": [
        {
