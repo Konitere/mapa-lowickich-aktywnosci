@@ -565,35 +565,14 @@
     {
       "title": "🎪 Dni Łowicza 2026 - strefy rodzinne i atrakcje miejskie",
       "time": "12:00",
-      "place": "Łowicz - centrum miasta",
+      "place": "Lasek miejski",
       "category": "Piknik miejski",
-      "organizer": "Miasto Łowicz",
+      "organizer": "Łowickie.pl",
       "image": "plakaty/dni-lowicza-atrakcje.jpg",
       "source": "https://www.facebook.com/LowickiePl/photos/czekali%C5%9Bcie-no-to-oficjalnie-ruszamy-z-przygotowaniami-do-wyj%C4%85tkowego-wydarzenia/1422659929891122/"
     }
   ],
-  "2026-07-05": [
-    {
-      "title": "🧒 Rodzinna niedziela podczas Dni Łowicza",
-      "time": "11:00",
-      "place": "Łowicz - Stary Rynek",
-      "category": "Piknik rodzinny",
-      "organizer": "Miasto Łowicz",
-      "image": "plakaty/dni-lowicza-rodzinne.jpg",
-      "source": "https://www.lowicz.eu/Oj_Bedzie_sie_dzialo_%2C32%2C6674"
-    }
-  ],
-  "2026-07-07": [
-    {
-      "title": "🎺 Koncert rocznicowy – pierwsza wzmianka o Łowiczu",
-      "time": "18:00",
-      "place": "Stary Rynek, Łowicz",
-      "category": "Koncert",
-      "organizer": "Koderek / Miasto Łowicz",
-      "image": "plakaty/rocznica-lowicza.jpg",
-      "source": "https://lok.art.pl/kalendarium_koderek/"
-    }
-  ],
+
   "2026-07-09": [
     {
       "title": "😂 Mama Na Obrotach – Niezły Bajzel",
@@ -602,62 +581,21 @@
       "category": "Kabaret",
       "organizer": "KupBilecik / ŁOK",
       "image": "plakaty/mama-na-obrotach.jpg",
-      "source": "https://www.kupbilecik.pl/imprezy/188234/%C5%81owicz/Kabaret%2BParanienormalni/"
-    }
-  ],
-"2026-07-10": [
-    {
-      "title": "🍓 Święto Truskawki w powiecie łowickim",
-      "time": "14:00",
-      "place": "powiat łowicki",
-      "category": "Festyn",
-      "organizer": "Gmina regionalna",
-      "image": "plakaty/swieto-truskawki.jpg",
-      "source": "https://lowicz24.eu/"
-    }
-  ],
-  "2026-07-11": [
-    {
-      "title": "🧩 Wieczór planszówek w Łowiczu",
-      "time": "17:00",
-      "place": "Łowicz",
-      "category": "Gry planszowe",
-      "organizer": "ŁOWOK",
-      "image": "plakaty/planszowki-lowicz.jpg",
-      "source": "https://www.facebook.com/LowickiePl/"
-    }
-  ],
-  "2026-07-15": [
-    {
-      "title": "🎭 Letni spektakl teatralny ŁOK",
-      "time": "Do potwierdzenia",
-      "place": "Kino Fenix, Łowicz",
-      "category": "Teatr",
-      "organizer": "Łowicki Ośrodek Kultury",
-      "image": "plakaty/letni-spektakl-lok.jpg",
-      "source": "https://lok.art.pl/repertuar/"
-    }
-  ],
-"2026-07-18": [
-    {
-      "title": "👗 Wielka wymiana szaf - Szafa Party Łowicz",
-      "time": "12:00",
-      "place": "Łowicz",
-      "category": "Spotkanie społeczne",
-      "organizer": "Lokalna społeczność",
-      "image": "plakaty/szafa-party-lowicz.jpg",
-      "source": "https://www.facebook.com/LowickiePl/"
+      "source": "https://www.kupbilecik.pl/imprezy/187692/%C5%81owicz/Stand-up+Mama+Na+Obrotach/"
     }
   ],
   "2026-07-25": [
     {
-      "title": "🧺 Piknik rodzinny na osiedlu Korabka",
-      "time": "15:00",
-      "place": "Łowicz - Korabka",
-      "category": "Piknik rodzinny",
-      "organizer": "Zarząd Osiedla Korabka",
-      "image": "plakaty/piknik-korabka.jpg",
-      "source": "https://www.facebook.com/LowickiePl/"
+      "title": "Koncert - Mamma Mia",
+      "time": "19:00",
+      "place": "Muszla Koncertowa, Park Błonia",
+      "category": "Koncert",
+      "organizer": "KupBilecik / ŁOK",
+      "image": "plakaty/mamma.jpg",
+      "source": "https://www.kupbilecik.pl/imprezy/203237/%C5%81owicz/MAMMA+MIA/"
     }
   ]
+
+
+ 
 }
