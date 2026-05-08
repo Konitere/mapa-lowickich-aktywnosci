@@ -310,7 +310,7 @@
       "time": "Do potwierdzenia",
       "place": "Muszla koncertowa, Łowicz",
       "category": "Koncert"
-    }
+    },
 {
       "title": "🎈 Miejski Dzień Dziecka 2026",
       "time": "12:00",
@@ -385,14 +385,6 @@
       "source": "https://lowiczanin.info/kultura/krol-latino-przyjedzie-do-lowicza-znamy-gwiazdy-najwiekszych-imprez-2026/isulXQ4BGkju6yt0Hg4s"
     }
   ],
-  "2026-06-21": [
-    {
-      "title": "🏃 Sportowe Polesie 2026",
-      "time": "11:00",
-      "place": "Polesie, gm. Łyszkowice",
-      "category": "Biegi / piknik sportowy"
-    }
-  ],
 "2026-06-20": [
     {
       "title": "🚚 VIII Łowicki Trucker King - konkursy, pokazy i atrakcje rodzinne",
@@ -413,8 +405,14 @@
       "source": "https://lowiczanin.info/kultura/krol-latino-przyjedzie-do-lowicza-znamy-gwiazdy-najwiekszych-imprez-2026/isulXQ4BGkju6yt0Hg4s"
     }
   ],
-"2026-06-21": [
+  "2026-06-21": [
     {
+      "title": "🏃 Sportowe Polesie 2026",
+      "time": "11:00",
+      "place": "Polesie, gm. Łyszkowice",
+      "category": "Biegi / piknik sportowy"
+    },
+   {
       "title": "🏆 Finał VIII Łowickiego Trucker King",
       "time": "11:00",
       "place": "Łowicz - ul. Ekonomiczna",
@@ -424,6 +422,8 @@
       "source": "https://lowiczanin.info/kultura/krol-latino-przyjedzie-do-lowicza-znamy-gwiazdy-najwiekszych-imprez-2026/isulXQ4BGkju6yt0Hg4s"
     }
   ],
+
+
 
   "2026-06-22": [
     {
