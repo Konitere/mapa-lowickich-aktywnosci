@@ -658,6 +658,87 @@
     }
   ],
 
+  "2026-06-23": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Toy Story 5",
+          "image": "plakaty/toy-story-5.jpg",
+          "times": ["15:15", "17:00"]
+        },
+        {
+          "title": "Ojczyzna",
+          "image": "plakaty/ojczyzna.jpg",
+          "times": ["18:30"]
+        },
+        {
+          "title": "Robin Hood: Koniec legendy",
+          "image": "plakaty/robin-hood-koniec-legendy.jpg",
+          "times": ["19:00"]
+        }
+      ]
+    }
+  ],
+  "2026-06-24": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Toy Story 5",
+          "image": "plakaty/toy-story-5.jpg",
+          "times": ["15:15", "17:00"]
+        },
+        {
+          "title": "Ojczyzna",
+          "image": "plakaty/ojczyzna.jpg",
+          "times": ["18:30"]
+        },
+        {
+          "title": "Robin Hood: Koniec legendy",
+          "image": "plakaty/robin-hood-koniec-legendy.jpg",
+          "times": ["19:00"]
+        }
+      ]
+    }
+  ],
+  "2026-06-25": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Toy Story 5",
+          "image": "plakaty/toy-story-5.jpg",
+          "times": ["15:15", "17:00"]
+        },
+        {
+          "title": "Ojczyzna",
+          "image": "plakaty/ojczyzna.jpg",
+          "times": ["18:30"]
+        },
+        {
+          "title": "Robin Hood: Koniec legendy",
+          "image": "plakaty/robin-hood-koniec-legendy.jpg",
+          "times": ["19:00"]
+        }
+      ]
+    }
+  ],
 
 
 
