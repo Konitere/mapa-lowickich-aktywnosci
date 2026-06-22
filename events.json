@@ -575,9 +575,8 @@
       "organizer": "KupBilecik / ŁOK",
       "image": "plakaty/trasa-powiatowa-2.jpg",
       "source": "https://www.kupbilecik.pl/obiekty/2409/%C5%81owicki%2BO%C5%9Brodek%2BKultury/"
-    }
-  ],
-"2026-06-19": [
+    },
+
     {
       "title": "🚛 VIII Łowicki Trucker King - otwarcie zlotu",
       "time": "15:00",
@@ -588,17 +587,31 @@
       "source": "https://lowiczanin.info/kultura/krol-latino-przyjedzie-do-lowicza-znamy-gwiazdy-najwiekszych-imprez-2026/isulXQ4BGkju6yt0Hg4s"
     },
 
-  {
-    "title": "🎬 Repertuar Kina Fenix",
-    "time": "19–25 czerwca",
-    "place": "Kino Fenix, Łowicz",
-    "category": "Kino",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/repertuar-kina-fenix.jpg",
-    "source": "https://lok.art.pl/repertuar/",
-    "notes": "Aktualny repertuar tygodnia. Kliknij źródło, aby sprawdzić godziny wszystkich seansów."
-  }
-],
+{
+  "title": "🎬 Repertuar Kina Fenix",
+  "type": "cinema",
+  "place": "Kino Fenix, Łowicz",
+  "category": "Kino",
+  "organizer": "Łowicki Ośrodek Kultury",
+  "source": "https://lok.art.pl/repertuar/",
+  "movies": [
+    {
+      "title": "Pucio",
+      "image": "plakaty/pucio.jpg",
+      "times": ["16:00"]
+    },
+    {
+      "title": "Michael",
+      "image": "plakaty/michael.jpg",
+      "times": ["19:00"]
+    },
+    {
+      "title": "Kopnięci w czasie",
+      "image": "plakaty/kopnieci-w-czasie.jpg",
+      "times": ["17:00"]
+    }
+  ],
+
 "2026-06-20": [
     {
       "title": "🚚 VIII Łowicki Trucker King - konkursy, pokazy i atrakcje rodzinne",
