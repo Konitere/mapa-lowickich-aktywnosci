@@ -696,67 +696,63 @@
 
     events[dateStr].forEach(ev=>{
 
-      const organizer =
-        ev.organizer ||
-        (ev.category === "Kino"
-          ? "Łowicki Ośrodek Kultury"
-          : "");
+  if(ev.type === "cinema"){
 
-      let card =
-      document.createElement("div");
+    let card = document.createElement("div");
 
-      card.classList.add("event-card");
+    card.classList.add("event-card");
 
-      card.innerHTML = `
+    let moviesHtml = "";
 
-        ${ev.image ? `
+    ev.movies.forEach(movie => {
+
+      moviesHtml += `
+        <div style="
+          display:flex;
+          gap:10px;
+          margin-bottom:15px;
+          align-items:flex-start;
+        ">
           <img
-            src="${ev.image}"
-            alt="${ev.title}"
+            src="${movie.image}"
+            style="
+              width:90px;
+              border-radius:8px;
+            "
           >
-        ` : ""}
 
-        <h4>${ev.title}</h4>
-
-        <p>
-          <strong>🕒 Godzina:</strong>
-          ${ev.time}
-        </p>
-
-        <p>
-          <strong>📍 Miejsce:</strong>
-          ${ev.place}
-        </p>
-
-        ${organizer ? `
-          <div class="organizer-box">
-
-            <div class="organizer-label">
-              Organizator
-            </div>
-
-            <div class="organizer-name">
-              ${organizer}
-            </div>
-
+          <div>
+            <strong>${movie.title}</strong><br>
+            🎟️ ${movie.times.join(", ")}
           </div>
-        ` : ""}
+        </div>
+      `;
 
-        <span class="tag">
-          ${ev.category}
-        </span>
+    });
 
-        ${ev.source ? `
-          <br>
+    card.innerHTML = `
+      <h4>${ev.title}</h4>
 
-          <a
-            href="${ev.source}"
-            target="_blank"
-            class="event-link"
-          >
-            🔗 Przejdź do wydarzenia
-          </a>
-        ` : ""}
+      <p>
+        <strong>📍</strong>
+        ${ev.place}
+      </p>
+
+      ${moviesHtml}
+
+      <a
+        href="${ev.source}"
+        target="_blank"
+        class="event-link"
+      >
+        🔗 Pełny repertuar
+      </a>
+    `;
+
+    eventsList.appendChild(card);
+
+    return;
+  }
 
       `;
 
