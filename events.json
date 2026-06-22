@@ -629,33 +629,34 @@
       "source": "https://lowiczanin.info/kultura/krol-latino-przyjedzie-do-lowicza-znamy-gwiazdy-najwiekszych-imprez-2026/isulXQ4BGkju6yt0Hg4s"
     }
   ],
-    "2026-06-22": [
-{
-  "title": "🎬 Repertuar Kina Fenix",
-  "type": "cinema",
-  "place": "Kino Fenix, Łowicz",
-  "category": "Kino",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "source": "https://lok.art.pl/repertuar/",
-  "movies": [
+  {
+  "2026-06-22": [
     {
-      "title": "Pucio",
-      "image": "plakaty/pucio.jpg",
-      "times": ["16:00"]
-    },
-    {
-      "title": "Michael",
-      "image": "plakaty/michael.jpg",
-      "times": ["19:00"]
-    },
-    {
-      "title": "Kopnięci w czasie",
-      "image": "plakaty/kopnieci-w-czasie.jpg",
-      "times": ["17:00"]
-     }
-  ]
-}
-],
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Toy Story 5",
+          "image": "plakaty/toy-story-5.jpg",
+          "times": ["15:15", "17:00"]
+        },
+        {
+          "title": "Ojczyzna",
+          "image": "plakaty/ojczyzna.jpg",
+          "times": ["18:30"]
+        },
+        {
+          "title": "Robin Hood: Koniec legendy",
+          "image": "plakaty/robin-hood-koniec-legendy.jpg",
+          "times": ["19:00"]
+        }
+      ]
+    }
+  ],
 
 
 
