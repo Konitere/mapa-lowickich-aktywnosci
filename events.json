@@ -609,6 +609,16 @@
       "image": "plakaty/sportowe-polesie-2026.jpg",
       "source": "https://lowicz24.eu/artykul/polesie-znow-pobiegnie-n1804181"
     },
+
+    {
+      "title": "🔥 Najkrótsza Noc Roku po Łowicku - Sobótki",
+      "time": "",
+      "place": "Skansen w Maurzycach",
+      "category": "Piknik rodzinny",
+      "organizer": "Muzeum w Łowiczu",
+      "image": "plakaty/sobotki-maurzyce.jpg",
+      "source": "https://lowicz24.eu/wydarzenia-imprezy"
+    },
    {
       "title": "🏆 Finał VIII Łowickiego Trucker King",
       "time": "11:00",
@@ -669,7 +679,17 @@
     }
   ],
  
-
+"2026-07-05": [
+    {
+      "title": "💪 Runmageddon Lite Łowicz 2026",
+      "time": "",
+      "place": "Park Błonie, Łowicz",
+      "category": "Bieg z przeszkodami",
+      "organizer": "Runmageddon / OSiR Łowicz",
+      "image": "",
+      "source": "https://osir.lowicz.pl/"
+    }
+  ],
   "2026-07-09": [
     {
       "title": "😂 Mama Na Obrotach – Niezły Bajzel",
