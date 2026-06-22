@@ -673,94 +673,156 @@
 
   }
 
-  function showEvents(dateStr){
+function showEvents(dateStr){
 
-    selectedDateTitle.textContent =
-    "📅 " + dateStr;
+  selectedDateTitle.textContent =
+  "📅 " + dateStr;
 
-    eventsList.innerHTML = "";
+  eventsList.innerHTML = "";
 
-    if(
-
-      !events[dateStr] ||
-      events[dateStr].length===0
-
-    ){
-
-      eventsList.innerHTML =
-      "<p>Brak wydarzeń tego dnia.</p>";
-
-      return;
-
-    }
-
-    events[dateStr].forEach(ev=>{
-
-  if(ev.type === "cinema"){
-
-    let card = document.createElement("div");
-
-    card.classList.add("event-card");
-
-    let moviesHtml = "";
-
-    ev.movies.forEach(movie => {
-
-      moviesHtml += `
-        <div style="
-          display:flex;
-          gap:10px;
-          margin-bottom:15px;
-          align-items:flex-start;
-        ">
-          <img
-            src="${movie.image}"
-            style="
-              width:90px;
-              border-radius:8px;
-            "
-          >
-
-          <div>
-            <strong>${movie.title}</strong><br>
-            🎟️ ${movie.times.join(", ")}
-          </div>
-        </div>
-      `;
-
-    });
-
-    card.innerHTML = `
-      <h4>${ev.title}</h4>
-
-      <p>
-        <strong>📍</strong>
-        ${ev.place}
-      </p>
-
-      ${moviesHtml}
-
-      <a
-        href="${ev.source}"
-        target="_blank"
-        class="event-link"
-      >
-        🔗 Pełny repertuar
-      </a>
-    `;
-
-    eventsList.appendChild(card);
-
+  if(
+    !events[dateStr] ||
+    events[dateStr].length === 0
+  ){
+    eventsList.innerHTML =
+    "<p>Brak wydarzeń tego dnia.</p>";
     return;
   }
 
+  events[dateStr].forEach(ev=>{
+
+    if(ev.type === "cinema"){
+
+      let card =
+      document.createElement("div");
+
+      card.classList.add("event-card");
+
+      let moviesHtml = "";
+
+      if(ev.movies){
+
+        ev.movies.forEach(movie=>{
+
+          moviesHtml += `
+            <div style="
+              display:flex;
+              gap:10px;
+              margin-bottom:15px;
+              align-items:flex-start;
+            ">
+              <img
+                src="${movie.image}"
+                style="
+                  width:90px;
+                  border-radius:8px;
+                "
+              >
+
+              <div>
+                <strong>${movie.title}</strong><br>
+                🎟️ ${movie.times.join(", ")}
+              </div>
+            </div>
+          `;
+
+        });
+
+      }
+
+      card.innerHTML = `
+        <h4>${ev.title}</h4>
+
+        <p>
+          <strong>📍 Miejsce:</strong>
+          ${ev.place}
+        </p>
+
+        ${moviesHtml}
+
+        <a
+          href="${ev.source}"
+          target="_blank"
+          class="event-link"
+        >
+          🔗 Pełny repertuar
+        </a>
       `;
 
       eventsList.appendChild(card);
 
-    });
+      return;
+    }
 
-  }
+    const organizer =
+      ev.organizer ||
+      (ev.category === "Kino"
+        ? "Łowicki Ośrodek Kultury"
+        : "");
+
+    let card =
+    document.createElement("div");
+
+    card.classList.add("event-card");
+
+    card.innerHTML = `
+
+      ${ev.image ? `
+        <img
+          src="${ev.image}"
+          alt="${ev.title}"
+        >
+      ` : ""}
+
+      <h4>${ev.title}</h4>
+
+      <p>
+        <strong>🕒 Godzina:</strong>
+        ${ev.time || "-"}
+      </p>
+
+      <p>
+        <strong>📍 Miejsce:</strong>
+        ${ev.place || "-"}
+      </p>
+
+      ${organizer ? `
+        <div class="organizer-box">
+
+          <div class="organizer-label">
+            Organizator
+          </div>
+
+          <div class="organizer-name">
+            ${organizer}
+          </div>
+
+        </div>
+      ` : ""}
+
+      <span class="tag">
+        ${ev.category || ""}
+      </span>
+
+      ${ev.source ? `
+        <br>
+
+        <a
+          href="${ev.source}"
+          target="_blank"
+          class="event-link"
+        >
+          🔗 Przejdź do wydarzenia
+        </a>
+      ` : ""}
+
+    `;
+
+    eventsList.appendChild(card);
+
+  });
+
+}
 
   function prevMonth(){
 
