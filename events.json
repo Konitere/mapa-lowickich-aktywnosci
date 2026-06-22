@@ -480,15 +480,15 @@
       "source": "https://lowiczanin.info/kultura/krol-latino-przyjedzie-do-lowicza-znamy-gwiazdy-najwiekszych-imprez-2026/isulXQ4BGkju6yt0Hg4s"
     },
 
-    {
-      "title": "🎵 STREET-CREDIT – otwarcie Dni Łowicza 2026",
-      "time": "Do potwierdzenia",
-      "place": "Dziedziniec Łowickiego Ośrodka Kultury",
-      "category": "Koncert",
-      "organizer": "Łowicki Ośrodek Kultury",
-      "image": "plakaty/street-credit.jpg",
-      "source": "https://lok.art.pl/"
-    }
+   {
+  "title": "🎤 Street-Credit Volume.01 – Mini Rap Festival",
+  "time": "18:30",
+  "place": "Dziedziniec Łowickiego Ośrodka Kultury, Łowicz",
+  "category": "Koncert",
+  "organizer": "Łowicki Ośrodek Kultury",
+  "image": "plakaty/street-credit-volume01.jpg",
+  "source": "https://lok.art.pl/street-credit-na-dziedzińcu-lok-3-07-pt/"
+}
   ],
  
 "2026-07-05": [
@@ -512,6 +512,17 @@
   "notes": "Charytatywny turniej piłkarski połączony ze zbiórką środków dla Kubusia i Adasia. W programie mecze, atrakcje dla rodzin, licytacje oraz strefa gastronomiczna."
 }
   ],
+    "2026-07-07": [
+  {
+  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+  "time": "19:30",
+  "place": "Bazylika Katedralna, Łowicz",
+  "category": "Koncert",
+  "organizer": "Łowicki Ośrodek Kultury",
+  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+}
+      ],
   "2026-07-09": [
     {
       "title": "😂 Mama Na Obrotach – Niezły Bajzel",
@@ -545,6 +556,17 @@
   "source": "https://lowicz24.eu/artykul/piata-edycja-zatorze-n1831156"
 }
 ],
+  "2026-07-21": [
+  {
+  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+  "time": "19:30",
+  "place": "Bazylika Katedralna, Łowicz",
+  "category": "Koncert",
+  "organizer": "Łowicki Ośrodek Kultury",
+  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+}
+      ],
   "2026-07-25": [
     {
       "title": "Koncert - Mamma Mia",
@@ -555,7 +577,40 @@
       "image": "plakaty/mamma.jpg",
       "source": "https://www.kupbilecik.pl/imprezy/203237/%C5%81owicz/MAMMA+MIA/"
     }
-  ]
+  ],
+  "2026-08-04": [
+  {
+  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+  "time": "19:30",
+  "place": "Bazylika Katedralna, Łowicz",
+  "category": "Koncert",
+  "organizer": "Łowicki Ośrodek Kultury",
+  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+}
+      ],
+  "2026-08-18": [
+  {
+  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+  "time": "19:30",
+  "place": "Bazylika Katedralna, Łowicz",
+  "category": "Koncert",
+  "organizer": "Łowicki Ośrodek Kultury",
+  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+}
+      ],
+  "2026-08-25": [
+  {
+  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+  "time": "19:30",
+  "place": "Bazylika Katedralna, Łowicz",
+  "category": "Koncert",
+  "organizer": "Łowicki Ośrodek Kultury",
+  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+}
+      ]
 
 
  
