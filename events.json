@@ -457,7 +457,17 @@
       "organizer": "Łowicki Ośrodek Kultury",
       "image": "plakaty/rock-and-low-3.jpg",
       "source": "https://lok.art.pl/"
-    }
+    },
+    {
+  "title": "🛶 Rodzinny Spływ Kajakowy „Tata i Ja”",
+  "time": "09:00",
+  "place": "Zbiórka: parking przy Restauracji Szkiełka, Łowicz",
+  "category": "Turystyka i rekreacja",
+  "organizer": "Klub Turystyki Kajakowej Tratwa / PTTK Łowicz",
+  "image": "plakaty/splyw-kajakowy-tata-i-ja.jpg",
+  "source": "https://lowicz24.eu/artykul/rodzinny-splyw-kajakowy-n1828598",
+
+}
   ],
 "2026-07-03": [
     {
@@ -490,7 +500,17 @@
       "organizer": "Runmageddon / OSiR Łowicz",
       "image": "",
       "source": "https://osir.lowicz.pl/"
-    }
+    },
+  {
+  "title": "⚽ Charytatywny Turniej Piłkarski dla Kubusia i Adasia",
+  "time": "10:00",
+  "place": "Boisko LKS Fenix Boczki Chełmońskie",
+  "category": "Turniej charytatywny",
+  "organizer": "LKS Fenix Boczki Chełmońskie",
+  "image": "plakaty/turniej-dla-kubusia-i-adasia.jpg",
+  "source": "https://lowicz24.eu/artykul/zagraja-dla-kubusia-n1828173",
+  "notes": "Charytatywny turniej piłkarski połączony ze zbiórką środków dla Kubusia i Adasia. W programie mecze, atrakcje dla rodzin, licytacje oraz strefa gastronomiczna."
+}
   ],
   "2026-07-09": [
     {
@@ -503,6 +523,28 @@
       "source": "https://www.kupbilecik.pl/imprezy/187692/%C5%81owicz/Stand-up+Mama+Na+Obrotach/"
     }
   ],
+  "2026-07-11": [
+  {
+  "title": "🏃 Jubileusz na Sportowo – Bieg z okazji 890-lecia Łowicza",
+  "time": "Do potwierdzenia",
+  "place": "Łowicz",
+  "category": "Biegi",
+  "organizer": "Stowarzyszenie Sportowy Łowicz",
+  "image": "plakaty/jubileusz-na-sportowo-890-lowicz.jpg",
+  "source": "https://lowicz24.eu/artykul/jubileusz-na-sportowo-n1828566"
+}
+     ],
+    "2026-07-18": [
+  {
+  "title": "⚽ Zatorze Cup 2026 – V edycja",
+  "time": "10:00",
+  "place": "Boisko Orlik, ul. Bolimowska, Łowicz",
+  "category": "Turniej piłkarski",
+  "organizer": "Zarząd Osiedla Zatorze Łowicz / Łączy Nas Łowicz",
+  "image": "plakaty/zatorze-cup-2026.jpg",
+  "source": "https://lowicz24.eu/artykul/piata-edycja-zatorze-n1831156"
+}
+],
   "2026-07-25": [
     {
       "title": "Koncert - Mamma Mia",
