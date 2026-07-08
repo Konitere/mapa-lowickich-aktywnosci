@@ -644,7 +644,27 @@ button{
     color:#777;
     font-size:13px;
 }
+/* ŁOWICKIE DEKORACJE */
 
+.folk-top{
+    height:70px;
+    width:100%;
+    background-image:url("wycinanka-lowicka.png");
+    background-size:100% auto;
+    background-position:center top;
+    background-repeat:no-repeat;
+    margin-bottom:10px;
+}
+
+.folk-date-decoration{
+    width:170px;
+    height:95px;
+    background-image:url("wycinanka-lowicka.png");
+    background-size:350px auto;
+    background-position:center bottom;
+    background-repeat:no-repeat;
+    margin-top:20px;
+}
 /* MOBILE */
 
 @media(max-width:1100px){
@@ -904,6 +924,7 @@ button{
 
 
 <main class="page">
+    <div class="folk-top"></div>
 
     <div class="top-row">
 
@@ -969,6 +990,7 @@ button{
                 <div>
                     <div class="date-month" id="selectedMonth"></div>
                     <div class="date-year" id="selectedYear"></div>
+                    <div class="folk-date-decoration"></div>
                 </div>
 
                 <div class="stats" id="stats"></div>
