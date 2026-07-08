@@ -55,7 +55,7 @@ img{
 
 .header-image{
     width:100%;
-    max-width:600px;
+    max-width:1000px;
     margin:0 auto;
 }
 
@@ -79,27 +79,20 @@ img{
 .nav-inner{
     max-width:1450px;
     margin:0 auto;
-
     display:grid;
     grid-template-columns:repeat(4,1fr);
 }
 
 .nav-link{
     position:relative;
-
     min-height:100px;
-
     display:flex;
     align-items:center;
     justify-content:center;
-
     gap:18px;
-
     padding:20px;
-
     text-decoration:none;
     color:var(--navy);
-
     font-weight:800;
 }
 
@@ -113,28 +106,21 @@ img{
 
 .nav-link.active::after{
     content:"";
-
     position:absolute;
-
     left:12%;
     right:12%;
     bottom:0;
-
     height:4px;
-
     background:var(--red);
 }
 
 .nav-icon{
     width:38px;
     height:38px;
-
     display:flex;
     align-items:center;
     justify-content:center;
-
     font-size:31px;
-
     flex-shrink:0;
 }
 
@@ -156,7 +142,6 @@ img{
 .page{
     max-width:1450px;
     margin:0 auto;
-
     padding:45px 35px 70px;
 }
 
@@ -167,11 +152,8 @@ img{
 
 .calendar-section{
     display:grid;
-
     grid-template-columns:minmax(0,1fr) minmax(0,1fr);
-
     gap:45px;
-
     align-items:stretch;
 }
 
@@ -186,42 +168,28 @@ img{
 
 .month-navigation{
     display:grid;
-
     grid-template-columns:60px 1fr 60px;
-
     align-items:center;
-
     margin-bottom:24px;
 }
 
 .month-title{
     text-align:center;
-
     font-size:32px;
-
     font-weight:900;
-
     color:var(--red);
-
     text-transform:uppercase;
 }
 
 .month-btn{
     width:52px;
     height:52px;
-
     border:0;
-
     background:transparent;
-
     color:var(--red);
-
     font-size:52px;
-
     line-height:1;
-
     cursor:pointer;
-
     transition:.2s;
 }
 
@@ -231,57 +199,37 @@ img{
 
 .weekdays{
     display:grid;
-
     grid-template-columns:repeat(7,1fr);
-
     margin-bottom:10px;
 }
 
 .weekday{
     text-align:center;
-
     padding:10px 2px;
-
     font-size:16px;
-
     font-weight:900;
 }
 
 .calendar{
     display:grid;
-
     grid-template-columns:repeat(7,1fr);
-
     border:1px solid var(--border);
-
     border-radius:18px;
-
     overflow:hidden;
-
     padding:15px;
-
     background:white;
 }
 
 .day{
     position:relative;
-
     min-height:78px;
-
     display:flex;
-
     align-items:center;
-
     justify-content:center;
-
     font-size:23px;
-
     color:#111;
-
     cursor:default;
-
     border-radius:12px;
-
     transition:.2s;
 }
 
@@ -295,16 +243,11 @@ img{
 
 .day.has-events::after{
     content:"";
-
     position:absolute;
-
     bottom:9px;
-
     width:6px;
     height:6px;
-
     border-radius:50%;
-
     background:var(--red);
 }
 
@@ -315,11 +258,8 @@ img{
 
 .day.selected{
     background:var(--red);
-
     color:white;
-
     font-weight:900;
-
     box-shadow:0 7px 18px rgba(227,6,19,.25);
 }
 
@@ -334,36 +274,28 @@ img{
 
 .submit-event{
     display:block;
-
     width:100%;
-
     border-radius:22px;
-
     overflow:hidden;
-
     text-decoration:none;
-
     transition:.25s;
-
     background:#faf7f0;
 }
 
 .submit-event:hover{
     transform:translateY(-5px);
-
     box-shadow:0 18px 40px rgba(7,29,85,.14);
 }
 
 .submit-event img{
     width:100%;
     height:100%;
-
     object-fit:cover;
 }
 
 
 /* =========================
-   WYDARZENIA
+   SEKCJA WYDARZEŃ
 ========================= */
 
 .events-section{
@@ -372,30 +304,26 @@ img{
 
 .events-heading{
     display:flex;
-
     align-items:center;
-
     gap:15px;
-
     margin-bottom:25px;
-
     font-size:28px;
-
     font-weight:900;
 }
 
 .events-heading-icon{
     width:43px;
     height:43px;
-
     display:flex;
-
     align-items:center;
-
     justify-content:center;
-
     font-size:31px;
 }
+
+
+/* =========================
+   LISTA WYDARZEŃ
+========================= */
 
 .events-list{
     display:flex;
@@ -430,12 +358,16 @@ img{
     border-radius:8px;
     overflow:hidden;
     background:#f3f1eb;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
 .event-image img{
     width:100%;
     height:100%;
     object-fit:contain;
+    object-position:center;
 }
 
 .event-info{
@@ -463,6 +395,7 @@ img{
     color:var(--navy);
     font-size:15px;
     font-weight:800;
+    text-transform:capitalize;
 }
 
 .event-time{
@@ -482,6 +415,9 @@ img{
     font-size:28px;
     cursor:pointer;
     transition:.25s;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
 .event-card.open .event-toggle{
@@ -490,9 +426,14 @@ img{
     color:white;
 }
 
+
+/* =========================
+   ROZWINIĘTE WYDARZENIE
+========================= */
+
 .event-details{
     display:none;
-    border-top:1px solid #eee;
+    border-top:1px solid #eeeeee;
     background:#fffdf9;
     padding:30px;
 }
@@ -511,15 +452,21 @@ img{
 
 .event-poster{
     width:100%;
-    max-height:380px;
+    max-height:420px;
     object-fit:contain;
+    object-position:center;
     background:#f3f1eb;
     border-radius:10px;
+}
+
+.event-details-content{
+    min-width:0;
 }
 
 .event-details-title{
     font-size:25px;
     font-weight:900;
+    line-height:1.25;
     margin-bottom:20px;
 }
 
@@ -542,7 +489,196 @@ img{
     font-weight:900;
 }
 
+.event-source:hover{
+    opacity:.88;
+}
+
+
+/* =========================
+   BRAK WYDARZEŃ
+========================= */
+
+.empty-events{
+    padding:60px 25px;
+    text-align:center;
+    color:var(--muted);
+    font-size:18px;
+}
+
+
+/* =========================
+   POKAŻ WIĘCEJ
+========================= */
+
+.show-more-wrap{
+    display:flex;
+    justify-content:center;
+    margin-top:25px;
+}
+
+.show-more{
+    border:1.5px solid var(--red);
+    background:white;
+    color:var(--red);
+    padding:14px 35px;
+    border-radius:30px;
+    font-size:14px;
+    font-weight:900;
+    cursor:pointer;
+    text-transform:uppercase;
+}
+
+.show-more:hover{
+    background:var(--red);
+    color:white;
+}
+
+
+/* =========================
+   STOPKA
+========================= */
+
+.footer{
+    border-top:1px solid var(--border);
+    padding:35px 20px;
+    text-align:center;
+    color:#777;
+    font-size:13px;
+}
+
+
+/* =========================
+   TABLET
+========================= */
+
+@media(max-width:1100px){
+
+    .page{
+        padding-left:20px;
+        padding-right:20px;
+    }
+
+    .calendar-section{
+        gap:25px;
+    }
+
+    .event-main{
+        grid-template-columns:90px minmax(0,1fr) 160px 50px;
+        gap:18px;
+    }
+
+    .event-image{
+        width:82px;
+        height:82px;
+    }
+
+    .event-title{
+        font-size:19px;
+    }
+
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
 @media(max-width:800px){
+
+    .nav-inner{
+        grid-template-columns:repeat(4,1fr);
+    }
+
+    .nav-link{
+        min-height:82px;
+        padding:12px 5px;
+        gap:6px;
+        flex-direction:column;
+    }
+
+    .nav-icon{
+        width:27px;
+        height:27px;
+        font-size:23px;
+    }
+
+    .nav-text{
+        text-align:center;
+        font-size:9px;
+    }
+
+    .nav-link.active::after{
+        left:5%;
+        right:5%;
+        height:3px;
+    }
+
+    .page{
+        padding:25px 12px 50px;
+    }
+
+    .calendar-section{
+        grid-template-columns:1fr;
+        gap:25px;
+    }
+
+    .month-navigation{
+        margin-bottom:12px;
+    }
+
+    .month-title{
+        font-size:25px;
+    }
+
+    .month-btn{
+        width:45px;
+        height:45px;
+        font-size:43px;
+    }
+
+    .weekday{
+        font-size:11px;
+    }
+
+    .calendar{
+        padding:7px;
+        border-radius:13px;
+    }
+
+    .day{
+        min-height:53px;
+        font-size:17px;
+        border-radius:8px;
+    }
+
+    .day.has-events::after{
+        width:4px;
+        height:4px;
+        bottom:5px;
+    }
+
+    .submit-event{
+        border-radius:15px;
+    }
+
+    .submit-event img{
+        height:auto;
+    }
+
+    .events-section{
+        margin-top:35px;
+    }
+
+    .events-heading{
+        font-size:21px;
+        margin-bottom:17px;
+    }
+
+    .events-heading-icon{
+        width:32px;
+        height:32px;
+        font-size:25px;
+    }
 
     .event-main{
         grid-template-columns:72px minmax(0,1fr) 35px;
@@ -579,6 +715,7 @@ img{
         display:flex;
         gap:8px;
         align-items:center;
+        flex-wrap:wrap;
     }
 
     .event-date-full{
@@ -607,325 +744,11 @@ img{
     }
 
     .event-poster{
-        max-height:420px;
+        max-height:500px;
     }
 
     .event-details-title{
         font-size:20px;
-    }
-
-}
-
-
-/* =========================
-   PUSTA LISTA
-========================= */
-
-.empty-events{
-    padding:60px 25px;
-
-    text-align:center;
-
-    color:var(--muted);
-
-    font-size:18px;
-}
-
-
-/* =========================
-   POKAŻ WIĘCEJ
-========================= */
-
-.show-more-wrap{
-    display:flex;
-
-    justify-content:center;
-
-    margin-top:25px;
-}
-
-.show-more{
-    border:1.5px solid var(--red);
-
-    background:white;
-
-    color:var(--red);
-
-    padding:14px 35px;
-
-    border-radius:30px;
-
-    font-size:14px;
-
-    font-weight:900;
-
-    cursor:pointer;
-
-    text-transform:uppercase;
-}
-
-.show-more:hover{
-    background:var(--red);
-
-    color:white;
-}
-
-
-/* =========================
-   STOPKA
-========================= */
-
-.footer{
-    border-top:1px solid var(--border);
-
-    padding:35px 20px;
-
-    text-align:center;
-
-    color:#777;
-
-    font-size:13px;
-}
-
-
-/* =========================
-   TABLET
-========================= */
-
-@media(max-width:1100px){
-
-    .page{
-        padding-left:20px;
-        padding-right:20px;
-    }
-
-    .calendar-section{
-        gap:25px;
-    }
-
-    .event-card{
-        grid-template-columns:75px 70px 110px minmax(0,1fr) 130px 35px;
-
-        gap:14px;
-
-        padding:18px;
-    }
-
-    .event-image{
-        width:105px;
-        height:95px;
-    }
-
-    .event-title{
-        font-size:18px;
-    }
-
-}
-
-
-/* =========================
-   MOBILE
-========================= */
-
-@media(max-width:800px){
-
-    .header-image img{
-        min-height:145px;
-
-        object-fit:cover;
-
-        object-position:center;
-    }
-
-    .nav-inner{
-        grid-template-columns:repeat(4,1fr);
-    }
-
-    .nav-link{
-        min-height:82px;
-
-        padding:12px 5px;
-
-        gap:6px;
-
-        flex-direction:column;
-    }
-
-    .nav-icon{
-        width:27px;
-        height:27px;
-
-        font-size:23px;
-    }
-
-    .nav-text{
-        text-align:center;
-
-        font-size:9px;
-    }
-
-    .nav-link.active::after{
-        left:5%;
-        right:5%;
-
-        height:3px;
-    }
-
-    .page{
-        padding:25px 12px 50px;
-    }
-
-    .calendar-section{
-        grid-template-columns:1fr;
-
-        gap:25px;
-    }
-
-    .month-navigation{
-        margin-bottom:12px;
-    }
-
-    .month-title{
-        font-size:25px;
-    }
-
-    .month-btn{
-        width:45px;
-        height:45px;
-
-        font-size:43px;
-    }
-
-    .weekday{
-        font-size:11px;
-    }
-
-    .calendar{
-        padding:7px;
-
-        border-radius:13px;
-    }
-
-    .day{
-        min-height:53px;
-
-        font-size:17px;
-
-        border-radius:8px;
-    }
-
-    .day.has-events::after{
-        width:4px;
-        height:4px;
-
-        bottom:5px;
-    }
-
-    .submit-event{
-        border-radius:15px;
-    }
-
-    .submit-event img{
-        height:auto;
-    }
-
-    .events-section{
-        margin-top:35px;
-    }
-
-    .events-heading{
-        font-size:21px;
-
-        margin-bottom:17px;
-    }
-
-    .events-heading-icon{
-        width:32px;
-        height:32px;
-
-        font-size:25px;
-    }
-
-    .events-list{
-        border-radius:13px;
-    }
-
-    .event-card{
-        grid-template-columns:60px 1fr 28px;
-
-        grid-template-areas:
-            "date info arrow"
-            "image info arrow";
-
-        gap:10px 14px;
-
-        min-height:0;
-
-        padding:15px 12px;
-    }
-
-    .event-date{
-        grid-area:date;
-
-        width:55px;
-        height:60px;
-
-        border-radius:8px;
-    }
-
-    .event-date-number{
-        font-size:23px;
-    }
-
-    .event-date-month{
-        font-size:11px;
-
-        margin-top:4px;
-    }
-
-    .event-time{
-        display:none;
-    }
-
-    .event-image{
-        grid-area:image;
-
-        width:55px;
-        height:55px;
-
-        border-radius:7px;
-    }
-
-    .event-info{
-        grid-area:info;
-    }
-
-    .event-title{
-        margin-bottom:7px;
-
-        font-size:16px;
-    }
-
-    .event-place{
-        font-size:12px;
-
-        margin-top:5px;
-    }
-
-    .event-organizer{
-        font-size:11px;
-
-        margin-top:5px;
-    }
-
-    .event-category{
-        display:none;
-    }
-
-    .event-arrow{
-        grid-area:arrow;
-
-        font-size:30px;
     }
 
 }
@@ -937,10 +760,6 @@ img{
 
 @media(max-width:430px){
 
-    .header-image img{
-        min-height:115px;
-    }
-
     .nav-text{
         font-size:8px;
     }
@@ -951,12 +770,29 @@ img{
 
     .day{
         min-height:47px;
-
         font-size:15px;
     }
 
     .month-title{
         font-size:22px;
+    }
+
+    .event-main{
+        grid-template-columns:64px minmax(0,1fr) 32px;
+        grid-template-areas:
+            "image info toggle"
+            "image date toggle";
+        gap:5px 10px;
+        padding:12px 7px;
+    }
+
+    .event-image{
+        width:64px;
+        height:64px;
+    }
+
+    .event-title{
+        font-size:15px;
     }
 
 }
@@ -994,7 +830,6 @@ img{
 <nav class="main-nav">
 
     <div class="nav-inner">
-
 
         <a
             href="#kalendarz"
@@ -1069,11 +904,9 @@ img{
 
         </a>
 
-
     </div>
 
 </nav>
-
 
 
 <!-- =========================
@@ -1154,7 +987,6 @@ img{
         </div>
 
 
-
         <!-- ZGŁOŚ WYDARZENIE -->
 
         <a
@@ -1172,7 +1004,6 @@ img{
 
 
     </section>
-
 
 
     <!-- =========================
@@ -1224,13 +1055,11 @@ img{
 </main>
 
 
-
 <footer class="footer">
 
     © 2026 Mapa Łowickich Aktywności
 
 </footer>
-
 
 
 <script>
@@ -1243,60 +1072,19 @@ img{
 const MONTHS = [
 
     "STYCZEŃ",
-
     "LUTY",
-
     "MARZEC",
-
     "KWIECIEŃ",
-
     "MAJ",
-
     "CZERWIEC",
-
     "LIPIEC",
-
     "SIERPIEŃ",
-
     "WRZESIEŃ",
-
     "PAŹDZIERNIK",
-
     "LISTOPAD",
-
     "GRUDZIEŃ"
 
 ];
-
-
-const MONTH_SHORT = [
-
-    "STY",
-
-    "LUT",
-
-    "MAR",
-
-    "KWI",
-
-    "MAJ",
-
-    "CZE",
-
-    "LIP",
-
-    "SIE",
-
-    "WRZ",
-
-    "PAŹ",
-
-    "LIS",
-
-    "GRU"
-
-];
-
 
 
 /* =========================
@@ -1305,20 +1093,15 @@ const MONTH_SHORT = [
 
 let eventsData = {};
 
-
 const today = new Date();
-
 
 let currentYear = today.getFullYear();
 
 let currentMonth = today.getMonth();
 
-
 let selectedDate = null;
 
-
 let visibleEvents = 6;
-
 
 
 /* =========================
@@ -1354,7 +1137,6 @@ function formatDateKey(
 }
 
 
-
 /* =========================
    ESCAPE
 ========================= */
@@ -1370,36 +1152,19 @@ function escapeHtml(value){
 
     }
 
-
     return String(value)
 
-        .replaceAll(
-            "&",
-            "&amp;"
-        )
+        .replaceAll("&","&amp;")
 
-        .replaceAll(
-            "<",
-            "&lt;"
-        )
+        .replaceAll("<","&lt;")
 
-        .replaceAll(
-            ">",
-            "&gt;"
-        )
+        .replaceAll(">","&gt;")
 
-        .replaceAll(
-            '"',
-            "&quot;"
-        )
+        .replaceAll('"',"&quot;")
 
-        .replaceAll(
-            "'",
-            "&#039;"
-        );
+        .replaceAll("'","&#039;");
 
 }
-
 
 
 /* =========================
@@ -1410,9 +1175,7 @@ function expandEvents(events){
 
     const result = [];
 
-
     events.forEach(event => {
-
 
         if(
 
@@ -1424,9 +1187,7 @@ function expandEvents(events){
 
         ){
 
-
             event.movies.forEach(movie => {
-
 
                 result.push({
 
@@ -1455,137 +1216,19 @@ function expandEvents(events){
 
                 });
 
-
             });
-
 
         }else{
 
-
             result.push(event);
-
 
         }
 
-
     });
-
 
     return result;
 
 }
-
-
-
-/* =========================
-   KOLOR KATEGORII
-========================= */
-
-function getCategoryColor(category = ""){
-
-    const value =
-        category.toLowerCase();
-
-
-    if(
-        value.includes("kino")
-    ){
-
-        return {
-            color:"#1769d2",
-            background:"#eaf3ff"
-        };
-
-    }
-
-
-    if(
-
-        value.includes("koncert") ||
-
-        value.includes("muzyka")
-
-    ){
-
-        return {
-            color:"#e30613",
-            background:"#fff0f1"
-        };
-
-    }
-
-
-    if(
-
-        value.includes("warsztat") ||
-
-        value.includes("folklor")
-
-    ){
-
-        return {
-            color:"#7a2b8f",
-            background:"#f5eafa"
-        };
-
-    }
-
-
-    if(
-
-        value.includes("motoryz")
-
-    ){
-
-        return {
-            color:"#1769d2",
-            background:"#eaf3ff"
-        };
-
-    }
-
-
-    if(
-
-        value.includes("sport") ||
-
-        value.includes("bieg") ||
-
-        value.includes("rower")
-
-    ){
-
-        return {
-            color:"#168344",
-            background:"#eaf8ef"
-        };
-
-    }
-
-
-    if(
-
-        value.includes("rodzin") ||
-
-        value.includes("dziec")
-
-    ){
-
-        return {
-            color:"#d36a00",
-            background:"#fff2df"
-        };
-
-    }
-
-
-    return {
-        color:"#555",
-        background:"#f1f1f1"
-    };
-
-}
-
 
 
 /* =========================
@@ -1596,13 +1239,11 @@ async function loadEvents(){
 
     try{
 
-
         const response =
             await fetch(
                 "events.json?v=" +
                 Date.now()
             );
-
 
         if(!response.ok){
 
@@ -1612,21 +1253,16 @@ async function loadEvents(){
 
         }
 
-
         eventsData =
             await response.json();
-
 
         renderCalendar();
 
         renderUpcomingEvents();
 
-
     }catch(error){
 
-
         console.error(error);
-
 
         document
             .getElementById(
@@ -1642,11 +1278,9 @@ async function loadEvents(){
 
             `;
 
-
     }
 
 }
-
 
 
 /* =========================
@@ -1660,9 +1294,7 @@ function renderCalendar(){
             "calendar"
         );
 
-
     calendar.innerHTML = "";
-
 
     document
         .getElementById(
@@ -1675,14 +1307,12 @@ function renderCalendar(){
         currentYear;
 
 
-
     const firstDay =
         new Date(
             currentYear,
             currentMonth,
             1
         );
-
 
     const lastDay =
         new Date(
@@ -1691,10 +1321,8 @@ function renderCalendar(){
             0
         );
 
-
     let startDay =
         firstDay.getDay();
-
 
     if(startDay === 0){
 
@@ -1713,7 +1341,6 @@ function renderCalendar(){
         .getDate();
 
 
-
     for(
 
         let i = startDay - 2;
@@ -1724,7 +1351,6 @@ function renderCalendar(){
 
     ){
 
-
         createDay(
 
             previousMonthLastDay - i,
@@ -1733,9 +1359,7 @@ function renderCalendar(){
 
         );
 
-
     }
-
 
 
     for(
@@ -1748,30 +1372,24 @@ function renderCalendar(){
 
     ){
 
-
         createDay(
             day,
             false
         );
 
-
     }
-
 
 
     const cells =
         calendar.children.length;
-
 
     const targetCells =
         cells <= 35
             ? 35
             : 42;
 
-
     const remaining =
         targetCells - cells;
-
 
 
     for(
@@ -1784,17 +1402,14 @@ function renderCalendar(){
 
     ){
 
-
         createDay(
             day,
             true
         );
 
-
     }
 
 }
-
 
 
 /* =========================
@@ -1811,36 +1426,29 @@ function createDay(
             "calendar"
         );
 
-
     const cell =
         document.createElement(
             "div"
         );
-
 
     cell.className = "day";
 
 
     if(otherMonth){
 
-
         cell.classList.add(
             "other-month"
         );
 
-
         cell.textContent = day;
-
 
         calendar.appendChild(
             cell
         );
 
-
         return;
 
     }
-
 
 
     const dateKey =
@@ -1863,14 +1471,11 @@ function createDay(
         );
 
 
-
     if(events.length){
-
 
         cell.classList.add(
             "has-events"
         );
-
 
         cell.addEventListener(
 
@@ -1886,33 +1491,27 @@ function createDay(
 
         );
 
-
     }
-
 
 
     if(
         selectedDate === dateKey
     ){
 
-
         cell.classList.add(
             "selected"
         );
-
 
     }
 
 
     cell.textContent = day;
 
-
     calendar.appendChild(
         cell
     );
 
 }
-
 
 
 /* =========================
@@ -1925,11 +1524,9 @@ function selectDate(dateKey){
 
     visibleEvents = 6;
 
-
     renderCalendar();
 
     renderSelectedEvents();
-
 
     document
         .querySelector(
@@ -1946,7 +1543,6 @@ function selectDate(dateKey){
 }
 
 
-
 /* =========================
    WYDARZENIA DNIA
 ========================= */
@@ -1959,14 +1555,12 @@ function renderSelectedEvents(){
             "T12:00:00"
         );
 
-
     const events =
         expandEvents(
 
             eventsData[selectedDate] || []
 
         );
-
 
     document
         .getElementById(
@@ -1985,13 +1579,11 @@ function renderSelectedEvents(){
         ].toLowerCase();
 
 
-
     renderEvents(
         events
     );
 
 }
-
 
 
 /* =========================
@@ -2002,42 +1594,32 @@ function renderUpcomingEvents(){
 
     const allEvents = [];
 
-    /*
-    Dzisiejsza data w formacie YYYY-MM-DD.
-    Używamy lokalnej daty, żeby nie było problemów
-    ze strefą czasową.
-    */
-
     const now = new Date();
 
     const todayKey = formatDateKey(
+
         now.getFullYear(),
+
         now.getMonth(),
+
         now.getDate()
+
     );
 
 
     Object.keys(eventsData)
 
-        /*
-        Bierzemy tylko prawidłowe daty
-        */
-
         .filter(key =>
-            /^\d{4}-\d{2}-\d{2}$/.test(key)
-        )
 
-        /*
-        Usuwamy wydarzenia, które już się odbyły
-        */
+            /^\d{4}-\d{2}-\d{2}$/.test(key)
+
+        )
 
         .filter(dateKey =>
-            dateKey >= todayKey
-        )
 
-        /*
-        Sortujemy od najbliższej daty
-        */
+            dateKey >= todayKey
+
+        )
 
         .sort()
 
@@ -2045,9 +1627,10 @@ function renderUpcomingEvents(){
 
             const events =
                 expandEvents(
-                    eventsData[dateKey] || []
-                );
 
+                    eventsData[dateKey] || []
+
+                );
 
             events.forEach(event => {
 
@@ -2069,6 +1652,7 @@ function renderUpcomingEvents(){
             "eventsHeading"
         )
         .textContent =
+
         "Nadchodzące wydarzenia";
 
 
@@ -2079,9 +1663,8 @@ function renderUpcomingEvents(){
 }
 
 
-
 /* =========================
-   RENDER LISTY
+   RENDER WYDARZEŃ
 ========================= */
 
 function renderEvents(events){
@@ -2091,16 +1674,13 @@ function renderEvents(events){
             "eventsList"
         );
 
-
     const showMoreWrap =
         document.getElementById(
             "showMoreWrap"
         );
 
 
-
     if(!events.length){
-
 
         list.innerHTML = `
 
@@ -2112,15 +1692,12 @@ function renderEvents(events){
 
         `;
 
-
         showMoreWrap.style.display =
             "none";
-
 
         return;
 
     }
-
 
 
     const visible =
@@ -2130,10 +1707,9 @@ function renderEvents(events){
         );
 
 
-
     list.innerHTML =
 
-        visible.map(event => {
+        visible.map((event,index) => {
 
 
             const dateKey =
@@ -2153,11 +1729,21 @@ function renderEvents(events){
                 );
 
 
-            const category =
+            const formattedDate =
 
-                getCategoryColor(
+                date.toLocaleDateString(
 
-                    event.category
+                    "pl-PL",
+
+                    {
+
+                        weekday:"long",
+
+                        day:"numeric",
+
+                        month:"long"
+
+                    }
 
                 );
 
@@ -2165,197 +1751,343 @@ function renderEvents(events){
             return `
 
 
-                <article class="event-card">
-
-
-                    <div class="event-date">
-
-
-                        <div class="event-date-number">
-
-                            ${date.getDate()}
-
-                        </div>
-
-
-                        <div class="event-date-month">
-
-                            ${MONTH_SHORT[
-                                date.getMonth()
-                            ]}
-
-                        </div>
-
-
-                    </div>
-
-
-
-                    <div class="event-time">
-
-                        ${escapeHtml(
-                            event.time || ""
-                        )}
-
-                    </div>
-
-
-
-                    <div class="event-image">
-
-
-                        ${event.image
-
-                            ? `
-
-                                <img
-
-                                    src="${escapeHtml(
-                                        event.image
-                                    )}"
-
-                                    alt="${escapeHtml(
-                                        event.title
-                                    )}"
-
-                                    loading="lazy"
-
-                                    onerror="
-                                        this.style.display='none'
-                                    "
-
-                                >
-
-                            `
-
-                            : ""
-
-                        }
-
-
-                    </div>
-
-
-
-                    <div class="event-info">
-
-
-                        <div class="event-title">
-
-                            ${escapeHtml(
-                                event.title
-                            )}
-
-                        </div>
-
-
-
-                        ${event.place
-
-                            ? `
-
-                                <div class="event-place">
-
-                                    ⌖
-
-                                    ${escapeHtml(
-                                        event.place
-                                    )}
-
-                                </div>
-
-                            `
-
-                            : ""
-
-                        }
-
-
-
-                        ${event.organizer
-
-                            ? `
-
-                                <div class="event-organizer">
-
-                                    ♙
-
-                                    ${escapeHtml(
-                                        event.organizer
-                                    )}
-
-                                </div>
-
-                            `
-
-                            : ""
-
-                        }
-
-
-                    </div>
-
+                <article
+                    class="event-card"
+                    data-event="${index}"
+                >
 
 
                     <div
-
-                        class="event-category"
-
-                        style="
-
-                            color:${category.color};
-
-                            background:${category.background};
-
-                        "
-
+                        class="event-main"
+                        onclick="toggleEvent(this)"
                     >
 
-                        ${escapeHtml(
-                            event.category || "Inne"
-                        )}
+
+                        <div class="event-image">
+
+
+                            ${
+
+                                event.image
+
+                                ? `
+
+                                    <img
+
+                                        src="${escapeHtml(
+                                            event.image
+                                        )}"
+
+                                        alt="${escapeHtml(
+                                            event.title
+                                        )}"
+
+                                        loading="lazy"
+
+                                        onerror="
+                                            this.style.display='none'
+                                        "
+
+                                    >
+
+                                `
+
+                                : ""
+
+                            }
+
+
+                        </div>
+
+
+                        <div class="event-info">
+
+
+                            <div class="event-title">
+
+                                ${escapeHtml(
+                                    event.title
+                                )}
+
+                            </div>
+
+
+                            ${
+
+                                event.place
+
+                                ? `
+
+                                    <div class="event-place">
+
+                                        📍
+
+                                        ${escapeHtml(
+                                            event.place
+                                        )}
+
+                                    </div>
+
+                                `
+
+                                : ""
+
+                            }
+
+
+                        </div>
+
+
+                        <div class="event-date-info">
+
+
+                            <div class="event-date-full">
+
+                                ${formattedDate}
+
+                            </div>
+
+
+                            ${
+
+                                event.time
+
+                                ? `
+
+                                    <div class="event-time">
+
+                                        ${escapeHtml(
+                                            event.time
+                                        )}
+
+                                    </div>
+
+                                `
+
+                                : ""
+
+                            }
+
+
+                        </div>
+
+
+                        <button
+                            class="event-toggle"
+                            type="button"
+                            aria-label="Rozwiń wydarzenie"
+                        >
+
+                            ›
+
+                        </button>
+
 
                     </div>
 
 
+                    <div class="event-details">
 
-                    ${event.source
 
-                        ? `
+                        <div class="event-details-inner">
 
-                            <a
 
-                                class="event-arrow"
+                            <div>
 
-                                href="${escapeHtml(
+
+                                ${
+
+                                    event.image
+
+                                    ? `
+
+                                        <img
+
+                                            class="event-poster"
+
+                                            src="${escapeHtml(
+                                                event.image
+                                            )}"
+
+                                            alt="${escapeHtml(
+                                                event.title
+                                            )}"
+
+                                        >
+
+                                    `
+
+                                    : ""
+
+                                }
+
+
+                            </div>
+
+
+                            <div class="event-details-content">
+
+
+                                <div class="event-details-title">
+
+                                    ${escapeHtml(
+                                        event.title
+                                    )}
+
+                                </div>
+
+
+                                <div class="event-detail-row">
+
+                                    📅
+
+                                    <strong>Data:</strong>
+
+                                    ${formattedDate}
+
+                                </div>
+
+
+                                ${
+
+                                    event.time
+
+                                    ? `
+
+                                        <div class="event-detail-row">
+
+                                            🕐
+
+                                            <strong>Godzina:</strong>
+
+                                            ${escapeHtml(
+                                                event.time
+                                            )}
+
+                                        </div>
+
+                                    `
+
+                                    : ""
+
+                                }
+
+
+                                ${
+
+                                    event.place
+
+                                    ? `
+
+                                        <div class="event-detail-row">
+
+                                            📍
+
+                                            <strong>Miejsce:</strong>
+
+                                            ${escapeHtml(
+                                                event.place
+                                            )}
+
+                                        </div>
+
+                                    `
+
+                                    : ""
+
+                                }
+
+
+                                ${
+
+                                    event.organizer
+
+                                    ? `
+
+                                        <div class="event-detail-row">
+
+                                            👤
+
+                                            <strong>Organizator:</strong>
+
+                                            ${escapeHtml(
+                                                event.organizer
+                                            )}
+
+                                        </div>
+
+                                    `
+
+                                    : ""
+
+                                }
+
+
+                                ${
+
+                                    event.category
+
+                                    ? `
+
+                                        <div class="event-detail-row">
+
+                                            <strong>Kategoria:</strong>
+
+                                            ${escapeHtml(
+                                                event.category
+                                            )}
+
+                                        </div>
+
+                                    `
+
+                                    : ""
+
+                                }
+
+
+                                ${
+
                                     event.source
-                                )}"
 
-                                target="_blank"
+                                    ? `
 
-                                rel="noopener noreferrer"
+                                        <a
 
-                                aria-label="Więcej informacji"
+                                            class="event-source"
 
-                            >
+                                            href="${escapeHtml(
+                                                event.source
+                                            )}"
 
-                                ›
+                                            target="_blank"
 
-                            </a>
+                                            rel="noopener noreferrer"
 
-                        `
+                                            onclick="
+                                                event.stopPropagation()
+                                            "
 
-                        : `
+                                        >
 
-                            <span class="event-arrow">
+                                            ZOBACZ ŹRÓDŁO →
 
-                                ›
+                                        </a>
 
-                            </span>
+                                    `
 
-                        `
+                                    : ""
 
-                    }
+                                }
+
+
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
 
 
                 </article>
@@ -2367,7 +2099,6 @@ function renderEvents(events){
         }).join("");
 
 
-
     showMoreWrap.style.display =
 
         events.length > visibleEvents
@@ -2377,26 +2108,62 @@ function renderEvents(events){
             : "none";
 
 
-
     document
         .getElementById(
             "showMore"
         )
         .onclick = () => {
 
-
             visibleEvents += 6;
-
 
             renderEvents(
                 events
             );
 
-
         };
 
 }
 
+
+/* =========================
+   ROZWIJANIE WYDARZENIA
+========================= */
+
+function toggleEvent(element){
+
+    const card =
+        element.closest(
+            ".event-card"
+        );
+
+    const wasOpen =
+        card.classList.contains(
+            "open"
+        );
+
+
+    document
+        .querySelectorAll(
+            ".event-card.open"
+        )
+        .forEach(item => {
+
+            item.classList.remove(
+                "open"
+            );
+
+        });
+
+
+    if(!wasOpen){
+
+        card.classList.add(
+            "open"
+        );
+
+    }
+
+}
 
 
 /* =========================
@@ -2413,33 +2180,25 @@ document
 
         () => {
 
-
             currentMonth--;
 
-
             if(currentMonth < 0){
-
 
                 currentMonth = 11;
 
                 currentYear--;
 
-
             }
 
-
             selectedDate = null;
-
 
             renderCalendar();
 
             renderUpcomingEvents();
 
-
         }
 
     );
-
 
 
 document
@@ -2452,33 +2211,25 @@ document
 
         () => {
 
-
             currentMonth++;
 
-
             if(currentMonth > 11){
-
 
                 currentMonth = 0;
 
                 currentYear++;
 
-
             }
 
-
             selectedDate = null;
-
 
             renderCalendar();
 
             renderUpcomingEvents();
 
-
         }
 
     );
-
 
 
 /* =========================
@@ -2495,9 +2246,7 @@ document
 
         event => {
 
-
             event.preventDefault();
-
 
             alert(
 
@@ -2505,11 +2254,9 @@ document
 
             );
 
-
         }
 
     );
-
 
 
 /* =========================
