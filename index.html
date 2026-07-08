@@ -2,9 +2,7 @@
 <html lang="pl">
 
 <head>
-
 <meta charset="UTF-8">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Mapa Łowickich Aktywności</title>
@@ -18,7 +16,6 @@
 :root{
     --navy:#071d55;
     --red:#e30613;
-    --cream:#fffdfa;
     --border:#e5e7eb;
     --muted:#667085;
 }
@@ -239,9 +236,8 @@ img{
 
 .day.has-events{
     cursor:pointer;
+    font-weight:700;
 }
-
-
 
 .day.has-events:hover{
     background:#fff0f1;
@@ -254,8 +250,6 @@ img{
     font-weight:900;
     box-shadow:0 7px 18px rgba(227,6,19,.25);
 }
-
-
 
 
 /* =========================
@@ -324,7 +318,10 @@ img{
 }
 
 .event-card{
+    display:block;
     min-width:0;
+    color:inherit;
+    text-decoration:none;
 }
 
 .event-tile{
@@ -338,12 +335,8 @@ img{
 }
 
 .event-tile:hover{
-    transform:translateY(-3px);
-    box-shadow:0 7px 18px rgba(0,0,0,.16);
-}
-
-.event-card.open .event-tile{
-    border-color:#d2d2d2;
+    transform:translateY(-4px);
+    box-shadow:0 9px 22px rgba(0,0,0,.17);
 }
 
 
@@ -431,7 +424,6 @@ img{
     justify-content:center;
     color:white;
     font-size:18px;
-    flex-shrink:0;
 }
 
 .event-title{
@@ -457,72 +449,6 @@ img{
     color:#303030;
     font-size:11px;
     line-height:1.25;
-}
-
-
-/* =========================
-   ROZWINIĘTE WYDARZENIE
-========================= */
-
-.event-details{
-    display:none;
-    margin-top:12px;
-    padding:18px;
-    background:#fffdf9;
-    border:1px solid #e4e0d8;
-    border-radius:8px;
-}
-
-.event-card.open .event-details{
-    display:block;
-}
-
-.event-full-poster{
-    width:100%;
-    max-height:450px;
-    object-fit:contain;
-    object-position:center;
-    background:#f3f1eb;
-    border-radius:6px;
-    margin-bottom:18px;
-}
-
-.event-details-title{
-    color:var(--navy);
-    font-size:18px;
-    font-weight:800;
-    line-height:1.3;
-    margin-bottom:14px;
-}
-
-.event-detail-row{
-    margin:7px 0;
-    color:#333;
-    font-size:13px;
-    line-height:1.45;
-}
-
-.event-description{
-    margin-top:14px;
-    color:#333;
-    font-size:13px;
-    line-height:1.6;
-}
-
-.event-source{
-    display:inline-block;
-    margin-top:15px;
-    padding:10px 18px;
-    border-radius:22px;
-    background:var(--red);
-    color:white;
-    text-decoration:none;
-    font-size:11px;
-    font-weight:900;
-}
-
-.event-source:hover{
-    opacity:.88;
 }
 
 
@@ -675,8 +601,6 @@ img{
         border-radius:8px;
     }
 
-
-
     .submit-event{
         border-radius:15px;
     }
@@ -732,10 +656,6 @@ img{
 
     .event-meta-row{
         font-size:10px;
-    }
-
-    .event-details{
-        padding:12px;
     }
 
 }
@@ -803,7 +723,6 @@ img{
 
 </head>
 
-
 <body>
 
 
@@ -825,11 +744,7 @@ img{
 
     <div class="nav-inner">
 
-
-        <a
-            href="#kalendarz"
-            class="nav-link active"
-        >
+        <a href="#kalendarz" class="nav-link active">
 
             <span class="nav-icon">📅</span>
 
@@ -840,10 +755,7 @@ img{
         </a>
 
 
-        <a
-            href="#atrakcje"
-            class="nav-link"
-        >
+        <a href="#atrakcje" class="nav-link">
 
             <span class="nav-icon">⌖</span>
 
@@ -858,10 +770,7 @@ img{
         </a>
 
 
-        <a
-            href="#restauracje"
-            class="nav-link"
-        >
+        <a href="#restauracje" class="nav-link">
 
             <span class="nav-icon">🍴</span>
 
@@ -876,10 +785,7 @@ img{
         </a>
 
 
-        <a
-            href="#oprojekcie"
-            class="nav-link"
-        >
+        <a href="#oprojekcie" class="nav-link">
 
             <span class="nav-icon">ⓘ</span>
 
@@ -889,139 +795,127 @@ img{
 
         </a>
 
-
     </div>
 
 </nav>
 
 
-<main
-    class="page"
-    id="kalendarz"
+<main class="page" id="kalendarz">
+
+
+<section class="calendar-section">
+
+
+<div class="calendar-box">
+
+
+<div class="month-navigation">
+
+<button
+    class="month-btn"
+    id="prevMonth"
+    aria-label="Poprzedni miesiąc"
+>
+‹
+</button>
+
+
+<div
+    class="month-title"
+    id="monthTitle"
+></div>
+
+
+<button
+    class="month-btn"
+    id="nextMonth"
+    aria-label="Następny miesiąc"
+>
+›
+</button>
+
+</div>
+
+
+<div class="weekdays">
+
+<div class="weekday">PN</div>
+<div class="weekday">WT</div>
+<div class="weekday">ŚR</div>
+<div class="weekday">CZW</div>
+<div class="weekday">PT</div>
+<div class="weekday">SOB</div>
+<div class="weekday">NDZ.</div>
+
+</div>
+
+
+<div
+    class="calendar"
+    id="calendar"
+></div>
+
+
+</div>
+
+
+<a
+    href="#"
+    class="submit-event"
+    id="submitEvent"
 >
 
+<img
+    src="zglos-wydarzenie.png"
+    alt="Zgłoś wydarzenie"
+>
 
-    <section class="calendar-section">
-
-
-        <div class="calendar-box">
-
-
-            <div class="month-navigation">
+</a>
 
 
-                <button
-                    class="month-btn"
-                    id="prevMonth"
-                    aria-label="Poprzedni miesiąc"
-                >
-                    ‹
-                </button>
+</section>
 
 
-                <div
-                    class="month-title"
-                    id="monthTitle"
-                ></div>
+<section class="events-section">
 
 
-                <button
-                    class="month-btn"
-                    id="nextMonth"
-                    aria-label="Następny miesiąc"
-                >
-                    ›
-                </button>
+<div class="events-heading">
+
+<span class="events-heading-icon">
+🗓
+</span>
+
+<span id="eventsHeading">
+Nadchodzące wydarzenia
+</span>
+
+</div>
 
 
-            </div>
+<div
+    class="events-list"
+    id="eventsList"
+></div>
 
 
-            <div class="weekdays">
+<div
+    class="show-more-wrap"
+    id="showMoreWrap"
+>
 
-                <div class="weekday">PN</div>
+<button
+    class="show-more"
+    id="showMore"
+>
 
-                <div class="weekday">WT</div>
+Pokaż więcej wydarzeń ↓
 
-                <div class="weekday">ŚR</div>
+</button>
 
-                <div class="weekday">CZW</div>
-
-                <div class="weekday">PT</div>
-
-                <div class="weekday">SOB</div>
-
-                <div class="weekday">NDZ.</div>
-
-            </div>
+</div>
 
 
-            <div
-                class="calendar"
-                id="calendar"
-            ></div>
-
-
-        </div>
-
-
-        <a
-            href="#"
-            class="submit-event"
-            id="submitEvent"
-        >
-
-            <img
-                src="zglos-wydarzenie.png"
-                alt="Zgłoś wydarzenie"
-            >
-
-        </a>
-
-
-    </section>
-
-
-    <section class="events-section">
-
-
-        <div class="events-heading">
-
-            <span class="events-heading-icon">
-                🗓
-            </span>
-
-            <span id="eventsHeading">
-                Nadchodzące wydarzenia
-            </span>
-
-        </div>
-
-
-        <div
-            class="events-list"
-            id="eventsList"
-        ></div>
-
-
-        <div
-            class="show-more-wrap"
-            id="showMoreWrap"
-        >
-
-            <button
-                class="show-more"
-                id="showMore"
-            >
-
-                Pokaż więcej wydarzeń ↓
-
-            </button>
-
-        </div>
-
-
-    </section>
+</section>
 
 
 </main>
@@ -1029,7 +923,7 @@ img{
 
 <footer class="footer">
 
-    © 2026 Mapa Łowickich Aktywności
+© 2026 Mapa Łowickich Aktywności
 
 </footer>
 
@@ -1040,27 +934,16 @@ img{
 const MONTHS = [
 
     "STYCZEŃ",
-
     "LUTY",
-
     "MARZEC",
-
     "KWIECIEŃ",
-
     "MAJ",
-
     "CZERWIEC",
-
     "LIPIEC",
-
     "SIERPIEŃ",
-
     "WRZESIEŃ",
-
     "PAŹDZIERNIK",
-
     "LISTOPAD",
-
     "GRUDZIEŃ"
 
 ];
@@ -1068,48 +951,27 @@ const MONTHS = [
 
 let eventsData = {};
 
-
 const today = new Date();
 
+let currentYear = today.getFullYear();
 
-let currentYear =
-    today.getFullYear();
-
-
-let currentMonth =
-    today.getMonth();
-
+let currentMonth = today.getMonth();
 
 let selectedDate = null;
-
 
 let visibleEvents = 8;
 
 
 
-function formatDateKey(
-    year,
-    month,
-    day
-){
+function formatDateKey(year,month,day){
 
     return [
 
         year,
 
-        String(
-            month + 1
-        ).padStart(
-            2,
-            "0"
-        ),
+        String(month + 1).padStart(2,"0"),
 
-        String(
-            day
-        ).padStart(
-            2,
-            "0"
-        )
+        String(day).padStart(2,"0")
 
     ].join("-");
 
@@ -1123,11 +985,8 @@ function escapeHtml(value){
         value === null ||
         value === undefined
     ){
-
         return "";
-
     }
-
 
     return String(value)
 
@@ -1154,13 +1013,8 @@ function expandEvents(events){
 
 
         if(
-
             event.type === "cinema" &&
-
-            Array.isArray(
-                event.movies
-            )
-
+            Array.isArray(event.movies)
         ){
 
 
@@ -1169,28 +1023,21 @@ function expandEvents(events){
 
                 result.push({
 
-                    title:
-                        movie.title,
+                    title:movie.title,
 
-                    time:
-                        movie.times
-                            ? movie.times.join(", ")
-                            : "",
+                    time:movie.times
+                        ? movie.times.join(", ")
+                        : "",
 
-                    image:
-                        movie.image,
+                    image:movie.image,
 
-                    place:
-                        event.place,
+                    place:event.place,
 
-                    category:
-                        event.category || "Kino",
+                    category:event.category || "Kino",
 
-                    organizer:
-                        event.organizer,
+                    organizer:event.organizer,
 
-                    source:
-                        event.source,
+                    source:event.source,
 
                     description:
                         movie.description ||
@@ -1223,8 +1070,7 @@ function expandEvents(events){
 
 function getCategoryStyle(category = ""){
 
-    const value =
-        category.toLowerCase();
+    const value = category.toLowerCase();
 
 
     if(
@@ -1319,9 +1165,7 @@ function getCategoryStyle(category = ""){
     }
 
 
-    if(
-        value.includes("motoryz")
-    ){
+    if(value.includes("motoryz")){
 
         return {
             icon:"🚗",
@@ -1358,24 +1202,21 @@ async function loadEvents(){
     try{
 
 
-        const response =
-            await fetch(
-                "events.json?v=" +
-                Date.now()
-            );
+        const response = await fetch(
+
+            "events.json?v=" + Date.now()
+
+        );
 
 
         if(!response.ok){
 
-            throw new Error(
-                "Błąd events.json"
-            );
+            throw new Error("Błąd events.json");
 
         }
 
 
-        eventsData =
-            await response.json();
+        eventsData = await response.json();
 
 
         renderCalendar();
@@ -1390,9 +1231,7 @@ async function loadEvents(){
 
 
         document
-            .getElementById(
-                "eventsList"
-            )
+            .getElementById("eventsList")
             .innerHTML = `
 
                 <div class="empty-events">
@@ -1413,18 +1252,14 @@ async function loadEvents(){
 function renderCalendar(){
 
     const calendar =
-        document.getElementById(
-            "calendar"
-        );
+        document.getElementById("calendar");
 
 
     calendar.innerHTML = "";
 
 
     document
-        .getElementById(
-            "monthTitle"
-        )
+        .getElementById("monthTitle")
         .textContent =
 
         MONTHS[currentMonth] +
@@ -1433,24 +1268,25 @@ function renderCalendar(){
 
 
 
-    const firstDay =
-        new Date(
-            currentYear,
-            currentMonth,
-            1
-        );
+    const firstDay = new Date(
+
+        currentYear,
+        currentMonth,
+        1
+
+    );
 
 
-    const lastDay =
-        new Date(
-            currentYear,
-            currentMonth + 1,
-            0
-        );
+    const lastDay = new Date(
+
+        currentYear,
+        currentMonth + 1,
+        0
+
+    );
 
 
-    let startDay =
-        firstDay.getDay();
+    let startDay = firstDay.getDay();
 
 
     if(startDay === 0){
@@ -1460,65 +1296,47 @@ function renderCalendar(){
     }
 
 
-
     const previousMonthLastDay =
 
         new Date(
             currentYear,
             currentMonth,
             0
-        )
-        .getDate();
+        ).getDate();
 
 
 
     for(
-
         let i = startDay - 2;
-
         i >= 0;
-
         i--
-
     ){
 
-
         createDay(
-
             previousMonthLastDay - i,
-
             true
-
         );
-
 
     }
 
 
 
     for(
-
         let day = 1;
-
         day <= lastDay.getDate();
-
         day++
-
     ){
-
 
         createDay(
             day,
             false
         );
 
-
     }
 
 
 
-    const cells =
-        calendar.children.length;
+    const cells = calendar.children.length;
 
 
     const targetCells =
@@ -1533,21 +1351,15 @@ function renderCalendar(){
 
 
     for(
-
         let day = 1;
-
         day <= remaining;
-
         day++
-
     ){
-
 
         createDay(
             day,
             true
         );
-
 
     }
 
@@ -1555,21 +1367,14 @@ function renderCalendar(){
 
 
 
-function createDay(
-    day,
-    otherMonth
-){
+function createDay(day,otherMonth){
 
     const calendar =
-        document.getElementById(
-            "calendar"
-        );
+        document.getElementById("calendar");
 
 
     const cell =
-        document.createElement(
-            "div"
-        );
+        document.createElement("div");
 
 
     cell.className = "day";
@@ -1577,53 +1382,36 @@ function createDay(
 
     if(otherMonth){
 
-
-        cell.classList.add(
-            "other-month"
-        );
-
+        cell.classList.add("other-month");
 
         cell.textContent = day;
 
-
-        calendar.appendChild(
-            cell
-        );
-
+        calendar.appendChild(cell);
 
         return;
 
     }
 
 
+    const dateKey = formatDateKey(
 
-    const dateKey =
-        formatDateKey(
+        currentYear,
+        currentMonth,
+        day
 
-            currentYear,
-
-            currentMonth,
-
-            day
-
-        );
+    );
 
 
-    const events =
-        expandEvents(
+    const events = expandEvents(
 
-            eventsData[dateKey] || []
+        eventsData[dateKey] || []
 
-        );
-
+    );
 
 
     if(events.length){
 
-
-        cell.classList.add(
-            "has-events"
-        );
+        cell.classList.add("has-events");
 
 
         cell.addEventListener(
@@ -1632,28 +1420,18 @@ function createDay(
 
             () => {
 
-                selectDate(
-                    dateKey
-                );
+                selectDate(dateKey);
 
             }
 
         );
 
-
     }
 
 
+    if(selectedDate === dateKey){
 
-    if(
-        selectedDate === dateKey
-    ){
-
-
-        cell.classList.add(
-            "selected"
-        );
-
+        cell.classList.add("selected");
 
     }
 
@@ -1661,9 +1439,7 @@ function createDay(
     cell.textContent = day;
 
 
-    calendar.appendChild(
-        cell
-    );
+    calendar.appendChild(cell);
 
 }
 
@@ -1673,20 +1449,16 @@ function selectDate(dateKey){
 
     selectedDate = dateKey;
 
-
     visibleEvents = 8;
 
 
     renderCalendar();
 
-
     renderSelectedEvents();
 
 
     document
-        .querySelector(
-            ".events-section"
-        )
+        .querySelector(".events-section")
         .scrollIntoView({
 
             behavior:"smooth",
@@ -1701,25 +1473,37 @@ function selectDate(dateKey){
 
 function renderSelectedEvents(){
 
-    const date =
-        new Date(
-            selectedDate +
-            "T12:00:00"
-        );
+    const date = new Date(
+
+        selectedDate + "T12:00:00"
+
+    );
 
 
-    const events =
-        expandEvents(
+    const events = expandEvents(
 
-            eventsData[selectedDate] || []
+        eventsData[selectedDate] || []
 
-        );
+    );
+
+
+    const preparedEvents = events.map(
+
+        (event,eventIndex) => ({
+
+            ...event,
+
+            dateKey:selectedDate,
+
+            eventIndex
+
+        })
+
+    );
 
 
     document
-        .getElementById(
-            "eventsHeading"
-        )
+        .getElementById("eventsHeading")
         .textContent =
 
         "Wydarzenia – " +
@@ -1733,10 +1517,7 @@ function renderSelectedEvents(){
         ].toLowerCase();
 
 
-
-    renderEvents(
-        events
-    );
+    renderEvents(preparedEvents);
 
 }
 
@@ -1750,17 +1531,15 @@ function renderUpcomingEvents(){
     const now = new Date();
 
 
-    const todayKey =
-        formatDateKey(
+    const todayKey = formatDateKey(
 
-            now.getFullYear(),
+        now.getFullYear(),
 
-            now.getMonth(),
+        now.getMonth(),
 
-            now.getDate()
+        now.getDate()
 
-        );
-
+    );
 
 
     Object.keys(eventsData)
@@ -1782,45 +1561,45 @@ function renderUpcomingEvents(){
         .forEach(dateKey => {
 
 
-            const events =
-                expandEvents(
+            const events = expandEvents(
 
-                    eventsData[dateKey] || []
+                eventsData[dateKey] || []
 
-                );
-
-
-            events.forEach(event => {
+            );
 
 
-                allEvents.push({
+            events.forEach(
 
-                    ...event,
-
-                    dateKey
-
-                });
+                (event,eventIndex) => {
 
 
-            });
+                    allEvents.push({
+
+                        ...event,
+
+                        dateKey,
+
+                        eventIndex
+
+                    });
+
+
+                }
+
+            );
 
 
         });
 
 
-
     document
-        .getElementById(
-            "eventsHeading"
-        )
+        .getElementById("eventsHeading")
         .textContent =
 
         "Nadchodzące wydarzenia";
 
 
-    renderEvents(
-        allEvents
-    );
+    renderEvents(allEvents);
 
 }
 
@@ -1829,16 +1608,11 @@ function renderUpcomingEvents(){
 function renderEvents(events){
 
     const list =
-        document.getElementById(
-            "eventsList"
-        );
+        document.getElementById("eventsList");
 
 
     const showMoreWrap =
-        document.getElementById(
-            "showMoreWrap"
-        );
-
+        document.getElementById("showMoreWrap");
 
 
     if(!events.length){
@@ -1855,8 +1629,7 @@ function renderEvents(events){
         `;
 
 
-        showMoreWrap.style.display =
-            "none";
+        showMoreWrap.style.display = "none";
 
 
         return;
@@ -1864,258 +1637,74 @@ function renderEvents(events){
     }
 
 
+    const visible = events.slice(
 
-    const visible =
-        events.slice(
-            0,
-            visibleEvents
+        0,
+        visibleEvents
+
+    );
+
+
+    list.innerHTML = visible.map(event => {
+
+
+        const date = new Date(
+
+            event.dateKey + "T12:00:00"
+
         );
 
 
+        const formattedDate =
 
-    list.innerHTML =
+            date.toLocaleDateString(
 
-        visible.map((event,index) => {
+                "pl-PL",
 
+                {
 
-            const dateKey =
+                    day:"numeric",
 
-                event.dateKey ||
+                    month:"short",
 
-                selectedDate;
+                    year:"2-digit"
 
+                }
 
-            const date =
+            );
 
-                new Date(
 
-                    dateKey +
-                    "T12:00:00"
+        const category = getCategoryStyle(
 
-                );
+            event.category || ""
 
+        );
 
-            const formattedDate =
 
-                date.toLocaleDateString(
+        const eventUrl =
 
-                    "pl-PL",
+            "wydarzenie.html?date=" +
 
-                    {
+            encodeURIComponent(event.dateKey) +
 
-                        day:"numeric",
+            "&event=" +
 
-                        month:"short",
+            encodeURIComponent(event.eventIndex);
 
-                        year:"2-digit"
 
-                    }
+        return `
 
-                );
 
+            <a
+                class="event-card"
+                href="${eventUrl}"
+            >
 
-            const fullFormattedDate =
 
-                date.toLocaleDateString(
+                <div class="event-tile">
 
-                    "pl-PL",
 
-                    {
-
-                        weekday:"long",
-
-                        day:"numeric",
-
-                        month:"long",
-
-                        year:"numeric"
-
-                    }
-
-                );
-
-
-            const category =
-                getCategoryStyle(
-                    event.category || ""
-                );
-
-
-
-            return `
-
-
-                <article
-                    class="event-card"
-                    data-event="${index}"
-                >
-
-
-                    <div
-                        class="event-tile"
-                        onclick="toggleEvent(this)"
-                    >
-
-
-                        <div class="event-poster-box">
-
-
-                            ${
-
-                                event.image
-
-                                ? `
-
-                                    <img
-
-                                        class="event-poster-background"
-
-                                        src="${escapeHtml(
-                                            event.image
-                                        )}"
-
-                                        alt=""
-
-                                        aria-hidden="true"
-
-                                    >
-
-
-                                    <img
-
-                                        class="event-poster-main"
-
-                                        src="${escapeHtml(
-                                            event.image
-                                        )}"
-
-                                        alt="${escapeHtml(
-                                            event.title
-                                        )}"
-
-                                        loading="lazy"
-
-                                    >
-
-                                `
-
-                                : `
-
-                                    <div class="event-no-image">
-
-                                        ${category.icon}
-
-                                    </div>
-
-                                `
-
-                            }
-
-
-                        </div>
-
-
-                        <div class="event-tile-content">
-
-
-                            <div class="event-title-row">
-
-
-                                <div
-                                    class="event-category-icon"
-                                    style="
-                                        background:${category.color};
-                                    "
-                                >
-
-                                    ${category.icon}
-
-                                </div>
-
-
-                                <div class="event-title">
-
-                                    ${escapeHtml(
-                                        event.title
-                                    )}
-
-                                </div>
-
-
-                            </div>
-
-
-                            <div class="event-divider"></div>
-
-
-                            <div class="event-meta">
-
-
-                                ${
-
-                                    event.place
-
-                                    ? `
-
-                                        <div class="event-meta-row">
-
-                                            📍
-
-                                            ${escapeHtml(
-                                                event.place
-                                            )}
-
-                                        </div>
-
-                                    `
-
-                                    : ""
-
-                                }
-
-
-                                <div class="event-meta-row">
-
-                                    🗓
-
-                                    ${formattedDate}
-
-                                </div>
-
-
-                                ${
-
-                                    event.time
-
-                                    ? `
-
-                                        <div class="event-meta-row">
-
-                                            ◷
-
-                                            ${escapeHtml(
-                                                event.time
-                                            )}
-
-                                        </div>
-
-                                    `
-
-                                    : ""
-
-                                }
-
-
-                            </div>
-
-
-                        </div>
-
-
-                    </div>
-
-
-                    <div class="event-details">
+                    <div class="event-poster-box">
 
 
                         ${
@@ -2126,193 +1715,40 @@ function renderEvents(events){
 
                                 <img
 
-                                    class="event-full-poster"
+                                    class="event-poster-background"
 
-                                    src="${escapeHtml(
-                                        event.image
-                                    )}"
+                                    src="${escapeHtml(event.image)}"
 
-                                    alt="${escapeHtml(
-                                        event.title
-                                    )}"
+                                    alt=""
+
+                                    aria-hidden="true"
+
+                                >
+
+
+                                <img
+
+                                    class="event-poster-main"
+
+                                    src="${escapeHtml(event.image)}"
+
+                                    alt="${escapeHtml(event.title)}"
+
+                                    loading="lazy"
 
                                 >
 
                             `
 
-                            : ""
+                            : `
 
-                        }
+                                <div class="event-no-image">
 
-
-                        <div class="event-details-title">
-
-                            ${escapeHtml(
-                                event.title
-                            )}
-
-                        </div>
-
-
-                        <div class="event-detail-row">
-
-                            🗓
-
-                            <strong>Data:</strong>
-
-                            ${fullFormattedDate}
-
-                        </div>
-
-
-                        ${
-
-                            event.time
-
-                            ? `
-
-                                <div class="event-detail-row">
-
-                                    ◷
-
-                                    <strong>Godzina:</strong>
-
-                                    ${escapeHtml(
-                                        event.time
-                                    )}
+                                    ${category.icon}
 
                                 </div>
 
                             `
-
-                            : ""
-
-                        }
-
-
-                        ${
-
-                            event.place
-
-                            ? `
-
-                                <div class="event-detail-row">
-
-                                    📍
-
-                                    <strong>Miejsce:</strong>
-
-                                    ${escapeHtml(
-                                        event.place
-                                    )}
-
-                                </div>
-
-                            `
-
-                            : ""
-
-                        }
-
-
-                        ${
-
-                            event.organizer
-
-                            ? `
-
-                                <div class="event-detail-row">
-
-                                    👤
-
-                                    <strong>Organizator:</strong>
-
-                                    ${escapeHtml(
-                                        event.organizer
-                                    )}
-
-                                </div>
-
-                            `
-
-                            : ""
-
-                        }
-
-
-                        ${
-
-                            event.category
-
-                            ? `
-
-                                <div class="event-detail-row">
-
-                                    <strong>Kategoria:</strong>
-
-                                    ${escapeHtml(
-                                        event.category
-                                    )}
-
-                                </div>
-
-                            `
-
-                            : ""
-
-                        }
-
-
-                        ${
-
-                            event.description
-
-                            ? `
-
-                                <div class="event-description">
-
-                                    ${escapeHtml(
-                                        event.description
-                                    )}
-
-                                </div>
-
-                            `
-
-                            : ""
-
-                        }
-
-
-                        ${
-
-                            event.source
-
-                            ? `
-
-                                <a
-
-                                    class="event-source"
-
-                                    href="${escapeHtml(
-                                        event.source
-                                    )}"
-
-                                    target="_blank"
-
-                                    rel="noopener noreferrer"
-
-                                    onclick="event.stopPropagation()"
-
-                                >
-
-                                    ZOBACZ ŹRÓDŁO →
-
-                                </a>
-
-                            `
-
-                            : ""
 
                         }
 
@@ -2320,14 +1756,99 @@ function renderEvents(events){
                     </div>
 
 
-                </article>
+                    <div class="event-tile-content">
 
 
-            `;
+                        <div class="event-title-row">
 
 
-        }).join("");
+                            <div
+                                class="event-category-icon"
+                                style="background:${category.color};"
+                            >
 
+                                ${category.icon}
+
+                            </div>
+
+
+                            <div class="event-title">
+
+                                ${escapeHtml(event.title)}
+
+                            </div>
+
+
+                        </div>
+
+
+                        <div class="event-divider"></div>
+
+
+                        <div class="event-meta">
+
+
+                            ${
+
+                                event.place
+
+                                ? `
+
+                                    <div class="event-meta-row">
+
+                                        📍 ${escapeHtml(event.place)}
+
+                                    </div>
+
+                                `
+
+                                : ""
+
+                            }
+
+
+                            <div class="event-meta-row">
+
+                                🗓 ${formattedDate}
+
+                            </div>
+
+
+                            ${
+
+                                event.time
+
+                                ? `
+
+                                    <div class="event-meta-row">
+
+                                        ◷ ${escapeHtml(event.time)}
+
+                                    </div>
+
+                                `
+
+                                : ""
+
+                            }
+
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+
+
+            </a>
+
+
+        `;
+
+
+    }).join("");
 
 
     showMoreWrap.style.display =
@@ -2339,20 +1860,15 @@ function renderEvents(events){
             : "none";
 
 
-
     document
-        .getElementById(
-            "showMore"
-        )
+        .getElementById("showMore")
         .onclick = () => {
 
 
             visibleEvents += 8;
 
 
-            renderEvents(
-                events
-            );
+            renderEvents(events);
 
 
         };
@@ -2361,55 +1877,8 @@ function renderEvents(events){
 
 
 
-function toggleEvent(element){
-
-    const card =
-        element.closest(
-            ".event-card"
-        );
-
-
-    const wasOpen =
-        card.classList.contains(
-            "open"
-        );
-
-
-
-    document
-        .querySelectorAll(
-            ".event-card.open"
-        )
-        .forEach(item => {
-
-
-            item.classList.remove(
-                "open"
-            );
-
-
-        });
-
-
-
-    if(!wasOpen){
-
-
-        card.classList.add(
-            "open"
-        );
-
-
-    }
-
-}
-
-
-
 document
-    .getElementById(
-        "prevMonth"
-    )
+    .getElementById("prevMonth")
     .addEventListener(
 
         "click",
@@ -2422,11 +1891,9 @@ document
 
             if(currentMonth < 0){
 
-
                 currentMonth = 11;
 
                 currentYear--;
-
 
             }
 
@@ -2446,9 +1913,7 @@ document
 
 
 document
-    .getElementById(
-        "nextMonth"
-    )
+    .getElementById("nextMonth")
     .addEventListener(
 
         "click",
@@ -2461,11 +1926,9 @@ document
 
             if(currentMonth > 11){
 
-
                 currentMonth = 0;
 
                 currentYear++;
-
 
             }
 
@@ -2485,9 +1948,7 @@ document
 
 
 document
-    .getElementById(
-        "submitEvent"
-    )
+    .getElementById("submitEvent")
     .addEventListener(
 
         "click",
