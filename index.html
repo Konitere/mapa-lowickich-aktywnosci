@@ -79,28 +79,20 @@ img{
 .nav-inner{
     max-width:1450px;
     margin:0 auto;
-
     display:grid;
     grid-template-columns:repeat(4,1fr);
 }
 
 .nav-link{
     position:relative;
-
     min-height:100px;
-
     display:flex;
     align-items:center;
     justify-content:center;
-
     gap:18px;
-
     padding:20px;
-
     text-decoration:none;
-
     color:var(--navy);
-
     font-weight:800;
 }
 
@@ -114,35 +106,27 @@ img{
 
 .nav-link.active::after{
     content:"";
-
     position:absolute;
-
     left:12%;
     right:12%;
     bottom:0;
-
     height:4px;
-
     background:var(--red);
 }
 
 .nav-icon{
     width:38px;
     height:38px;
-
     display:flex;
     align-items:center;
     justify-content:center;
-
     font-size:31px;
-
     flex-shrink:0;
 }
 
 .nav-text{
     font-size:17px;
     line-height:1.1;
-
     text-transform:uppercase;
 }
 
@@ -157,9 +141,7 @@ img{
 
 .page{
     max-width:1450px;
-
     margin:0 auto;
-
     padding:45px 35px 70px;
 }
 
@@ -170,11 +152,8 @@ img{
 
 .calendar-section{
     display:grid;
-
     grid-template-columns:minmax(0,1fr) minmax(0,1fr);
-
     gap:45px;
-
     align-items:stretch;
 }
 
@@ -189,42 +168,28 @@ img{
 
 .month-navigation{
     display:grid;
-
     grid-template-columns:60px 1fr 60px;
-
     align-items:center;
-
     margin-bottom:24px;
 }
 
 .month-title{
     text-align:center;
-
     font-size:32px;
-
     font-weight:900;
-
     color:var(--red);
-
     text-transform:uppercase;
 }
 
 .month-btn{
     width:52px;
     height:52px;
-
     border:0;
-
     background:transparent;
-
     color:var(--red);
-
     font-size:52px;
-
     line-height:1;
-
     cursor:pointer;
-
     transition:.2s;
 }
 
@@ -234,56 +199,37 @@ img{
 
 .weekdays{
     display:grid;
-
     grid-template-columns:repeat(7,1fr);
-
     margin-bottom:10px;
 }
 
 .weekday{
     text-align:center;
-
     padding:10px 2px;
-
     font-size:16px;
-
     font-weight:900;
 }
 
 .calendar{
     display:grid;
-
     grid-template-columns:repeat(7,1fr);
-
     border:1px solid var(--border);
-
     border-radius:18px;
-
     overflow:hidden;
-
     padding:15px;
-
     background:white;
 }
 
 .day{
     position:relative;
-
     min-height:78px;
-
     display:flex;
-
     align-items:center;
     justify-content:center;
-
     font-size:23px;
-
     color:#111;
-
     cursor:default;
-
     border-radius:12px;
-
     transition:.2s;
 }
 
@@ -297,32 +243,23 @@ img{
 
 .day.has-events::after{
     content:"";
-
     position:absolute;
-
     bottom:9px;
-
     width:6px;
     height:6px;
-
     border-radius:50%;
-
     background:var(--red);
 }
 
 .day.has-events:hover{
     background:#fff0f1;
-
     color:var(--red);
 }
 
 .day.selected{
     background:var(--red);
-
     color:white;
-
     font-weight:900;
-
     box-shadow:0 7px 18px rgba(227,6,19,.25);
 }
 
@@ -337,30 +274,22 @@ img{
 
 .submit-event{
     display:block;
-
     width:100%;
-
     border-radius:22px;
-
     overflow:hidden;
-
     text-decoration:none;
-
     transition:.25s;
-
     background:#faf7f0;
 }
 
 .submit-event:hover{
     transform:translateY(-5px);
-
     box-shadow:0 18px 40px rgba(7,29,85,.14);
 }
 
 .submit-event img{
     width:100%;
     height:100%;
-
     object-fit:cover;
 }
 
@@ -375,27 +304,19 @@ img{
 
 .events-heading{
     display:flex;
-
     align-items:center;
-
     gap:15px;
-
     margin-bottom:30px;
-
     font-size:28px;
-
     font-weight:900;
 }
 
 .events-heading-icon{
     width:43px;
     height:43px;
-
     display:flex;
-
     align-items:center;
     justify-content:center;
-
     font-size:31px;
 }
 
@@ -406,13 +327,9 @@ img{
 
 .events-list{
     display:grid;
-
     grid-template-columns:repeat(4,237px);
-
     gap:30px;
-
     align-items:start;
-
     justify-content:center;
 }
 
@@ -422,23 +339,16 @@ img{
 
 .event-tile{
     background:white;
-
     border:1px solid #dddddd;
-
     border-radius:8px;
-
     overflow:hidden;
-
     box-shadow:0 2px 9px rgba(0,0,0,.12);
-
     cursor:pointer;
-
     transition:.22s;
 }
 
 .event-tile:hover{
     transform:translateY(-3px);
-
     box-shadow:0 7px 18px rgba(0,0,0,.16);
 }
 
@@ -448,41 +358,60 @@ img{
 
 
 /* =========================
-   GRAFIKA KAFELKA
+   PLAKAT + ROZMYTE TŁO
 ========================= */
 
 .event-poster-box{
     position:relative;
-
     width:100%;
-
     height:290px;
-
-    background:#f3f1eb;
-
     overflow:hidden;
+    background:#ece9e2;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
-.event-poster-box img{
+.event-poster-background{
+    position:absolute;
+    inset:-25px;
+    width:calc(100% + 50px);
+    height:calc(100% + 50px);
+    object-fit:cover;
+    object-position:center;
+    filter:blur(20px);
+    opacity:.62;
+    transform:scale(1.12);
+    z-index:1;
+}
+
+.event-poster-box::after{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:rgba(0,0,0,.06);
+    z-index:2;
+    pointer-events:none;
+}
+
+.event-poster-main{
+    position:relative;
+    z-index:3;
     width:100%;
     height:100%;
-
-    object-fit:cover;
-
+    object-fit:contain;
     object-position:center;
 }
 
 .event-no-image{
+    position:relative;
+    z-index:3;
     width:100%;
     height:100%;
-
     display:flex;
-
     align-items:center;
     justify-content:center;
-
     font-size:65px;
-
     background:#f7f5ef;
 }
 
@@ -497,65 +426,46 @@ img{
 
 .event-title-row{
     display:grid;
-
     grid-template-columns:42px minmax(0,1fr);
-
     gap:9px;
-
     align-items:center;
-
     min-height:48px;
 }
 
 .event-category-icon{
     width:40px;
     height:40px;
-
     border-radius:50%;
-
     display:flex;
-
     align-items:center;
     justify-content:center;
-
     color:white;
-
     font-size:18px;
-
     flex-shrink:0;
 }
 
 .event-title{
     color:var(--navy);
-
     font-size:14px;
-
     font-weight:700;
-
     line-height:1.35;
 }
 
 .event-divider{
     height:1px;
-
     background:#dddddd;
-
     margin:9px 0 8px;
 }
 
 .event-meta{
     display:flex;
-
     flex-direction:column;
-
     gap:3px;
 }
 
 .event-meta-row{
     color:#303030;
-
     font-size:11px;
-
     line-height:1.25;
 }
 
@@ -566,15 +476,10 @@ img{
 
 .event-details{
     display:none;
-
     margin-top:12px;
-
     padding:18px;
-
     background:#fffdf9;
-
     border:1px solid #e4e0d8;
-
     border-radius:8px;
 }
 
@@ -584,69 +489,45 @@ img{
 
 .event-full-poster{
     width:100%;
-
     max-height:450px;
-
     object-fit:contain;
-
     object-position:center;
-
     background:#f3f1eb;
-
     border-radius:6px;
-
     margin-bottom:18px;
 }
 
 .event-details-title{
     color:var(--navy);
-
     font-size:18px;
-
     font-weight:800;
-
     line-height:1.3;
-
     margin-bottom:14px;
 }
 
 .event-detail-row{
     margin:7px 0;
-
     color:#333;
-
     font-size:13px;
-
     line-height:1.45;
 }
 
 .event-description{
     margin-top:14px;
-
     color:#333;
-
     font-size:13px;
-
     line-height:1.6;
 }
 
 .event-source{
     display:inline-block;
-
     margin-top:15px;
-
     padding:10px 18px;
-
     border-radius:22px;
-
     background:var(--red);
-
     color:white;
-
     text-decoration:none;
-
     font-size:11px;
-
     font-weight:900;
 }
 
@@ -661,13 +542,9 @@ img{
 
 .empty-events{
     grid-column:1 / -1;
-
     padding:60px 25px;
-
     text-align:center;
-
     color:var(--muted);
-
     font-size:18px;
 }
 
@@ -678,35 +555,24 @@ img{
 
 .show-more-wrap{
     display:flex;
-
     justify-content:center;
-
     margin-top:35px;
 }
 
 .show-more{
     border:1.5px solid var(--red);
-
     background:white;
-
     color:var(--red);
-
     padding:14px 35px;
-
     border-radius:30px;
-
     font-size:14px;
-
     font-weight:900;
-
     cursor:pointer;
-
     text-transform:uppercase;
 }
 
 .show-more:hover{
     background:var(--red);
-
     color:white;
 }
 
@@ -717,13 +583,9 @@ img{
 
 .footer{
     border-top:1px solid var(--border);
-
     padding:35px 20px;
-
     text-align:center;
-
     color:#777;
-
     font-size:13px;
 }
 
@@ -745,7 +607,6 @@ img{
 
     .events-list{
         grid-template-columns:repeat(3,237px);
-
         gap:22px;
     }
 
@@ -764,31 +625,25 @@ img{
 
     .nav-link{
         min-height:82px;
-
         padding:12px 5px;
-
         gap:6px;
-
         flex-direction:column;
     }
 
     .nav-icon{
         width:27px;
         height:27px;
-
         font-size:23px;
     }
 
     .nav-text{
         text-align:center;
-
         font-size:9px;
     }
 
     .nav-link.active::after{
         left:5%;
         right:5%;
-
         height:3px;
     }
 
@@ -798,7 +653,6 @@ img{
 
     .calendar-section{
         grid-template-columns:1fr;
-
         gap:25px;
     }
 
@@ -813,7 +667,6 @@ img{
     .month-btn{
         width:45px;
         height:45px;
-
         font-size:43px;
     }
 
@@ -823,22 +676,18 @@ img{
 
     .calendar{
         padding:7px;
-
         border-radius:13px;
     }
 
     .day{
         min-height:53px;
-
         font-size:17px;
-
         border-radius:8px;
     }
 
     .day.has-events::after{
         width:4px;
         height:4px;
-
         bottom:5px;
     }
 
@@ -856,22 +705,18 @@ img{
 
     .events-heading{
         font-size:21px;
-
         margin-bottom:22px;
     }
 
     .events-heading-icon{
         width:32px;
         height:32px;
-
         font-size:25px;
     }
 
     .events-list{
         grid-template-columns:repeat(2,minmax(0,1fr));
-
         gap:12px;
-
         justify-content:stretch;
     }
 
@@ -885,16 +730,13 @@ img{
 
     .event-title-row{
         grid-template-columns:34px minmax(0,1fr);
-
         gap:7px;
-
         min-height:42px;
     }
 
     .event-category-icon{
         width:34px;
         height:34px;
-
         font-size:15px;
     }
 
@@ -929,7 +771,6 @@ img{
 
     .day{
         min-height:47px;
-
         font-size:15px;
     }
 
@@ -951,22 +792,18 @@ img{
 
     .event-title-row{
         grid-template-columns:31px minmax(0,1fr);
-
         gap:6px;
-
         min-height:38px;
     }
 
     .event-category-icon{
         width:31px;
         height:31px;
-
         font-size:14px;
     }
 
     .event-title{
         font-size:11px;
-
         line-height:1.3;
     }
 
@@ -2091,6 +1928,27 @@ function renderEvents(events){
                 );
 
 
+            const fullFormattedDate =
+
+                date.toLocaleDateString(
+
+                    "pl-PL",
+
+                    {
+
+                        weekday:"long",
+
+                        day:"numeric",
+
+                        month:"long",
+
+                        year:"numeric"
+
+                    }
+
+                );
+
+
             const category =
                 getCategoryStyle(
                     event.category || ""
@@ -2124,6 +1982,23 @@ function renderEvents(events){
 
                                     <img
 
+                                        class="event-poster-background"
+
+                                        src="${escapeHtml(
+                                            event.image
+                                        )}"
+
+                                        alt=""
+
+                                        aria-hidden="true"
+
+                                    >
+
+
+                                    <img
+
+                                        class="event-poster-main"
+
                                         src="${escapeHtml(
                                             event.image
                                         )}"
@@ -2133,10 +2008,6 @@ function renderEvents(events){
                                         )}"
 
                                         loading="lazy"
-
-                                        onerror="
-                                            this.style.display='none'
-                                        "
 
                                     >
 
@@ -2303,7 +2174,7 @@ function renderEvents(events){
 
                             <strong>Data:</strong>
 
-                            ${formattedDate}
+                            ${fullFormattedDate}
 
                         </div>
 
@@ -2445,9 +2316,7 @@ function renderEvents(events){
 
                                     rel="noopener noreferrer"
 
-                                    onclick="
-                                        event.stopPropagation()
-                                    "
+                                    onclick="event.stopPropagation()"
 
                                 >
 
