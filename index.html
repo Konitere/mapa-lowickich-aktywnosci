@@ -1957,28 +1957,54 @@ function renderUpcomingEvents(){
 
     const allEvents = [];
 
+    /*
+    Dzisiejsza data w formacie YYYY-MM-DD.
+    Używamy lokalnej daty, żeby nie było problemów
+    ze strefą czasową.
+    */
+
+    const now = new Date();
+
+    const todayKey = formatDateKey(
+        now.getFullYear(),
+        now.getMonth(),
+        now.getDate()
+    );
+
 
     Object.keys(eventsData)
+
+        /*
+        Bierzemy tylko prawidłowe daty
+        */
 
         .filter(key =>
             /^\d{4}-\d{2}-\d{2}$/.test(key)
         )
 
+        /*
+        Usuwamy wydarzenia, które już się odbyły
+        */
+
+        .filter(dateKey =>
+            dateKey >= todayKey
+        )
+
+        /*
+        Sortujemy od najbliższej daty
+        */
+
         .sort()
 
         .forEach(dateKey => {
 
-
             const events =
                 expandEvents(
-
                     eventsData[dateKey] || []
-
                 );
 
 
             events.forEach(event => {
-
 
                 allEvents.push({
 
@@ -1988,12 +2014,9 @@ function renderUpcomingEvents(){
 
                 });
 
-
             });
 
-
         });
-
 
 
     document
@@ -2001,7 +2024,6 @@ function renderUpcomingEvents(){
             "eventsHeading"
         )
         .textContent =
-
         "Nadchodzące wydarzenia";
 
 
