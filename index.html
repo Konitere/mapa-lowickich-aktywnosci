@@ -377,6 +377,26 @@ img{
     pointer-events:none;
 }
 
+.cinema-mosaic{
+    position:absolute;
+    inset:0;
+    z-index:3;
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:3px;
+    padding:7px;
+    background:#f7f5ef;
+}
+
+.cinema-mosaic img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    object-position:center;
+    min-width:0;
+}
+
+
 .event-poster-main{
     position:relative;
     z-index:3;
@@ -1006,66 +1026,9 @@ function escapeHtml(value){
 
 function expandEvents(events){
 
-    const result = [];
-
-
-    events.forEach(event => {
-
-
-        if(
-            event.type === "cinema" &&
-            Array.isArray(event.movies)
-        ){
-
-
-            event.movies.forEach(movie => {
-
-
-                result.push({
-
-                    title:movie.title,
-
-                    time:movie.times
-                        ? movie.times.join(", ")
-                        : "",
-
-                    image:movie.image,
-
-                    place:event.place,
-
-                    category:event.category || "Kino",
-
-                    organizer:event.organizer,
-
-                    source:event.source,
-
-                    description:
-                        movie.description ||
-                        event.description ||
-                        ""
-
-                });
-
-
-            });
-
-
-        }else{
-
-
-            result.push(event);
-
-
-        }
-
-
-    });
-
-
-    return result;
+    return events;
 
 }
-
 
 
 function getCategoryStyle(category = ""){
@@ -1619,16 +1582,19 @@ function renderUpcomingEvents(){
         .forEach(dateKey => {
 
 
-            const events = expandEvents(
-
-                eventsData[dateKey] || []
-
-            );
+            const events = eventsData[dateKey] || [];
 
 
             events.forEach(
 
                 (event,eventIndex) => {
+
+
+                    if(isCinemaEvent(event)){
+
+                        return;
+
+                    }
 
 
                     allEvents.push({
@@ -1650,6 +1616,20 @@ function renderUpcomingEvents(){
         });
 
 
+    const cinemaSummary = getCinemaSummary();
+
+
+    if(cinemaSummary){
+
+        allEvents.splice(
+            Math.min(3,allEvents.length),
+            0,
+            cinemaSummary
+        );
+
+    }
+
+
     document
         .getElementById("eventsHeading")
         .textContent =
@@ -1660,7 +1640,6 @@ function renderUpcomingEvents(){
     renderEvents(allEvents);
 
 }
-
 
 
 function renderEvents(events){
@@ -1739,15 +1718,17 @@ function renderEvents(events){
         );
 
 
-        const eventUrl =
+        const eventUrl = event.isCinemaSummary
 
-            "wydarzenie.html?date=" +
+            ? "repertuar.html"
 
-            encodeURIComponent(event.dateKey) +
+            : "wydarzenie.html?date=" +
 
-            "&event=" +
+                encodeURIComponent(event.dateKey) +
 
-            encodeURIComponent(event.eventIndex);
+                "&event=" +
+
+                encodeURIComponent(event.eventIndex);
 
 
         return `
@@ -1767,7 +1748,27 @@ function renderEvents(events){
 
                         ${
 
-                            event.image
+                            event.isCinemaSummary
+
+                            ? `
+
+                                <div class="cinema-mosaic">
+
+                                    ${event.images.map(image => `
+
+                                        <img
+                                            src="${escapeHtml(image)}"
+                                            alt=""
+                                            loading="lazy"
+                                        >
+
+                                    `).join("")}
+
+                                </div>
+
+                            `
+
+                            : event.image
 
                             ? `
 
@@ -1848,45 +1849,72 @@ function renderEvents(events){
 
                             ${
 
-                                event.place
+                                event.isCinemaSummary
 
                                 ? `
 
                                     <div class="event-meta-row">
 
-                                        📍 ${escapeHtml(event.place)}
+                                        🗓 ${escapeHtml(formatCinemaRange(event.dateFrom,event.dateTo))}
 
                                     </div>
 
-                                `
-
-                                : ""
-
-                            }
-
-
-                            <div class="event-meta-row">
-
-                                🗓 ${formattedDate}
-
-                            </div>
-
-
-                            ${
-
-                                event.time
-
-                                ? `
 
                                     <div class="event-meta-row">
 
-                                        ◷ ${escapeHtml(event.time)}
+                                        🎞 ${event.movieCount} filmów
 
                                     </div>
 
                                 `
 
-                                : ""
+                                : `
+
+                                    ${
+
+                                        event.place
+
+                                        ? `
+
+                                            <div class="event-meta-row">
+
+                                                📍 ${escapeHtml(event.place)}
+
+                                            </div>
+
+                                        `
+
+                                        : ""
+
+                                    }
+
+
+                                    <div class="event-meta-row">
+
+                                        🗓 ${formattedDate}
+
+                                    </div>
+
+
+                                    ${
+
+                                        event.time
+
+                                        ? `
+
+                                            <div class="event-meta-row">
+
+                                                ◷ ${escapeHtml(event.time)}
+
+                                            </div>
+
+                                        `
+
+                                        : ""
+
+                                    }
+
+                                `
 
                             }
 
