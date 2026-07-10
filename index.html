@@ -1202,21 +1202,70 @@ async function loadEvents(){
     try{
 
 
-        const response = await fetch(
-
-            "events.json?v=" + Date.now()
-
-        );
+        const cacheBust = Date.now();
 
 
-        if(!response.ok){
+        const [
+            eventsResponse,
+            cinemaResponse
+        ] = await Promise.all([
+
+            fetch("events.json?v=" + cacheBust),
+
+            fetch("cinema.json?v=" + cacheBust)
+
+        ]);
+
+
+        if(!eventsResponse.ok){
 
             throw new Error("Błąd events.json");
 
         }
 
 
-        eventsData = await response.json();
+        if(!cinemaResponse.ok){
+
+            throw new Error("Błąd cinema.json");
+
+        }
+
+
+        const [
+            regularEvents,
+            cinemaEvents
+        ] = await Promise.all([
+
+            eventsResponse.json(),
+
+            cinemaResponse.json()
+
+        ]);
+
+
+        const allDates = new Set([
+
+            ...Object.keys(regularEvents),
+
+            ...Object.keys(cinemaEvents)
+
+        ]);
+
+
+        eventsData = {};
+
+
+        allDates.forEach(dateKey => {
+
+            eventsData[dateKey] = [
+
+                ...(regularEvents[dateKey] || []),
+
+                ...(cinemaEvents[dateKey] || [])
+
+            ];
+
+        });
 
 
         renderCalendar();
