@@ -399,8 +399,16 @@ img{
     background:#fff;
 }
 
+.event-poster-box:has(.event-poster-main.portrait){
+    height:auto;
+    aspect-ratio:auto;
+}
+
 .event-poster-box:has(.event-poster-main.portrait) .event-poster-main{
-    object-fit:cover;
+    width:100%;
+    height:auto;
+    object-fit:contain;
+    display:block;
 }
 
 .event-poster-box:has(.event-poster-main.portrait) .event-poster-background{
