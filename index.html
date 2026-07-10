@@ -86,23 +86,23 @@ img{
 .nav-link{
     position:relative;
     min-width:0;
-    height:86px;
+    min-height:88px;
     display:flex;
     align-items:center;
     justify-content:center;
-    padding:4px 6px;
-    margin:0;
+    padding:14px 18px;
     text-decoration:none;
-    overflow:hidden;
-    background:transparent;
+    color:var(--navy);
+    background:white;
     transition:.22s;
 }
 
 .nav-link:hover{
-    transform:none;
-    box-shadow:none;
-    z-index:2;
-    filter:brightness(.98);
+    background:#fffafa;
+}
+
+.nav-link.active{
+    color:var(--red);
 }
 
 .nav-link.active::after{
@@ -113,15 +113,14 @@ img{
     bottom:0;
     height:4px;
     background:var(--red);
-    z-index:3;
 }
 
-.nav-tile-image{
-    width:100%;
-    height:100%;
-    display:block;
-    object-fit:contain;
-    object-position:center;
+.nav-text{
+    font-size:18px;
+    line-height:1.15;
+    font-weight:800;
+    text-align:center;
+    text-transform:uppercase;
 }
 
 
@@ -550,19 +549,22 @@ img{
 
     .nav-inner{
         grid-template-columns:repeat(4,minmax(0,1fr));
-        gap:0;
     }
 
     .nav-link{
-        height:52px;
-        padding:2px 3px;
+        min-height:72px;
+        padding:9px 5px;
     }
 
-    .nav-tile-image{
-        width:100%;
-        height:100%;
-        object-fit:contain;
-        object-position:center;
+    .nav-text{
+        font-size:11px;
+        line-height:1.15;
+    }
+
+    .nav-link.active::after{
+        left:5%;
+        right:5%;
+        height:3px;
     }
 
     .page{
@@ -668,6 +670,16 @@ img{
 ========================= */
 
 @media(max-width:430px){
+
+    .nav-link{
+        min-height:66px;
+        padding:8px 3px;
+    }
+
+    .nav-text{
+        font-size:9px;
+    }
+
 .weekday{
         font-size:9px;
     }
@@ -757,19 +769,19 @@ select{
     <div class="nav-inner">
 
         <a href="#kalendarz" class="nav-link active">
-            <img class="nav-tile-image" src="kalendarz.png" alt="Kalendarz">
+            <span class="nav-text">Kalendarz</span>
         </a>
 
         <a href="#atrakcje" class="nav-link">
-            <img class="nav-tile-image" src="atrakcje.png" alt="Atrakcje w powiecie łowickim">
+            <span class="nav-text">Atrakcje w powiecie łowickim</span>
         </a>
 
         <a href="#restauracje" class="nav-link">
-            <img class="nav-tile-image" src="restauracje.png" alt="Polecane restauracje">
+            <span class="nav-text">Polecane restauracje</span>
         </a>
 
         <a href="#oprojekcie" class="nav-link">
-            <img class="nav-tile-image" src="oprojekcie.png" alt="O projekcie">
+            <span class="nav-text">O projekcie</span>
         </a>
 
     </div>
