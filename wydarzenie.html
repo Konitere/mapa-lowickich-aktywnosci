@@ -216,7 +216,7 @@ img{
     max-height:720px;
     min-height:360px;
     overflow:hidden;
-    background:#ece9e2;
+    background:#ffffff;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -240,7 +240,7 @@ img{
     content:"";
     position:absolute;
     inset:0;
-    background:rgba(0,0,0,.05);
+    background:transparent;
     z-index:2;
     pointer-events:none;
 }
@@ -1112,14 +1112,6 @@ function renderEvent(event,dateKey){
                 event.image
 
                 ? `
-
-                    <img
-                        class="poster-background"
-                        src="${escapeHtml(event.image)}"
-                        alt=""
-                        aria-hidden="true"
-                    >
-
 
                     <img
                         class="poster-main"
