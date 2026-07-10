@@ -888,29 +888,67 @@ async function loadEvent(){
     try{
 
 
-        const response = await fetch(
-
-            "events.json?v=" + Date.now()
-
-        );
+        const cacheBust = Date.now();
 
 
-        if(!response.ok){
+        const loadJson = async fileName => {
 
-            throw new Error("Błąd events.json");
+            try{
 
-        }
+                const response = await fetch(
+
+                    fileName + "?v=" + cacheBust
+
+                );
 
 
-        const eventsData =
-            await response.json();
+                if(!response.ok){
+
+                    return {};
+
+                }
 
 
-        const events = expandEvents(
+                return await response.json();
 
-            eventsData[dateKey] || []
 
-        );
+            }catch(error){
+
+                console.warn(
+                    "Błąd pliku " + fileName,
+                    error
+                );
+
+                return {};
+
+            }
+
+        };
+
+
+        const [
+            regularEvents,
+            cinemaEvents
+        ] = await Promise.all([
+
+            loadJson("events.json"),
+
+            loadJson("cinema.json")
+
+        ]);
+
+
+        const events = [
+
+            ...(Array.isArray(regularEvents[dateKey])
+                ? regularEvents[dateKey]
+                : []),
+
+            ...(Array.isArray(cinemaEvents[dateKey])
+                ? cinemaEvents[dateKey]
+                : [])
+
+        ];
 
 
         const event = events[eventIndex];
@@ -919,6 +957,23 @@ async function loadEvent(){
         if(!event){
 
             showError();
+
+            return;
+
+        }
+
+
+        if(
+            event.type === "cinema" &&
+            Array.isArray(event.movies)
+        ){
+
+            window.location.href =
+
+                "repertuar.html?date=" +
+
+                encodeURIComponent(dateKey);
+
 
             return;
 
@@ -942,7 +997,6 @@ async function loadEvent(){
     }
 
 }
-
 
 
 function renderEvent(event,dateKey){
