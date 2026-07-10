@@ -1026,7 +1026,51 @@ function escapeHtml(value){
 
 function expandEvents(events){
 
-    return events;
+    const result = [];
+
+
+    events.forEach(event => {
+
+
+        if(
+            event.type === "cinema" &&
+            Array.isArray(event.movies)
+        ){
+
+            result.push({
+
+                title:"Repertuar Kina Fenix",
+
+                image:"repertuar.png",
+
+                place:event.place || "Kino Fenix, Łowicz",
+
+                category:"Kino",
+
+                organizer:event.organizer,
+
+                source:event.source,
+
+                type:"cinema",
+
+                movies:event.movies
+
+            });
+
+
+        }else{
+
+
+            result.push(event);
+
+
+        }
+
+
+    });
+
+
+    return result;
 
 }
 
@@ -1582,38 +1626,16 @@ function renderUpcomingEvents(){
         .forEach(dateKey => {
 
 
-            const events = eventsData[dateKey] || [];
+            const events = expandEvents(
+
+                eventsData[dateKey] || []
+
+            );
 
 
             events.forEach(
 
                 (event,eventIndex) => {
-
-
-                    if(isCinemaEvent(event)){
-
-                        allEvents.push({
-
-                            title:"Kino Fenix – repertuar",
-
-                            category:"Kino",
-
-                            place:event.place || "Kino Fenix, Łowicz",
-
-                            image:"repertuar.png",
-
-                            dateKey,
-
-                            eventIndex,
-
-                            isCinemaDay:true
-
-                        });
-
-
-                        return;
-
-                    }
 
 
                     allEvents.push({
@@ -1723,15 +1745,11 @@ function renderEvents(events){
         );
 
 
-        const eventUrl = event.isCinemaDay
+        const eventUrl = event.type === "cinema"
 
             ? "repertuar.html?date=" +
 
                 encodeURIComponent(event.dateKey)
-
-            : event.isCinemaSummary
-
-            ? "repertuar.html"
 
             : "wydarzenie.html?date=" +
 
