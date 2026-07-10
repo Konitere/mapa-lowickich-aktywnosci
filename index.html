@@ -1201,34 +1201,41 @@ async function loadEvents(){
 
     try{
 
-
         const cacheBust = Date.now();
 
+        const loadJson = async (fileName) => {
 
-        const [
-            eventsResponse,
-            cinemaResponse
-        ] = await Promise.all([
+            try{
 
-            fetch("events.json?v=" + cacheBust),
+                const response = await fetch(
+                    fileName + "?v=" + cacheBust
+                );
 
-            fetch("cinema.json?v=" + cacheBust)
+                if(!response.ok){
 
-        ]);
+                    console.warn(
+                        "Nie udało się wczytać " + fileName,
+                        response.status
+                    );
 
+                    return {};
 
-        if(!eventsResponse.ok){
+                }
 
-            throw new Error("Błąd events.json");
+                return await response.json();
 
-        }
+            }catch(error){
 
+                console.warn(
+                    "Błąd pliku " + fileName,
+                    error
+                );
 
-        if(!cinemaResponse.ok){
+                return {};
 
-            throw new Error("Błąd cinema.json");
+            }
 
-        }
+        };
 
 
         const [
@@ -1236,18 +1243,20 @@ async function loadEvents(){
             cinemaEvents
         ] = await Promise.all([
 
-            eventsResponse.json(),
+            loadJson("events.json"),
 
-            cinemaResponse.json()
+            loadJson("cinema.json")
 
         ]);
 
 
         const allDates = new Set([
 
-            ...Object.keys(regularEvents),
+            ...Object.keys(regularEvents)
+                .filter(key => /^\d{4}-\d{2}-\d{2}$/.test(key)),
 
             ...Object.keys(cinemaEvents)
+                .filter(key => /^\d{4}-\d{2}-\d{2}$/.test(key))
 
         ]);
 
@@ -1259,9 +1268,13 @@ async function loadEvents(){
 
             eventsData[dateKey] = [
 
-                ...(regularEvents[dateKey] || []),
+                ...(Array.isArray(regularEvents[dateKey])
+                    ? regularEvents[dateKey]
+                    : []),
 
-                ...(cinemaEvents[dateKey] || [])
+                ...(Array.isArray(cinemaEvents[dateKey])
+                    ? cinemaEvents[dateKey]
+                    : [])
 
             ];
 
@@ -1275,9 +1288,7 @@ async function loadEvents(){
 
     }catch(error){
 
-
         console.error(error);
-
 
         document
             .getElementById("eventsList")
@@ -1291,11 +1302,9 @@ async function loadEvents(){
 
             `;
 
-
     }
 
 }
-
 
 
 function renderCalendar(){
