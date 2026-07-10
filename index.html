@@ -86,9 +86,11 @@ img{
 .nav-link{
     position:relative;
     min-width:0;
-    height:92px;
-    display:block;
-    padding:0;
+    height:86px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:4px 6px;
     margin:0;
     text-decoration:none;
     overflow:hidden;
@@ -118,7 +120,7 @@ img{
     width:100%;
     height:100%;
     display:block;
-    object-fit:cover;
+    object-fit:contain;
     object-position:center;
 }
 
@@ -546,25 +548,21 @@ img{
 
 @media(max-width:800px){
 
+    .nav-inner{
+        grid-template-columns:repeat(4,minmax(0,1fr));
+        gap:0;
+    }
+
     .nav-link{
-        height:58px;
+        height:52px;
+        padding:2px 3px;
     }
 
     .nav-tile-image{
         width:100%;
         height:100%;
-        object-fit:cover;
+        object-fit:contain;
         object-position:center;
-    }
-
-
-    .nav-inner{
-        grid-template-columns:repeat(4,1fr);
-    }
-.nav-link.active::after{
-        left:5%;
-        right:5%;
-        height:3px;
     }
 
     .page{
@@ -759,19 +757,19 @@ select{
     <div class="nav-inner">
 
         <a href="#kalendarz" class="nav-link active">
-            <img class="nav-tile-image" src="kalendarz.png" alt="Kalendarz">
+            <img class="nav-tile-image" src="gotowe_kalendarz.png" alt="Kalendarz">
         </a>
 
         <a href="#atrakcje" class="nav-link">
-            <img class="nav-tile-image" src="atrakcje.png" alt="Atrakcje w powiecie łowickim">
+            <img class="nav-tile-image" src="gotowe_atrakcje.png" alt="Atrakcje w powiecie łowickim">
         </a>
 
         <a href="#restauracje" class="nav-link">
-            <img class="nav-tile-image" src="restauracje.png" alt="Polecane restauracje">
+            <img class="nav-tile-image" src="gotowe_restauracje.png" alt="Polecane restauracje">
         </a>
 
         <a href="#oprojekcie" class="nav-link">
-            <img class="nav-tile-image" src="oprojekcie.png" alt="O projekcie">
+            <img class="nav-tile-image" src="gotowe_oprojekcie.png" alt="O projekcie">
         </a>
 
     </div>
