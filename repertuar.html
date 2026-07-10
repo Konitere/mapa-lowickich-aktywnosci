@@ -52,6 +52,16 @@ select{
     font-family:"Montserrat", Arial, sans-serif !important;
 }
 
+
+.movie-title a{
+    color:inherit;
+    text-decoration:none;
+}
+
+.movie-title a:hover{
+    text-decoration:underline;
+}
+
 </style>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -147,7 +157,12 @@ function renderMovies(){
                 ${movie.image?`<img src="${escapeHtml(movie.image)}" alt="${escapeHtml(movie.title)}">`:""}
             </div>
             <div>
-                <div class="movie-title">${escapeHtml(movie.title)}</div>
+                <div class="movie-title">
+                    ${movie.filmweb
+                        ? `<a href="${escapeHtml(movie.filmweb)}" target="_blank" rel="noopener noreferrer">${escapeHtml(movie.title)}</a>`
+                        : escapeHtml(movie.title)
+                    }
+                </div>
                 <div class="movie-info">Kino Fenix • Łowicz</div>
             </div>
             <div class="times">
