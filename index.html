@@ -1592,6 +1592,25 @@ function renderUpcomingEvents(){
 
                     if(isCinemaEvent(event)){
 
+                        allEvents.push({
+
+                            title:"Kino Fenix – repertuar",
+
+                            category:"Kino",
+
+                            place:event.place || "Kino Fenix, Łowicz",
+
+                            image:"repertuar.png",
+
+                            dateKey,
+
+                            eventIndex,
+
+                            isCinemaDay:true
+
+                        });
+
+
                         return;
 
                     }
@@ -1614,20 +1633,6 @@ function renderUpcomingEvents(){
 
 
         });
-
-
-    const cinemaSummary = getCinemaSummary();
-
-
-    if(cinemaSummary){
-
-        allEvents.splice(
-            Math.min(3,allEvents.length),
-            0,
-            cinemaSummary
-        );
-
-    }
 
 
     document
@@ -1718,7 +1723,13 @@ function renderEvents(events){
         );
 
 
-        const eventUrl = event.isCinemaSummary
+        const eventUrl = event.isCinemaDay
+
+            ? "repertuar.html?date=" +
+
+                encodeURIComponent(event.dateKey)
+
+            : event.isCinemaSummary
 
             ? "repertuar.html"
 
