@@ -396,6 +396,19 @@ img{
     height:100%;
     object-fit:contain;
     object-position:center;
+    background:#fff;
+}
+
+.event-poster-box:has(.event-poster-main.portrait) .event-poster-main{
+    object-fit:cover;
+}
+
+.event-poster-box:has(.event-poster-main.portrait) .event-poster-background{
+    display:none;
+}
+
+.event-poster-box:has(.event-poster-main.landscape) .event-poster-background{
+    display:none;
 }
 
 .event-no-image{
@@ -1799,6 +1812,7 @@ function renderEvents(events){
                                     alt="${escapeHtml(event.title)}"
 
                                     loading="lazy"
+                                    onload="this.classList.add(this.naturalHeight > this.naturalWidth ? 'portrait' : 'landscape')"
 
                                 >
 
