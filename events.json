@@ -209,6 +209,20 @@
     "source": "https://lok.art.pl/wp-content/uploads/2026/07/winni-kase.jpg"
   }
     ],
+  "2026-07-20": [
+  {
+    "date": "2026-07-20",
+    "title": "Hortiterapia - warsztaty",
+    "time": "10:00",
+    "endTime": "12:00",
+    "location": "Park Błonie (przy Pomniku), Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+    "source": "https://lok.art.pl/"
+  },
+    ],
+  
   "2026-07-21": [
   {
   "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
@@ -240,8 +254,32 @@
     "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
     "image": "plakaty/zaczytane-wakacje-2026.jpg",
     "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+      {
+    "date": "2026-07-21",
+    "title": "Hortiterapia - warsztaty",
+    "time": "10:00",
+    "endTime": "12:00",
+    "location": "Park im. A. Mickiewicza (przy wejściu do SP2), Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+    "source": "https://lok.art.pl/"
   }
       ],
+   "2026-07-22": [
+  {
+    "date": "2026-07-22",
+    "title": "Hortiterapia - warsztaty",
+    "time": "10:00",
+    "endTime": "12:00",
+    "location": "Park Al. Sienkiewicza (przy Pomniku Zawiszy), Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+    "source": "https://lok.art.pl/"
+  }
+     ],
   "2026-07-23": [
    {
     "date": "2026-07-23",
@@ -264,8 +302,33 @@
     "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
     "image": "plakaty/zaczytane-wakacje-2026.jpg",
     "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+      {
+    "date": "2026-07-23",
+    "title": "Hortiterapia - warsztaty",
+    "time": "10:00",
+    "endTime": "12:00",
+    "location": "Baszta Gen. Klickiego (przy budynku), Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+    "source": "https://lok.art.pl/"
   }
     ],
+"2026-07-24": [
+   {
+    "date": "2026-07-24",
+    "title": "Hortiterapia - warsztaty",
+    "time": "10:00",
+    "endTime": "12:00",
+    "location": "Łowicki Ośrodek Kultury (przy kasie kina), Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+    "source": "https://lok.art.pl/"
+  }
+],
+  
   "2026-07-25": [
     {
       "title": "Koncert - Mamma Mia",
