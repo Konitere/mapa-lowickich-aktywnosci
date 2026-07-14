@@ -220,7 +220,7 @@
     "organizer": "Łowicki Ośrodek Kultury",
     "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
     "source": "https://lok.art.pl/"
-  },
+  }
     ],
   
   "2026-07-21": [
@@ -374,8 +374,30 @@
     "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
     "image": "plakaty/zaczytane-wakacje-2026.jpg",
     "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+     {
+    "date": "2026-07-28",
+    "title": "Retro Granie na Wielkim Ekranie",
+    "time": "do ustalenia",
+    "location": "Kino Fenix, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
+    "source": "https://lok.art.pl/"
   }
      ],
+      "2026-07-29": [
+          {
+    "date": "2026-07-29",
+    "title": "Retro Granie na Wielkim Ekranie",
+    "time": "do ustalenia",
+    "location": "Kino Fenix, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
+    "source": "https://lok.art.pl/"
+  }
+         ],
     "2026-07-30": [
       {
     "date": "2026-07-30",
@@ -398,6 +420,16 @@
     "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
     "image": "plakaty/zaczytane-wakacje-2026.jpg",
     "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+       {
+    "date": "2026-07-30",
+    "title": "Retro Granie na Wielkim Ekranie",
+    "time": "do ustalenia",
+    "location": "Kino Fenix, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
+    "source": "https://lok.art.pl/"
   }
 ],
   
