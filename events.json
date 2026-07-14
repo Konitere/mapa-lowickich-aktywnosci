@@ -287,8 +287,92 @@
   "organizer": "Łowicki Ośrodek Kultury",
   "image": "plakaty/festiwal-organowy-bach-2026.jpg",
   "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-}
+},
+    {
+    "date": "2026-08-04",
+    "title": "Bajkowy English, czytanie książek w języku angielskiy",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+     {
+    "date": "2026-08-04",
+    "title": "Wokół książki: „Mój przyjaciel pies” – spotkanie autorskie z Martą Mąg i psem Preclem",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+],
+    "2026-08-06": [
+      {
+    "date": "2026-08-06",
+    "title": "Łowickie klimaty: Wyjazd do Centrum Folkloru Polskiego Karolin",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
       ],
+"2026-08-11": [
+  {
+    "date": "2026-08-11",
+    "title": "Czytanie przez poznawanie „Sensoryka”",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+   {
+    "date": "2026-08-11",
+    "title": "Wokół książki: „Pippi Pończoszanka” Astrid Lindgren",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+   ],
+   "2026-08-13": [
+  {
+    "date": "2026-08-13",
+    "title": "Bajki z rzutnika „Przygody Koziołka Matołka. Księga I” – głośne czytanie",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+      {
+    "date": "2026-08-13",
+    "title": "LEGO Edukido „Przenieś się do świata bajek” i „Budujemy maszynę Gutenberga”",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+   ],
+  
   "2026-08-18": [
   {
   "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
@@ -298,9 +382,57 @@
   "organizer": "Łowicki Ośrodek Kultury",
   "image": "plakaty/festiwal-organowy-bach-2026.jpg",
   "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-}
+},
+     {
+    "date": "2026-08-18",
+    "title": "Bajkowy English, czytanie książek w języku angielskim",
+    "time": "15:30",
+    "endTime": "16:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Klub Miłośników Komiksu – edycja wakacyjna",
+    "time": "16:30",
+    "endTime": "18:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
       ],
- 
+   "2026-08-20": [
+
+     {
+    "date": "2026-08-20",
+    "title": "Teatr Arlekin – spektakl „Brzechwa Dzieciom”",
+    "time": "15:30",
+    "endTime": "16:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Spektakl",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Warsztaty teatralno-ekspresyjne",
+    "time": "16:30",
+    "endTime": "18:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+     ],
+
+  
   "2026-08-25": [
   {
   "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
@@ -310,9 +442,55 @@
   "organizer": "Łowicki Ośrodek Kultury",
   "image": "plakaty/festiwal-organowy-bach-2026.jpg",
   "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-}
-      ]
-
+},
+    {
+    "date": "2026-08-25",
+    "title": "Czytanie przez poznawanie „Sensoryka”",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Wokół książki: „Drzewa” Piotra Sochy i Wojciecha Grajkowskiego",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+      ],
+  
+"2026-08-27": [
+  {
+    "date": "2026-08-27",
+    "title": "Łowickie klimaty: Wyjazd do Centrum Folkloru Polskiego „Karolin”",
+    "time": "08:00",
+    "endTime": "15:30",
+    "location": "Centrum Folkloru Polskiego „Karolin”",
+    "category": "Wycieczka",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Warsztaty taneczne „Polskie Tańce Ludowe”, obioca",
+    "time": "08:00",
+    "endTime": "15:30",
+    "location": "Centrum Folkloru Polskiego „Karolin”",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-20261.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+]
 
  
 }
