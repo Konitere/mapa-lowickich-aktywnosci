@@ -126,6 +126,18 @@
   "source": "https://cebrowski.pl/kalendarz-wydarzen/zaczytane-wakacje-wokol-ksiazki-nela-mala-reporterka-national-geographic/"
 }
      ],
+   "2026-07-15": [
+   {
+    "date": "2026-07-15",
+    "title": "Turbo Wakacje 2026",
+    "time": "11:00",
+    "location": "Łowicki Ośrodek Kultury, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
+    "source": "https://lok.art.pl/turbowakacje/"
+  }
+     ],
       "2026-07-16": [
      {
     "date": "2026-07-16",
@@ -138,6 +150,7 @@
     "image": "plakaty/lego-edukido-sredniowieczny-zamek-2026.jpg",
     "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-bajki-z-rzutnika-o-krasnoludkach-i-sierotce-marysi/"
   },
+        
   {
     "date": "2026-07-16",
     "title": "Zaczytane Wakacje: Lego Edukido „Życie na średniowiecznym zamku – budujemy z LEGO”",
@@ -148,8 +161,31 @@
     "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
     "image": "plakaty/lego-edukido-sredniowieczny-zamek-20261.jpg",
     "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-lego-edukido-zycie-na-sredniowiecznym-zamku-budujemy-z-lego/"
+  },
+         {
+    "date": "2026-07-16",
+    "title": "Turbo Wakacje 2026",
+    "time": "11:00",
+    "location": "Łowicki Ośrodek Kultury, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
+    "source": "https://lok.art.pl/turbowakacje/"
   }
      ],
+    "2026-07-17": [
+      {
+    "date": "2026-07-17",
+    "title": "Turbo Wakacje 2026",
+    "time": "11:00",
+    "location": "Łowicki Ośrodek Kultury, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
+    "source": "https://lok.art.pl/turbowakacje/"
+  }
+],
+  
     "2026-07-18": [
   {
   "title": "⚽ Zatorze Cup 2026 – V edycja",
