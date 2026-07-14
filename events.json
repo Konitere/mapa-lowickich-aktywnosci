@@ -170,8 +170,54 @@
   "organizer": "Łowicki Ośrodek Kultury",
   "image": "plakaty/festiwal-organowy-bach-2026.jpg",
   "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-}
+},
+     {
+    "date": "2026-07-21",
+    "title": "Zaczytane Wakacje: Podróże małe i duże",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Zaczytane Wakacje: Wokół książki „Niesamowity spacer”",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
       ],
+  "2026-07-23": [
+   {
+    "date": "2026-07-23",
+    "title": "Zaczytane Wakacje: Wodne eksperymenty",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Zaczytane Wakacje: Wokół książki „Niebieska planeta”",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+    ],
   "2026-07-25": [
     {
       "title": "Koncert - Mamma Mia",
@@ -183,6 +229,55 @@
       "source": "https://www.kupbilecik.pl/imprezy/203237/%C5%81owicz/MAMMA+MIA/"
     }
   ],
+   "2026-07-28": [
+  {
+    "date": "2026-07-28",
+    "title": "Zaczytane Wakacje: Detektywi na tropie",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Zaczytane Wakacje: Wokół książki „Biuro Detektywistyczne Lassego i Mai”",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+     ],
+    "2026-07-30": [
+      {
+    "date": "2026-07-30",
+    "title": "Zaczytane Wakacje: Morskie opowieści",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Zaczytane Wakacje: Wokół książki „Bałtyk. Przewodnik dla dużych i małych”",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-2026.jpg",
+    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+  }
+],
+  
   "2026-08-04": [
   {
   "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
@@ -205,96 +300,7 @@
   "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
 }
       ],
-  [
-  {
-    "date": "2026-07-21",
-    "title": "Zaczytane Wakacje: Podróże małe i duże",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Zaczytane Wakacje: Wokół książki „Niesamowity spacer”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "Zaczytane Wakacje: Wodne eksperymenty",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "Zaczytane Wakacje: Wokół książki „Niebieska planeta”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "Zaczytane Wakacje: Detektywi na tropie",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "Zaczytane Wakacje: Wokół książki „Biuro Detektywistyczne Lassego i Mai”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Zaczytane Wakacje: Morskie opowieści",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Zaczytane Wakacje: Wokół książki „Bałtyk. Przewodnik dla dużych i małych”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-]
+ 
   "2026-08-25": [
   {
   "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
