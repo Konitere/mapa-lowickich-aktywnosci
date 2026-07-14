@@ -56,7 +56,29 @@
   "organizer": "Łowicki Ośrodek Kultury",
   "image": "plakaty/festiwal-organowy-bach-2026.jpg",
   "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-}
+},
+        {
+    "date": "2026-07-07",
+    "title": "Zaczytane Wakacje: Bajkowy English",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-bajkowy-english-2026.jpg",
+    "link": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-bajkowy-english/"
+  },
+      {
+    "date": "2026-07-07",
+    "title": "Zaczytane Wakacje: Wokół książki „Pszczoły” Piotra Sochy",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/zaczytane-wakacje-bajkowy-english-2026.jpg",
+    "link": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-wokol-ksiazki-pszczoly-piotra-sochy/"
+  }
       ],
   "2026-07-09": [
     {
@@ -78,7 +100,30 @@
   "organizer": "Stowarzyszenie Sportowy Łowicz",
   "image": "plakaty/jubileusz-na-sportowo-890-lowicz.jpg",
   "source": "https://lowicz24.eu/artykul/jubileusz-na-sportowo-n1828566"
-}
+},
+     {
+    "date": "2026-07-16",
+    "title": "Zaczytane Wakacje: Bajki z rzutnika „O krasnoludkach i sierotce Marysi”",
+    "time": "09:30",
+    "endTime": "10:30",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+    "category": "Dla dzieci",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/lego-edukido-sredniowieczny-zamek-2026.jpg",
+    "link": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-bajki-z-rzutnika-o-krasnoludkach-i-sierotce-marysi/"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Zaczytane Wakacje: Lego Edukido „Życie na średniowiecznym zamku – budujemy z LEGO”",
+    "time": "10:30",
+    "endTime": "12:00",
+    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+    "image": "plakaty/lego-edukido-sredniowieczny-zamek-2026.jpg",
+    "link": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-lego-edukido-zycie-na-sredniowiecznym-zamku-budujemy-z-lego/"
+  }
+]
      ],
     "2026-07-18": [
   {
