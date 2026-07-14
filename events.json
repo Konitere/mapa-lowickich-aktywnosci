@@ -100,8 +100,30 @@
   "organizer": "Stowarzyszenie Sportowy Łowicz",
   "image": "plakaty/jubileusz-na-sportowo-890-lowicz.jpg",
   "source": "https://lowicz24.eu/artykul/jubileusz-na-sportowo-n1828566"
-}
+},
+    {
+    "date": "2026-07-11",
+    "title": "Warsztaty Ludowe",
+    "time": "11:00-17:00",
+    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+  }
     ],
+     "2026-07-12": [
+         {
+    "date": "2026-07-12",
+    "title": "Warsztaty Ludowe",
+    "time": "11:00-17:00",
+    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+  }
+       ],
    "2026-07-14": [
   {
   "date": "2026-07-14",
@@ -195,7 +217,17 @@
   "organizer": "Zarząd Osiedla Zatorze Łowicz / Łączy Nas Łowicz",
   "image": "plakaty/zatorze-cup-2026.jpg",
   "source": "https://lowicz24.eu/artykul/piata-edycja-zatorze-n1831156"
-}
+},
+       {
+    "date": "2026-07-18",
+    "title": "Warsztaty Ludowe",
+    "time": "11:00-17:00",
+    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+  }
 ],
   "2026-07-19": [
   {
@@ -207,6 +239,16 @@
     "organizer": "Łowicki Ośrodek Kultury",
     "image": "plakaty/blues-breakout-2026.jpg",
     "source": "https://lok.art.pl/wp-content/uploads/2026/07/winni-kase.jpg"
+  },
+    {
+    "date": "2026-07-19",
+    "title": "Warsztaty Ludowe",
+    "time": "11:00-17:00",
+    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
   }
     ],
   "2026-07-20": [
@@ -338,7 +380,17 @@
       "organizer": "KupBilecik / ŁOK",
       "image": "plakaty/mamma.jpg",
       "source": "https://www.kupbilecik.pl/imprezy/203237/%C5%81owicz/MAMMA+MIA/"
-    }
+    },
+    {
+    "date": "2026-07-25",
+    "title": "Warsztaty Ludowe",
+    "time": "11:00-17:00",
+    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+  }
   ],
   "2026-07-26": [
   {
@@ -350,6 +402,16 @@
     "organizer": "Łowicki Ośrodek Kultury",
     "image": "plakaty/blues-breakout-2026.jpg",
     "source": "https://lok.art.pl/wp-content/uploads/2026/07/winni-kase.jpg"
+  },
+     {
+    "date": "2026-07-26",
+    "title": "Warsztaty Ludowe",
+    "time": "11:00-17:00",
+    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+    "category": "Warsztaty",
+    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
   }
     ],
    "2026-07-28": [
