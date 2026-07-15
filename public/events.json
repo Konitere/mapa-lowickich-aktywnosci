@@ -683,7 +683,17 @@
       "organizer": "Łowicki Ośrodek Kultury",
       "image": "plakaty/zrobmy-teatr-2026.jpg",
       "source": "https://lok.art.pl/"
-    }
+    },
+    {
+  "date": "2026-08-06",
+  "title": "Wakacyjny Aktywator – warsztaty WenDo (13–17 lat)",
+  "time": "10:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Warsztaty",
+  "organizer": "Fundacja „Warto Żyć Dla Kogoś” – oddział Łowicz",
+  "image": "plakaty/wakacyjny-aktywator-wendo-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
+}
   ],
   "2026-08-07": [
     {
@@ -694,7 +704,17 @@
       "organizer": "Łowicki Ośrodek Kultury",
       "image": "plakaty/zrobmy-teatr-2026.jpg",
       "source": "https://lok.art.pl/"
-    }
+    },
+    {
+  "date": "2026-08-07",
+  "title": "Wakacyjny Aktywator – warsztaty WenDo (13–17 lat)",
+  "time": "10:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Warsztaty",
+  "organizer": "Fundacja „Warto Żyć Dla Kogoś” – oddział Łowicz",
+  "image": "plakaty/wakacyjny-aktywator-wendo-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
+}
   ],
   "2026-08-08": [
     {
@@ -896,7 +916,17 @@
       "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
       "image": "plakaty/zaczytane-wakacje-20261.jpg",
       "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-    }
+    },
+    {
+  "date": "2026-08-20",
+  "title": "Wakacyjny Aktywator – warsztaty WenDo (10–12 lat)",
+  "time": "10:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Warsztaty",
+  "organizer": "Fundacja „Warto Żyć Dla Kogoś” – oddział Łowicz",
+  "image": "plakaty/wakacyjny-aktywator-wendo-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
+}
   ],
     "2026-08-21": [
        {
@@ -908,6 +938,16 @@
   "organizer": "Łączy Nas Łowicz",
   "image": "plakaty/lato-z-lnl-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=1407038381482023&set=pcb.1407041861481675&locale=pl_PL"
+},
+      {
+  "date": "2026-08-21",
+  "title": "Wakacyjny Aktywator – warsztaty WenDo (10–12 lat)",
+  "time": "10:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Warsztaty",
+  "organizer": "Fundacja „Warto Żyć Dla Kogoś” – oddział Łowicz",
+  "image": "plakaty/wakacyjny-aktywator-wendo-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
 }
 ],
   "2026-08-22": [
@@ -1172,6 +1212,18 @@
   "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
 }
       ],
+   "2026-09-19": [
+  {
+  "date": "2026-09-19",
+  "title": "Wakacyjny Aktywator – warsztaty WenDo (18+)",
+  "time": "10:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Warsztaty",
+  "organizer": "Fundacja „Warto Żyć Dla Kogoś” – oddział Łowicz",
+  "image": "plakaty/wakacyjny-aktywator-wendo-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
+}
+     ],
   "2026-09-20": [
   {
   "date": "2026-09-20",
@@ -1182,7 +1234,8 @@
   "organizer": "Agencja Pan Li",
   "image": "plakaty/pan-li-seans-spirytustyczny-2026.jpg",
   "source": "https://biletyna.pl/stand-up/Pan-Li/Seans-Spirytustyczny/Lowicz"
-},{
+},
+    {
   "date": "2026-09-20",
   "title": "44. Łowicki Półmaraton Jesieni",
   "time": "09:15",
@@ -1201,6 +1254,16 @@
   "organizer": "Ośrodek Sportu i Rekreacji w Łowiczu",
   "image": "plakaty/5-z-hakiem-2026.jpg",
   "source": "https://www.facebook.com/osirlowicz/posts/%EF%B8%8F%EF%B8%8F-ruszy%C5%82y-zapisy-na-44-%C5%82owicki-p%C3%B3%C5%82maraton-jesieni-rezerwujcie-termin-i-szykujci/1496382288948269/"
+},
+    {
+  "date": "2026-09-20",
+  "title": "Wakacyjny Aktywator – warsztaty WenDo (18+)",
+  "time": "10:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Warsztaty",
+  "organizer": "Fundacja „Warto Żyć Dla Kogoś” – oddział Łowicz",
+  "image": "plakaty/wakacyjny-aktywator-wendo-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
 }
     
      ],
