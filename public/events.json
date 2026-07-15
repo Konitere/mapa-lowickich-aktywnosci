@@ -1082,6 +1082,18 @@
   "source": "https://lowicz24.eu/artykul/lowicz-gospodarzem-jednego-n1802615"
 }
   ],
+  "2026-09-04": [
+  {
+  "date": "2026-09-04",
+  "title": "Recepta na Szczęście",
+  "time": "17:30, 20:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Spektakl",
+  "organizer": "O La La Teatr",
+  "image": "plakaty/recepta-na-szczescie-2026.jpg",
+  "source": "https://biletyna.pl/spektakl/Recepta-na-szczescie/Lowicz"
+}
+    ],
     "2026-09-05": [
       {
   "date": "2026-09-05",
@@ -1092,6 +1104,30 @@
   "organizer": "OSiR Łowicz",
   "image": "plakaty/aktywny-orlik-2026.jpg",
   "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+}
+      ],
+  "2026-09-20": [
+  {
+  "date": "2026-09-20",
+  "title": "Pan Li – Seans Spirytustyczny",
+  "time": "19:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Stand-up",
+  "organizer": "Agencja Pan Li",
+  "image": "plakaty/pan-li-seans-spirytustyczny-2026.jpg",
+  "source": "https://biletyna.pl/stand-up/Pan-Li/Seans-Spirytustyczny/Lowicz"
+}
+     ],
+    "2026-09-22": [
+  {
+  "date": "2026-09-22",
+  "title": "Recepta na Szczęście 2",
+  "time": "17:00, 19:30",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Spektakl",
+  "organizer": "O La La Teatr",
+  "image": "plakaty/recepta-na-szczescie-2-2026.jpg",
+  "source": "https://biletyna.pl/spektakl/Recepta-na-szczescie-dwa/Lowicz"
 }
       ],
  "2026-09-27": [
@@ -1106,5 +1142,29 @@
   "image": "plakaty/aktywny-orlik-2026.jpg",
   "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
 }
-   ]
+   ],
+  "2026-10-23": [
+  {
+  "date": "2026-10-23",
+  "title": "Kabaret Nowaki – Mieliśmy do tego nie wracać",
+  "time": "18:00",
+  "place": "Hala OSiR, ul. Jana Pawła II 3, Łowicz",
+  "category": "Kabaret",
+  "organizer": "Eskander",
+  "image": "plakaty/kabaret-nowaki-mielismy-do-tego-nie-wracac-2026.jpg",
+  "source": "https://biletyna.pl/kabaret/Kabaret-Nowaki/Mielismy-do-tego-nie-wracac/Lowicz"
+}
+    ],
+   "2026-12-04": [
+  {
+  "date": "2026-12-04",
+  "title": "Koncert Zespołu Wszystkiego Najlepszego",
+  "time": "19:00",
+  "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
+  "category": "Koncert",
+  "organizer": "Biletyna",
+  "image": "plakaty/koncert-zespolu-wszystkiego-najlepszego-2026.jpg",
+  "source": "https://biletyna.pl/koncert/Wszystkiego-Najlepszego/Lowicz"
+}
+     ]
 }
