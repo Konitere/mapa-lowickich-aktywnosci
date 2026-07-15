@@ -112,7 +112,17 @@
       "organizer": "Muzeum w Nieborowie i Arkadii",
       "image": "plakaty/lato-w-muzeum-2026.jpg",
       "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
-    }
+    },
+    {
+  "date": "2026-07-11",
+  "title": "Fitness Open",
+  "time": "09:00",
+  "place": "Orlik, ul. Grunwaldzka, Łowicz",
+  "category": "Fitness",
+  "organizer": "OSiR Łowicz",
+  "image": "plakaty/aktywny-orlik-2026.jpg",
+  "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+}
   ],
   "2026-07-12": [
     {
@@ -391,7 +401,17 @@
       "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
       "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
       "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-    }
+    },
+    {
+  "date": "2026-07-25",
+  "title": "Lotka Open",
+  "time": "09:00",
+  "place": "Orlik, ul. Bolimowska, Łowicz",
+  "category": "Badminton",
+  "organizer": "OSiR Łowicz",
+  "image": "plakaty/aktywny-orlik-2026.jpg",
+  "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+}
   ],
   "2026-07-26": [
     {
@@ -624,7 +644,17 @@
       "organizer": "Muzeum w Nieborowie i Arkadii",
       "image": "plakaty/lato-w-muzeum-2026.jpg",
       "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
-    }
+    },
+    {
+  "date": "2026-08-08",
+  "title": "Siatkarskie starcia",
+  "time": "09:00",
+  "place": "Orlik, ul. Grunwaldzka, Łowicz",
+  "category": "Siatkówka",
+  "organizer": "OSiR Łowicz",
+  "image": "plakaty/aktywny-orlik-2026.jpg",
+  "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+}
   ],
   "2026-08-09": [
     {
@@ -784,7 +814,17 @@
       "organizer": "Muzeum w Nieborowie i Arkadii",
       "image": "plakaty/lato-w-muzeum-2026.jpg",
       "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
-    }
+    },
+    {
+  "date": "2026-08-22",
+  "title": "Tenis Open",
+  "time": "09:00",
+  "place": "Orlik, ul. Bolimowska, Łowicz",
+  "category": "Tenis",
+  "organizer": "OSiR Łowicz",
+  "image": "plakaty/aktywny-orlik-2026.jpg",
+  "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+}
   ],
   "2026-08-23": [
     {
@@ -887,5 +927,30 @@
       "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
       "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
     }
-  ]
+  ],
+    "2026-09-05": [
+      {
+  "date": "2026-09-05",
+  "title": "Strefa Walki",
+  "time": "09:00",
+  "place": "Orlik, ul. Bolimowska, Łowicz",
+  "category": "Kickboxing",
+  "organizer": "OSiR Łowicz",
+  "image": "plakaty/aktywny-orlik-2026.jpg",
+  "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+}
+      ],
+ "2026-09-27": [
+      {  
+        
+  "date": "2026-09-27",
+  "title": "Koszykarska Arena",
+  "time": "09:00",
+  "place": "Orlik, ul. Grunwaldzka, Łowicz",
+  "category": "Koszykówka",
+  "organizer": "OSiR Łowicz",
+  "image": "plakaty/aktywny-orlik-2026.jpg",
+  "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+}
+   ]
 }
