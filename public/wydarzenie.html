@@ -77,17 +77,17 @@ img{
     max-width:1450px;
     margin:0 auto;
     display:grid;
-    grid-template-columns:repeat(4,1fr);
+    grid-template-columns:repeat(2,minmax(0,1fr));
 }
 
 .nav-link{
     position:relative;
-    min-height:100px;
+    min-height:88px;
     display:flex;
     align-items:center;
     justify-content:center;
-    gap:18px;
-    padding:20px;
+    
+    padding:14px 18px;
     text-decoration:none;
     color:var(--navy);
     font-weight:800;
@@ -104,8 +104,8 @@ img{
 .nav-link.active::after{
     content:"";
     position:absolute;
-    left:12%;
-    right:12%;
+    left:8%;
+    right:8%;
     bottom:0;
     height:4px;
     background:var(--red);
@@ -122,8 +122,10 @@ img{
 }
 
 .nav-text{
-    font-size:17px;
-    line-height:1.1;
+    font-size:18px;
+    line-height:1.15;
+    font-weight:800;
+    text-align:center;
     text-transform:uppercase;
 }
 
@@ -279,7 +281,7 @@ img{
 .detail-row{
     display:flex;
     align-items:flex-start;
-    gap:18px;
+    
     padding:8px 0;
 }
 
@@ -319,7 +321,7 @@ img{
 .organizer-row{
     display:flex;
     align-items:flex-start;
-    gap:18px;
+    
     padding:8px 0;
 }
 
@@ -586,25 +588,17 @@ select{
 
 <nav class="main-nav">
 
-    <div class="nav-inner">
+<div class="nav-inner">
 
-        <a href="index.html" class="nav-link active">
-            <span class="nav-text">Kalendarz</span>
-        </a>
+<a href="index.html#kalendarz" class="nav-link active">
+<span class="nav-text">Kalendarz</span>
+</a>
 
-        <a href="index.html#atrakcje" class="nav-link">
-            <span class="nav-text">Atrakcje w powiecie łowickim</span>
-        </a>
+<a href="index.html#oprojekcie" class="nav-link">
+<span class="nav-text">O projekcie</span>
+</a>
 
-        <a href="index.html#restauracje" class="nav-link">
-            <span class="nav-text">Polecane restauracje</span>
-        </a>
-
-        <a href="index.html#oprojekcie" class="nav-link">
-            <span class="nav-text">O projekcie</span>
-        </a>
-
-    </div>
+</div>
 
 </nav>
 
@@ -615,39 +609,8 @@ select{
 ></main>
 
 
-<footer class="site-footer">
-    <div class="footer-main">
-        <div class="footer-column footer-about">
-            <h2>MAPA ŁOWICKICH<br><strong>AKTYWNOŚCI</strong></h2>
-            <p>Twoje źródło informacji o wydarzeniach, koncertach, spektaklach, atrakcjach i aktywnościach w Łowiczu i powiecie łowickim.</p>
-        </div>
-
-        <div class="footer-column footer-contact">
-            <h3>KONTAKT</h3>
-            <p>Masz pytanie, sugestię lub chcesz zgłosić wydarzenie?</p>
-            <a class="footer-contact-row" href="mailto:kplichta@interia.eu">
-                <span class="footer-contact-icon">✉</span>
-                <span>kplichta@interia.eu</span>
-            </a>
-            <div class="footer-contact-row">
-                <span class="footer-contact-icon">⌖</span>
-                <span>Łowicz i powiat łowicki</span>
-            </div>
-            <div class="footer-contact-row">
-                <span class="footer-facebook">f</span>
-                <span>Mapa Łowickich Aktywności</span>
-            </div>
-        </div>
-
-        <div class="footer-column footer-follow">
-            <h3>BĄDŹ NA BIEŻĄCO</h3>
-            <p>Obserwuj nas, aby nie przegapić ciekawych wydarzeń!</p>
-        </div>
-    </div>
-
-    <div class="footer-bottom">
-        © 2026 Konrad Plichta <span>|</span> Wszelkie prawa zastrzeżone
-    </div>
+<footer class="footer">
+    © 2026 Konrad Plichta <span>|</span> Wszelkie prawa zastrzeżone
 </footer>
 
 
