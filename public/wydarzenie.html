@@ -586,60 +586,25 @@ select{
 
 <nav class="main-nav">
 
-<div class="nav-inner">
+    <div class="nav-inner">
 
+        <a href="index.html" class="nav-link active">
+            <span class="nav-text">Kalendarz</span>
+        </a>
 
-<a href="index.html" class="nav-link active">
+        <a href="index.html#atrakcje" class="nav-link">
+            <span class="nav-text">Atrakcje w powiecie łowickim</span>
+        </a>
 
-<span class="nav-icon">📅</span>
+        <a href="index.html#restauracje" class="nav-link">
+            <span class="nav-text">Polecane restauracje</span>
+        </a>
 
-<span class="nav-text">
-Kalendarz
-</span>
+        <a href="index.html#oprojekcie" class="nav-link">
+            <span class="nav-text">O projekcie</span>
+        </a>
 
-</a>
-
-
-<a href="index.html#atrakcje" class="nav-link">
-
-<span class="nav-icon">⌖</span>
-
-<span class="nav-text">
-
-<span>Atrakcje</span>
-<span>w powiecie łowickim</span>
-
-</span>
-
-</a>
-
-
-<a href="index.html#restauracje" class="nav-link">
-
-<span class="nav-icon">🍴</span>
-
-<span class="nav-text">
-
-<span>Polecane</span>
-<span>restauracje</span>
-
-</span>
-
-</a>
-
-
-<a href="index.html#oprojekcie" class="nav-link">
-
-<span class="nav-icon">ⓘ</span>
-
-<span class="nav-text">
-O projekcie
-</span>
-
-</a>
-
-
-</div>
+    </div>
 
 </nav>
 
@@ -650,10 +615,39 @@ O projekcie
 ></main>
 
 
-<footer class="footer">
+<footer class="site-footer">
+    <div class="footer-main">
+        <div class="footer-column footer-about">
+            <h2>MAPA ŁOWICKICH<br><strong>AKTYWNOŚCI</strong></h2>
+            <p>Twoje źródło informacji o wydarzeniach, koncertach, spektaklach, atrakcjach i aktywnościach w Łowiczu i powiecie łowickim.</p>
+        </div>
 
-© 2026 Konrad Plichta
+        <div class="footer-column footer-contact">
+            <h3>KONTAKT</h3>
+            <p>Masz pytanie, sugestię lub chcesz zgłosić wydarzenie?</p>
+            <a class="footer-contact-row" href="mailto:kplichta@interia.eu">
+                <span class="footer-contact-icon">✉</span>
+                <span>kplichta@interia.eu</span>
+            </a>
+            <div class="footer-contact-row">
+                <span class="footer-contact-icon">⌖</span>
+                <span>Łowicz i powiat łowicki</span>
+            </div>
+            <div class="footer-contact-row">
+                <span class="footer-facebook">f</span>
+                <span>Mapa Łowickich Aktywności</span>
+            </div>
+        </div>
 
+        <div class="footer-column footer-follow">
+            <h3>BĄDŹ NA BIEŻĄCO</h3>
+            <p>Obserwuj nas, aby nie przegapić ciekawych wydarzeń!</p>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        © 2026 Konrad Plichta <span>|</span> Wszelkie prawa zastrzeżone
+    </div>
 </footer>
 
 
@@ -1363,7 +1357,7 @@ function renderEvent(event,dateKey){
 
                     >
 
-                        Zobacz źródło wydarzenia
+                        Więcej informacji
 
                     </a>
 
