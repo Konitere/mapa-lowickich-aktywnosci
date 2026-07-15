@@ -79,7 +79,7 @@ img{
     max-width:1450px;
     margin:0 auto;
     display:grid;
-    grid-template-columns:repeat(2,minmax(0,1fr));
+    grid-template-columns:repeat(4,minmax(0,1fr));
     gap:0;
 }
 
@@ -817,6 +817,14 @@ a.footer-contact-row:hover{color:var(--red)}
             <span class="nav-text">Kalendarz</span>
         </a>
 
+        <a href="#atrakcje" class="nav-link">
+            <span class="nav-text">Atrakcje w powiecie łowickim</span>
+        </a>
+
+        <a href="#restauracje" class="nav-link">
+            <span class="nav-text">Polecane restauracje</span>
+        </a>
+
         <a href="#oprojekcie" class="nav-link">
             <span class="nav-text">O projekcie</span>
         </a>
@@ -886,9 +894,8 @@ a.footer-contact-row:hover{color:var(--red)}
 
 
 <a
-    href="#"
+    href="zglos-wydarzenie.html"
     class="submit-event"
-    id="submitEvent"
 >
 
 <img
@@ -978,7 +985,7 @@ Pokaż więcej wydarzeń ↓
     </div>
 
     <div class="footer-bottom">
-        © 2026 Mapa Łowickich Aktywności <span>|</span> Wszelkie prawa zastrzeżone
+        © 2026 Konrad Plichta <span>|</span> Wszelkie prawa zastrzeżone
     </div>
 </footer>
 
@@ -2097,31 +2104,6 @@ document
             renderCalendar();
 
             renderUpcomingEvents();
-
-
-        }
-
-    );
-
-
-
-document
-    .getElementById("submitEvent")
-    .addEventListener(
-
-        "click",
-
-        event => {
-
-
-            event.preventDefault();
-
-
-            alert(
-
-                "Formularz zgłaszania wydarzeń dodamy w kolejnym kroku."
-
-            );
 
 
         }
