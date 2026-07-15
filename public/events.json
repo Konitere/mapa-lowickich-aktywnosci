@@ -981,6 +981,18 @@
   "source": "https://www.facebook.com/photo/?fbid=928321473452847&set=gm.1408532817696686"
 }
   ],
+    "2026-08-24": [
+  {
+  "date": "2026-08-24",
+  "title": "Wakacyjny Camp Koszykarski z Akademią Księżak Łowicz – dzień 1",
+  "time": "09:00",
+  "place": "Hala OSiR 2, ul. Topolowa 2, Łowicz",
+  "category": "Koszykówka",
+  "organizer": "Akademia Księżak Łowicz",
+  "image": "plakaty/wakacyjny-camp-koszykarski-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Wakacyjny-Camp-Akademi-Ksiezaka---Lowicz,13,4514"
+}
+      ],
   "2026-08-25": [
     {
       "title": "XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
@@ -1008,7 +1020,29 @@
       "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
       "image": "plakaty/zaczytane-wakacje-20261.jpg",
       "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-    }
+    },
+    {
+  "date": "2026-08-25",
+  "title": "Wakacyjny Camp Koszykarski z Akademią Księżak Łowicz – dzień 2",
+  "time": "09:00",
+  "place": "Hala OSiR 2, ul. Topolowa 2, Łowicz",
+  "category": "Koszykówka",
+  "organizer": "Akademia Księżak Łowicz",
+  "image": "plakaty/wakacyjny-camp-koszykarski-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Wakacyjny-Camp-Akademi-Ksiezaka---Lowicz,13,4514"
+}
+    ],
+     "2026-08-26": [ 
+    {
+  "date": "2026-08-26",
+  "title": "Wakacyjny Camp Koszykarski z Akademią Księżak Łowicz – dzień 3",
+  "time": "09:00",
+  "place": "Hala OSiR 2, ul. Topolowa 2, Łowicz",
+  "category": "Koszykówka",
+  "organizer": "Akademia Księżak Łowicz",
+  "image": "plakaty/wakacyjny-camp-koszykarski-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Wakacyjny-Camp-Akademi-Ksiezaka---Lowicz,13,4514"
+}
   ],
   "2026-08-27": [
     {
@@ -1028,7 +1062,18 @@
       "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
       "image": "plakaty/zaczytane-wakacje-20261.jpg",
       "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-    }
+    },
+    {
+  "date": "2026-08-27",
+  "title": "Wakacyjny Camp Koszykarski z Akademią Księżak Łowicz – dzień 4",
+  "time": "09:00",
+  "place": "Hala OSiR 2, ul. Topolowa 2, Łowicz",
+  "category": "Koszykówka",
+  "organizer": "Akademia Księżak Łowicz",
+  "image": "plakaty/wakacyjny-camp-koszykarski-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Wakacyjny-Camp-Akademi-Ksiezaka---Lowicz,13,4514"
+}
+    
   ],
   "2026-08-28": [
     {
@@ -1049,7 +1094,18 @@
   "organizer": "Łączy Nas Łowicz",
   "image": "plakaty/lato-z-lnl-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=1407038381482023&set=pcb.1407041861481675&locale=pl_PL"
+},
+    {
+  "date": "2026-08-28",
+  "title": "Wakacyjny Camp Koszykarski z Akademią Księżak Łowicz – dzień 5",
+  "time": "09:00",
+  "place": "Hala OSiR 2, ul. Topolowa 2, Łowicz",
+  "category": "Koszykówka",
+  "organizer": "Akademia Księżak Łowicz",
+  "image": "plakaty/wakacyjny-camp-koszykarski-2026.jpg",
+  "source": "https://www.lowiczturystyczny.eu/Wakacyjny-Camp-Akademi-Ksiezaka---Lowicz,13,4514"
 }
+    
   ],
   "2026-08-29": [
     {
