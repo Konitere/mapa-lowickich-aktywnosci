@@ -3,10 +3,9 @@
     "days": 24,
     "events": 45
   },
-  
-"2026-07-03": [
+  "2026-07-03": [
     {
-      "title": "🎉 Dni Łowicza 2026 - otwarcie święta miasta",
+      "title": "Dni Łowicza 2026 - otwarcie święta miasta",
       "time": "17:00",
       "place": "Łowicz - Stary Rynek",
       "category": "Święto miasta",
@@ -14,21 +13,19 @@
       "image": "plakaty/dni-lowicza-2026.jpg",
       "source": "https://lowiczanin.info/kultura/krol-latino-przyjedzie-do-lowicza-znamy-gwiazdy-najwiekszych-imprez-2026/isulXQ4BGkju6yt0Hg4s"
     },
-
-   {
-  "title": "🎤 Street-Credit Volume.01 – Mini Rap Festival",
-  "time": "18:30",
-  "place": "Dziedziniec Łowickiego Ośrodka Kultury, Łowicz",
-  "category": "Koncert",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/street-credit-volume01.jpg",
-  "source": "https://lok.art.pl/street-credit-na-dziedzińcu-lok-3-07-pt/"
-}
-  ],
- 
-"2026-07-05": [
     {
-      "title": "💪 Runmageddon Lite Łowicz 2026",
+      "title": "Street-Credit Volume.01 – Mini Rap Festival",
+      "time": "18:30",
+      "place": "Dziedziniec Łowickiego Ośrodka Kultury, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/street-credit-volume01.jpg",
+      "source": "https://lok.art.pl/street-credit-na-dziedzińcu-lok-3-07-pt/"
+    }
+  ],
+  "2026-07-05": [
+    {
+      "title": "Runmageddon Lite Łowicz 2026",
       "time": "",
       "place": "Park Błonie, Łowicz",
       "category": "Bieg z przeszkodami",
@@ -36,53 +33,49 @@
       "image": "plakaty/runma.jpg",
       "source": "https://osir.lowicz.pl/"
     },
-  {
-  "title": "⚽ Charytatywny Turniej Piłkarski dla Kubusia i Adasia",
-  "time": "10:00",
-  "place": "Boisko LKS Fenix Boczki Chełmońskie",
-  "category": "Turniej charytatywny",
-  "organizer": "LKS Fenix Boczki Chełmońskie",
-  "image": "plakaty/turniej-dla-kubusia-i-adasia.jpg",
-  "source": "https://lowicz24.eu/artykul/zagraja-dla-kubusia-n1828173",
-  "notes": "Charytatywny turniej piłkarski połączony ze zbiórką środków dla Kubusia i Adasia. W programie mecze, atrakcje dla rodzin, licytacje oraz strefa gastronomiczna."
-}
+    {
+      "title": "Charytatywny Turniej Piłkarski dla Kubusia i Adasia",
+      "time": "10:00",
+      "place": "Boisko LKS Fenix Boczki Chełmońskie",
+      "category": "Turniej charytatywny",
+      "organizer": "LKS Fenix Boczki Chełmońskie",
+      "image": "plakaty/turniej-dla-kubusia-i-adasia.jpg",
+      "source": "https://lowicz24.eu/artykul/zagraja-dla-kubusia-n1828173",
+      "notes": "Charytatywny turniej piłkarski połączony ze zbiórką środków dla Kubusia i Adasia. W programie mecze, atrakcje dla rodzin, licytacje oraz strefa gastronomiczna."
+    }
   ],
-    "2026-07-07": [
-  {
-  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
-  "time": "19:30",
-  "place": "Bazylika Katedralna, Łowicz",
-  "category": "Koncert",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
-  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-},
-        {
-    "date": "2026-07-07",
-    "title": "Zaczytane Wakacje: Bajkowy English",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-bajkowy-english-2026.jpg",
-    "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-bajkowy-english/"
-  },
-      {
-    "date": "2026-07-07",
-    "title": "Zaczytane Wakacje: Wokół książki „Pszczoły” Piotra Sochy",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-bajkowy-english-2026.jpg",
-    "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-wokol-ksiazki-pszczoly-piotra-sochy/"
-  }
-      ],
+  "2026-07-07": [
+    {
+      "title": "XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+      "time": "19:30",
+      "place": "Bazylika Katedralna, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+      "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Bajkowy English",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-bajkowy-english-2026.jpg",
+      "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-bajkowy-english/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Wokół książki „Pszczoły” Piotra Sochy",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-bajkowy-english-2026.jpg",
+      "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-wokol-ksiazki-pszczoly-piotra-sochy/"
+    }
+  ],
   "2026-07-09": [
     {
-      "title": "😂 Mama Na Obrotach – Niezły Bajzel",
+      "title": "Mama Na Obrotach – Niezły Bajzel",
       "time": "19:00",
       "place": "Łowicki Ośrodek Kultury, Łowicz",
       "category": "Kabaret",
@@ -92,343 +85,301 @@
     }
   ],
   "2026-07-11": [
-  {
-  "title": "🏃 Jubileusz na Sportowo – Bieg z okazji 890-lecia Łowicza",
-  "time": "Do potwierdzenia",
-  "place": "Łowicz",
-  "category": "Biegi",
-  "organizer": "Stowarzyszenie Sportowy Łowicz",
-  "image": "plakaty/jubileusz-na-sportowo-890-lowicz.jpg",
-  "source": "https://lowicz24.eu/artykul/jubileusz-na-sportowo-n1828566"
-},
     {
-    "date": "2026-07-11",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  },
+      "title": "Jubileusz na Sportowo – Bieg z okazji 890-lecia Łowicza",
+      "time": "Do potwierdzenia",
+      "place": "Łowicz",
+      "category": "Biegi",
+      "organizer": "Stowarzyszenie Sportowy Łowicz",
+      "image": "plakaty/jubileusz-na-sportowo-890-lowicz.jpg",
+      "source": "https://lowicz24.eu/artykul/jubileusz-na-sportowo-n1828566"
+    },
     {
-    "date": "2026-07-11",
-    "title": "Lato w Muzeum – Akademia Pana Kleksa",
-    "time": "10:15-12:00",
-    "location": "Muzeum w Nieborowie i Arkadii, Aleja Lipowa 35, Nieborów",
-    "category": "Warsztaty",
-    "organizer": "Muzeum w Nieborowie i Arkadii",
-    "image": "plakaty/lato-w-muzeum-2026.jpg",
-    "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
-  }
-    ],
-     "2026-07-12": [
-         {
-    "date": "2026-07-12",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
-       ],
-   "2026-07-14": [
-  {
-  "date": "2026-07-14",
-  "title": "Zaczytane Wakacje: Czytanie przez poznawanie",
-  "time": "09:30",
-  "endTime": "10:30",
-  "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-  "category": "Dla dzieci",
-  "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-  "image": "plakaty/zaczytane-wakacje-czytanie-przez-poznawanie.jpg",
-  "source": "https://cebrowski.pl/kalendarz-wydarzen/zaczytane-wakacje-czytanie-przez-poznawanie/"
-},
-     {
-  "date": "2026-07-14",
-  "title": "Zaczytane Wakacje: Wokół książki „Nela Mała Reporterka. National Geographic”",
-  "time": "10:30",
-  "endTime": "12:00",
-  "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-  "category": "Warsztaty",
-  "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-  "image": "plakaty/zaczytane-wakacje-nela-mala-reporterka-national-geographic.jpg",
-  "source": "https://cebrowski.pl/kalendarz-wydarzen/zaczytane-wakacje-wokol-ksiazki-nela-mala-reporterka-national-geographic/"
-}
-     ],
-   "2026-07-15": [
-   {
-    "date": "2026-07-15",
-    "title": "Warsztaty Co Ty Pleciesz?",
-    "time": "11:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
-    "source": "https://lok.art.pl/wp-content/uploads/2026/06/turbo-wakacje-2031.jpg"
-  }
-     ],
-      "2026-07-16": [
-     {
-    "date": "2026-07-16",
-    "title": "Zaczytane Wakacje: Bajki z rzutnika „O krasnoludkach i sierotce Marysi”",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/lego-edukido-sredniowieczny-zamek-2026.jpg",
-    "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-bajki-z-rzutnika-o-krasnoludkach-i-sierotce-marysi/"
-  },
-        
-  {
-    "date": "2026-07-16",
-    "title": "Zaczytane Wakacje: Lego Edukido „Życie na średniowiecznym zamku – budujemy z LEGO”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/lego-edukido-sredniowieczny-zamek-20261.jpg",
-    "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-lego-edukido-zycie-na-sredniowiecznym-zamku-budujemy-z-lego/"
-  },
-         {
-    "date": "2026-07-16",
-    "title": "Warsztaty Co Ty Pleciesz?",
-    "time": "11:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
-    "source": "https://lok.art.pl/wp-content/uploads/2026/06/turbo-wakacje-2031.jpg"
-  }
-     ],
-    "2026-07-17": [
-      {
-    "date": "2026-07-17",
-    "title": "Warsztaty Co Ty Pleciesz?",
-    "time": "11:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
-    "source": "https://lok.art.pl/wp-content/uploads/2026/06/turbo-wakacje-2031.jpg"
-  }
-],
-  
-    "2026-07-18": [
-  {
-  "title": "⚽ Zatorze Cup 2026 – V edycja",
-  "time": "10:00",
-  "place": "Boisko Orlik, ul. Bolimowska, Łowicz",
-  "category": "Turniej piłkarski",
-  "organizer": "Zarząd Osiedla Zatorze Łowicz / Łączy Nas Łowicz",
-  "image": "plakaty/zatorze-cup-2026.jpg",
-  "source": "https://lowicz24.eu/artykul/piata-edycja-zatorze-n1831156"
-},
-       {
-    "date": "2026-07-18",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
-],
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    },
+    {
+      "title": "Lato w Muzeum – Akademia Pana Kleksa",
+      "time": "10:15-12:00",
+      "place": "Muzeum w Nieborowie i Arkadii, Aleja Lipowa 35, Nieborów",
+      "category": "Warsztaty",
+      "organizer": "Muzeum w Nieborowie i Arkadii",
+      "image": "plakaty/lato-w-muzeum-2026.jpg",
+      "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
+    }
+  ],
+  "2026-07-12": [
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ],
+  "2026-07-14": [
+    {
+      "title": "Zaczytane Wakacje: Czytanie przez poznawanie",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-czytanie-przez-poznawanie.jpg",
+      "source": "https://cebrowski.pl/kalendarz-wydarzen/zaczytane-wakacje-czytanie-przez-poznawanie/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Wokół książki „Nela Mała Reporterka. National Geographic”",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-nela-mala-reporterka-national-geographic.jpg",
+      "source": "https://cebrowski.pl/kalendarz-wydarzen/zaczytane-wakacje-wokol-ksiazki-nela-mala-reporterka-national-geographic/"
+    }
+  ],
+  "2026-07-15": [
+    {
+      "title": "Warsztaty Co Ty Pleciesz?",
+      "time": "11:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
+      "source": "https://lok.art.pl/wp-content/uploads/2026/06/turbo-wakacje-2031.jpg"
+    }
+  ],
+  "2026-07-16": [
+    {
+      "title": "Zaczytane Wakacje: Bajki z rzutnika „O krasnoludkach i sierotce Marysi”",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/lego-edukido-sredniowieczny-zamek-2026.jpg",
+      "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-bajki-z-rzutnika-o-krasnoludkach-i-sierotce-marysi/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Lego Edukido „Życie na średniowiecznym zamku – budujemy z LEGO”",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/lego-edukido-sredniowieczny-zamek-20261.jpg",
+      "source": "https://cebrowski.pl/wydarzenie/zaczytane-wakacje-lego-edukido-zycie-na-sredniowiecznym-zamku-budujemy-z-lego/"
+    },
+    {
+      "title": "Warsztaty Co Ty Pleciesz?",
+      "time": "11:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
+      "source": "https://lok.art.pl/wp-content/uploads/2026/06/turbo-wakacje-2031.jpg"
+    }
+  ],
+  "2026-07-17": [
+    {
+      "title": "Warsztaty Co Ty Pleciesz?",
+      "time": "11:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/turbo-wakacje-15-17-lipca-2026.jpg",
+      "source": "https://lok.art.pl/wp-content/uploads/2026/06/turbo-wakacje-2031.jpg"
+    }
+  ],
+  "2026-07-18": [
+    {
+      "title": "Zatorze Cup 2026 – V edycja",
+      "time": "10:00",
+      "place": "Boisko Orlik, ul. Bolimowska, Łowicz",
+      "category": "Turniej piłkarski",
+      "organizer": "Zarząd Osiedla Zatorze Łowicz / Łączy Nas Łowicz",
+      "image": "plakaty/zatorze-cup-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/piata-edycja-zatorze-n1831156"
+    },
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ],
   "2026-07-19": [
-  {
-    "date": "2026-07-19",
-    "title": "Blues Breakout",
-    "time": "17:00",
-    "location": "Muszla Koncertowa, Łowicz",
-    "category": "Koncert",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/blues-breakout-2026.jpg",
-    "source": "https://lok.art.pl/wp-content/uploads/2026/07/winni-kase.jpg"
-  },
     {
-    "date": "2026-07-19",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  },
+      "title": "Blues Breakout",
+      "time": "17:00",
+      "place": "Muszla Koncertowa, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/blues-breakout-2026.jpg",
+      "source": "https://lok.art.pl/wp-content/uploads/2026/07/winni-kase.jpg"
+    },
     {
-  "date": "2026-07-19",
-  "title": "V Rajd Rowerowy na Orientację",
-  "time": "09:00",
-  "location": "Stary Rynek, Łowicz",
-  "category": "Rajd rowerowy",
-  "organizer": "KTK Szprycha, PTTK Oddział w Łowiczu oraz Miasto Łowicz",
-  "image": "plakaty/v-rajd-rowerowy-na-orientacje-2026.jpg",
-  "source": "https://lowicz24.eu/artykul/przygoda-z-mapa-i-rowerem-n1836969"
-},
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    },
     {
-  "date": "2026-07-19",
-  "title": "Koncert „Chwile ulotne”",
-  "time": "18:30",
-  "location": "Pałac Radziwiłłów w Nieborowie, Aleja Lipowa 35, Nieborów",
-  "category": "Koncert",
-  "organizer": "Muzeum w Nieborowie i Arkadii oraz Stowarzyszenie Polskich Artystów Muzyków Oddział Warszawski",
-  "image": "plakaty/chwile-ulotne-2026.jpg",
-  "source": "https://www.facebook.com/photo/?fbid=1707189751408863&set=a.532717962189387"
-},
+      "title": "V Rajd Rowerowy na Orientację",
+      "time": "09:00",
+      "place": "Stary Rynek, Łowicz",
+      "category": "Rajd rowerowy",
+      "organizer": "KTK Szprycha, PTTK Oddział w Łowiczu oraz Miasto Łowicz",
+      "image": "plakaty/v-rajd-rowerowy-na-orientacje-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/przygoda-z-mapa-i-rowerem-n1836969"
+    },
     {
-  "title": "🚶 Odkryj Łowicz Nieznany - spacer z przewodnikiem",
-  "time": "12:00",
-  "place": "Muzeum w Łowiczu",
-  "category": "Spacer z przewodnikiem",
-  "organizer": "Łączy nas Łowicz",
-  "image": "plakaty/odkryj-lowicz-nieznany-19-07-2026.jpg",
-  "source": "https://www.facebook.com/photo/?fbid=1436411868523047"
-}
-    ],
+      "title": "Koncert „Chwile ulotne”",
+      "time": "18:30",
+      "place": "Pałac Radziwiłłów w Nieborowie, Aleja Lipowa 35, Nieborów",
+      "category": "Koncert",
+      "organizer": "Muzeum w Nieborowie i Arkadii oraz Stowarzyszenie Polskich Artystów Muzyków Oddział Warszawski",
+      "image": "plakaty/chwile-ulotne-2026.jpg",
+      "source": "https://www.facebook.com/photo/?fbid=1707189751408863&set=a.532717962189387"
+    },
+    {
+      "title": "Odkryj Łowicz Nieznany - spacer z przewodnikiem",
+      "time": "12:00",
+      "place": "Muzeum w Łowiczu",
+      "category": "Spacer z przewodnikiem",
+      "organizer": "Łączy nas Łowicz",
+      "image": "plakaty/odkryj-lowicz-nieznany-19-07-2026.jpg",
+      "source": "https://www.facebook.com/photo/?fbid=1436411868523047"
+    }
+  ],
   "2026-07-20": [
-  {
-    "date": "2026-07-20",
-    "title": "Hortiterapia - warsztaty",
-    "time": "10:00",
-    "endTime": "12:00",
-    "location": "Park Błonie (przy Pomniku), Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-    ],
-  
+    {
+      "title": "Hortiterapia - warsztaty",
+      "time": "10:00",
+      "place": "Park Błonie (przy Pomniku), Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
   "2026-07-21": [
-  {
-  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
-  "time": "19:30",
-  "place": "Bazylika Katedralna, Łowicz",
-  "category": "Koncert",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
-  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-},
-     {
-    "date": "2026-07-21",
-    "title": "Zaczytane Wakacje: Podróże małe i duże",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Zaczytane Wakacje: Wokół książki „Niesamowity spacer”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-      {
-    "date": "2026-07-21",
-    "title": "Hortiterapia - warsztaty",
-    "time": "10:00",
-    "endTime": "12:00",
-    "location": "Park im. A. Mickiewicza (przy wejściu do SP2), Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-      ],
-   "2026-07-22": [
-  {
-    "date": "2026-07-22",
-    "title": "Hortiterapia - warsztaty",
-    "time": "10:00",
-    "endTime": "12:00",
-    "location": "Park Al. Sienkiewicza (przy Pomniku Zawiszy), Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-     ],
+    {
+      "title": "XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+      "time": "19:30",
+      "place": "Bazylika Katedralna, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+      "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Podróże małe i duże",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Wokół książki „Niesamowity spacer”",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Hortiterapia - warsztaty",
+      "time": "10:00",
+      "place": "Park im. A. Mickiewicza (przy wejściu do SP2), Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-07-22": [
+    {
+      "title": "Hortiterapia - warsztaty",
+      "time": "10:00",
+      "place": "Park Al. Sienkiewicza (przy Pomniku Zawiszy), Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
   "2026-07-23": [
-   {
-    "date": "2026-07-23",
-    "title": "Zaczytane Wakacje: Wodne eksperymenty",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "Zaczytane Wakacje: Wokół książki „Niebieska planeta”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-      {
-    "date": "2026-07-23",
-    "title": "Hortiterapia - warsztaty",
-    "time": "10:00",
-    "endTime": "12:00",
-    "location": "Baszta Gen. Klickiego (przy budynku), Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-    ],
-"2026-07-24": [
-   {
-    "date": "2026-07-24",
-    "title": "Hortiterapia - warsztaty",
-    "time": "10:00",
-    "endTime": "12:00",
-    "location": "Łowicki Ośrodek Kultury (przy kasie kina), Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
-    "source": "https://lok.art.pl/"
-  },
-  {
-  "date": "2026-07-24",
-  "title": "Kino plenerowe na plaży nad Bzurą – Jaś Fasola",
-  "time": "21:00",
-  "location": "Plaża nad Bzurą, Łowicz",
-  "category": "Kino plenerowe",
-  "organizer": "Powiat Łowicki, Miasto Łowicz oraz Młodzieżowa Rada Powiatu Łowickiego",
-  "image": "plakaty/kino-plenerowe-plaza-nad-bzura-jas-fasola-2026.jpg",
-  "source": "https://www.facebook.com/lnlowicz/posts/kino-na-pla%C5%BCy-nad-bzur%C4%85-powraca-ciep%C5%82y-letni-wiecz%C3%B3r-pla%C5%BCa-le%C5%BCaki-szum-bzury-i-d/1439136201583947/"
-},
-  {
-  "title": "🎬 Kino plenerowe na plaży nad Bzurą - Jaś Fasola",
-  "time": "21:00",
-  "place": "Łowicz - Plaża nad Bzurą",
-  "category": "Kino plenerowe",
-  "organizer": "Rada Powiatu Łowickiego",
-  "image": "plakaty/kino-plenerowe-jas-fasola-24-07-2026.jpg",
-  "source": "https://www.facebook.com/photo/?fbid=1439134874917413"
-}
-],
-  
+    {
+      "title": "Zaczytane Wakacje: Wodne eksperymenty",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Wokół książki „Niebieska planeta”",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Hortiterapia - warsztaty",
+      "time": "10:00",
+      "place": "Baszta Gen. Klickiego (przy budynku), Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-07-24": [
+    {
+      "title": "Hortiterapia - warsztaty",
+      "time": "10:00",
+      "place": "Łowicki Ośrodek Kultury (przy kasie kina), Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/hortiterapia-warsztaty-2026.jpg",
+      "source": "https://lok.art.pl/"
+    },
+    {
+      "title": "Kino plenerowe na plaży nad Bzurą – Jaś Fasola",
+      "time": "21:00",
+      "place": "Plaża nad Bzurą, Łowicz",
+      "category": "Kino plenerowe",
+      "organizer": "Powiat Łowicki, Miasto Łowicz oraz Młodzieżowa Rada Powiatu Łowickiego",
+      "image": "plakaty/kino-plenerowe-plaza-nad-bzura-jas-fasola-2026.jpg",
+      "source": "https://www.facebook.com/lnlowicz/posts/kino-na-pla%C5%BCy-nad-bzur%C4%85-powraca-ciep%C5%82y-letni-wiecz%C3%B3r-pla%C5%BCa-le%C5%BCaki-szum-bzury-i-d/1439136201583947/"
+    },
+    {
+      "title": "Kino plenerowe na plaży nad Bzurą - Jaś Fasola",
+      "time": "21:00",
+      "place": "Łowicz - Plaża nad Bzurą",
+      "category": "Kino plenerowe",
+      "organizer": "Rada Powiatu Łowickiego",
+      "image": "plakaty/kino-plenerowe-jas-fasola-24-07-2026.jpg",
+      "source": "https://www.facebook.com/photo/?fbid=1439134874917413"
+    }
+  ],
   "2026-07-25": [
     {
       "title": "Koncert - Mamma Mia",
@@ -440,586 +391,508 @@
       "source": "https://www.kupbilecik.pl/imprezy/203237/%C5%81owicz/MAMMA+MIA/"
     },
     {
-    "date": "2026-07-25",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
   ],
   "2026-07-26": [
-  {
-    "date": "2026-07-26",
-    "title": "Winni Kasę + Goście",
-    "time": "17:00",
-    "location": "Muszla Koncertowa, Łowicz",
-    "category": "Koncert",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/blues-breakout-2026.jpg",
-    "source": "https://lok.art.pl/wp-content/uploads/2026/07/winni-kase.jpg"
-  },
-     {
-    "date": "2026-07-26",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
-    ],
-   "2026-07-28": [
-  {
-    "date": "2026-07-28",
-    "title": "Zaczytane Wakacje: Detektywi na tropie",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "Zaczytane Wakacje: Wokół książki „Biuro Detektywistyczne Lassego i Mai”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-     {
-    "date": "2026-07-28",
-    "title": "Retro Granie na Wielkim Ekranie",
-    "time": "do ustalenia",
-    "location": "Kino Fenix, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-     ],
-      "2026-07-29": [
-          {
-    "date": "2026-07-29",
-    "title": "Retro Granie na Wielkim Ekranie",
-    "time": "do ustalenia",
-    "location": "Kino Fenix, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-         ],
-    "2026-07-30": [
-      {
-    "date": "2026-07-30",
-    "title": "Zaczytane Wakacje: Morskie opowieści",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "Zaczytane Wakacje: Wokół książki „Bałtyk. Przewodnik dla dużych i małych”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-2026.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-       {
-    "date": "2026-07-30",
-    "title": "Retro Granie na Wielkim Ekranie",
-    "time": "do ustalenia",
-    "location": "Kino Fenix, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-],
-    "2026-07-31": [
-  {
-  "date": "2026-07-31",
-  "title": "X Międzynarodowy Festiwal Folkloru Ożarów Mazowiecki 2026",
-  "time": "17:30",
-  "location": "Muszla Koncertowa, Łowicz",
-  "category": "Festiwal",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/x-miedzynarodowy-festiwal-folkloru-ozarow-mazowiecki-2026.jpg",
-  "source": "https://lok.art.pl/wp-content/uploads/2026/07/folkfest-druk.jpg"
-}
-      ],
-   "2026-08-01": [
-      {
-    "date": "2026-08-01",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
-     ],
+    {
+      "title": "Winni Kasę + Goście",
+      "time": "17:00",
+      "place": "Muszla Koncertowa, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/blues-breakout-2026.jpg",
+      "source": "https://lok.art.pl/wp-content/uploads/2026/07/winni-kase.jpg"
+    },
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-lipiec-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ],
+  "2026-07-28": [
+    {
+      "title": "Zaczytane Wakacje: Detektywi na tropie",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Wokół książki „Biuro Detektywistyczne Lassego i Mai”",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Retro Granie na Wielkim Ekranie",
+      "time": "do ustalenia",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-07-29": [
+    {
+      "title": "Retro Granie na Wielkim Ekranie",
+      "time": "do ustalenia",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-07-30": [
+    {
+      "title": "Zaczytane Wakacje: Morskie opowieści",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Zaczytane Wakacje: Wokół książki „Bałtyk. Przewodnik dla dużych i małych”",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-2026.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Retro Granie na Wielkim Ekranie",
+      "time": "do ustalenia",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/retro-granie-na-wielkim-ekranie-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-07-31": [
+    {
+      "title": "X Międzynarodowy Festiwal Folkloru Ożarów Mazowiecki 2026",
+      "time": "17:30",
+      "place": "Muszla Koncertowa, Łowicz",
+      "category": "Festiwal",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/x-miedzynarodowy-festiwal-folkloru-ozarow-mazowiecki-2026.jpg",
+      "source": "https://lok.art.pl/wp-content/uploads/2026/07/folkfest-druk.jpg"
+    }
+  ],
+  "2026-08-01": [
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ],
   "2026-08-02": [
     {
-    "date": "2026-08-02",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
-    ],
-    "2026-08-03": [
-  {
-    "date": "2026-08-03",
-    "title": "Warsztaty teatralne „Zróbmy Teatr”",
-    "time": "10:00",
-    "endTime": "14:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/zrobmy-teatr-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-     ], 
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ],
+  "2026-08-03": [
+    {
+      "title": "Warsztaty teatralne „Zróbmy Teatr”",
+      "time": "10:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/zrobmy-teatr-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
   "2026-08-04": [
-  {
-  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
-  "time": "19:30",
-  "place": "Bazylika Katedralna, Łowicz",
-  "category": "Koncert",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
-  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-},
-
     {
-    "date": "2026-08-04",
-    "title": "Warsztaty teatralne „Zróbmy Teatr”",
-    "time": "10:00",
-    "endTime": "14:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/zrobmy-teatr-2026.jpg",
-    "source": "https://lok.art.pl/"
-  },
+      "title": "XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+      "time": "19:30",
+      "place": "Bazylika Katedralna, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+      "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+    },
     {
-    "date": "2026-08-04",
-    "title": "Bajkowy English, czytanie książek w języku angielskiy",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-     {
-    "date": "2026-08-04",
-    "title": "Wokół książki: „Mój przyjaciel pies” – spotkanie autorskie z Martą Mąg i psem Preclem",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-],
+      "title": "Warsztaty teatralne „Zróbmy Teatr”",
+      "time": "10:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/zrobmy-teatr-2026.jpg",
+      "source": "https://lok.art.pl/"
+    },
+    {
+      "title": "Bajkowy English, czytanie książek w języku angielskim",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Wokół książki: „Mój przyjaciel pies” – spotkanie autorskie z Martą Mąg i psem Preclem",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    }
+  ],
   "2026-08-05": [
-   {
-    "date": "2026-08-05",
-    "title": "Warsztaty teatralne „Zróbmy Teatr”",
-    "time": "10:00",
-    "endTime": "14:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/zrobmy-teatr-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
-    ],
-    "2026-08-06": [
-      {
-    "date": "2026-08-06",
-    "title": "Łowickie klimaty: Wyjazd do Centrum Folkloru Polskiego Karolin",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-       {
-    "date": "2026-08-06",
-    "title": "Warsztaty teatralne „Zróbmy Teatr”",
-    "time": "10:00",
-    "endTime": "14:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/zrobmy-teatr-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }     
-],
-"2026-08-07": [
-   {
-    "date": "2026-08-07",
-    "title": "Warsztaty teatralne „Zróbmy Teatr”",
-    "time": "10:00",
-    "endTime": "14:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/zrobmy-teatr-2026.jpg",
-    "source": "https://lok.art.pl/"
-  }
+    {
+      "title": "Warsztaty teatralne „Zróbmy Teatr”",
+      "time": "10:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/zrobmy-teatr-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-08-06": [
+    {
+      "title": "Łowickie klimaty: Wyjazd do Centrum Folkloru Polskiego Karolin",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Warsztaty teatralne „Zróbmy Teatr”",
+      "time": "10:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/zrobmy-teatr-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
+  ],
+  "2026-08-07": [
+    {
+      "title": "Warsztaty teatralne „Zróbmy Teatr”",
+      "time": "10:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/zrobmy-teatr-2026.jpg",
+      "source": "https://lok.art.pl/"
+    }
   ],
   "2026-08-08": [
     {
-    "date": "2026-08-08",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  },
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    },
     {
-    "date": "2026-08-08",
-    "title": "Lato w Muzeum – Zatrzymać lato – kwiatowe pamiątki",
-    "time": "10:15-12:00",
-    "location": "Muzeum w Nieborowie i Arkadii, Aleja Lipowa 35, Nieborów",
-    "category": "Warsztaty",
-    "organizer": "Muzeum w Nieborowie i Arkadii",
-    "image": "plakaty/lato-w-muzeum-2026.jpg",
-    "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
-  }
-      ],
-  
-  
+      "title": "Lato w Muzeum – Zatrzymać lato – kwiatowe pamiątki",
+      "time": "10:15-12:00",
+      "place": "Muzeum w Nieborowie i Arkadii, Aleja Lipowa 35, Nieborów",
+      "category": "Warsztaty",
+      "organizer": "Muzeum w Nieborowie i Arkadii",
+      "image": "plakaty/lato-w-muzeum-2026.jpg",
+      "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
+    }
+  ],
   "2026-08-09": [
     {
-    "date": "2026-08-09",
-    "title": "Premiera spektaklu „Zróbmy Teatr”",
-    "time": "13:00",
-    "location": "Łowicki Ośrodek Kultury, Łowicz",
-    "category": "Spektakl",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/zrobmy-teatr-2026.jpg",
-    "source": "https://lok.art.pl/"
-  },
+      "title": "Premiera spektaklu „Zróbmy Teatr”",
+      "time": "13:00",
+      "place": "Łowicki Ośrodek Kultury, Łowicz",
+      "category": "Spektakl",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/zrobmy-teatr-2026.jpg",
+      "source": "https://lok.art.pl/"
+    },
     {
-  "date": "2026-08-09",
-  "title": "MAMMA MIA 2 TRIBUTE TO ABBA",
-  "time": "18:00",
-  "location": "Muszla Koncertowa, Park Błonie, Łowicz",
-  "category": "Koncert",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/mamma-mia-2-tribute-to-abba-2026.jpg",
-  "source": "https://lok.art.pl/"
-},
-      {
-    "date": "2026-08-09",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
-],
-"2026-08-11": [
-  {
-    "date": "2026-08-11",
-    "title": "Czytanie przez poznawanie „Sensoryka”",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-   {
-    "date": "2026-08-11",
-    "title": "Wokół książki: „Pippi Pończoszanka” Astrid Lindgren",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-   ],
-   "2026-08-13": [
-  {
-    "date": "2026-08-13",
-    "title": "Bajki z rzutnika „Przygody Koziołka Matołka. Księga I” – głośne czytanie",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-      {
-    "date": "2026-08-13",
-    "title": "LEGO Edukido „Przenieś się do świata bajek” i „Budujemy maszynę Gutenberga”",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-   ],
-  
-  "2026-08-15": [
-   {
-    "date": "2026-08-15",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
+      "title": "MAMMA MIA 2 TRIBUTE TO ABBA",
+      "time": "18:00",
+      "place": "Muszla Koncertowa, Park Błonie, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/mamma-mia-2-tribute-to-abba-2026.jpg",
+      "source": "https://lok.art.pl/"
+    },
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
   ],
-"2026-08-16": [
-  {
-    "date": "2026-08-16",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
+  "2026-08-11": [
+    {
+      "title": "Czytanie przez poznawanie „Sensoryka”",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Wokół książki: „Pippi Pończoszanka” Astrid Lindgren",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    }
+  ],
+  "2026-08-13": [
+    {
+      "title": "Bajki z rzutnika „Przygody Koziołka Matołka. Księga I” – głośne czytanie",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "LEGO Edukido „Przenieś się do świata bajek” i „Budujemy maszynę Gutenberga”",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    }
+  ],
+  "2026-08-15": [
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ],
+  "2026-08-16": [
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
   ],
   "2026-08-18": [
-  {
-  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
-  "time": "19:30",
-  "place": "Bazylika Katedralna, Łowicz",
-  "category": "Koncert",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
-  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-},
-     {
-    "date": "2026-08-18",
-    "title": "Bajkowy English, czytanie książek w języku angielskim",
-    "time": "15:30",
-    "endTime": "16:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "Klub Miłośników Komiksu – edycja wakacyjna",
-    "time": "16:30",
-    "endTime": "18:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-      ],
-   "2026-08-20": [
-
-     {
-    "date": "2026-08-20",
-    "title": "Teatr Arlekin – spektakl „Brzechwa Dzieciom”",
-    "time": "15:30",
-    "endTime": "16:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Spektakl",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "Warsztaty teatralno-ekspresyjne",
-    "time": "16:30",
-    "endTime": "18:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-     ],
+    {
+      "title": "XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+      "time": "19:30",
+      "place": "Bazylika Katedralna, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+      "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+    },
+    {
+      "title": "Bajkowy English, czytanie książek w języku angielskim",
+      "time": "15:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Klub Miłośników Komiksu – edycja wakacyjna",
+      "time": "16:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    }
+  ],
+  "2026-08-20": [
+    {
+      "title": "Teatr Arlekin – spektakl „Brzechwa Dzieciom”",
+      "time": "15:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Spektakl",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Warsztaty teatralno-ekspresyjne",
+      "time": "16:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    }
+  ],
   "2026-08-22": [
- {
-    "date": "2026-08-22",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  },
-     {
-    "date": "2026-08-22",
-    "title": "Lato w Muzeum – Sherlock Holmes na tropie muzealnej zagadki",
-    "time": "10:15-12:00",
-    "location": "Muzeum w Nieborowie i Arkadii, Aleja Lipowa 35, Nieborów",
-    "category": "Warsztaty",
-    "organizer": "Muzeum w Nieborowie i Arkadii",
-    "image": "plakaty/lato-w-muzeum-2026.jpg",
-    "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
-  }
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    },
+    {
+      "title": "Lato w Muzeum – Sherlock Holmes na tropie muzealnej zagadki",
+      "time": "10:15-12:00",
+      "place": "Muzeum w Nieborowie i Arkadii, Aleja Lipowa 35, Nieborów",
+      "category": "Warsztaty",
+      "organizer": "Muzeum w Nieborowie i Arkadii",
+      "image": "plakaty/lato-w-muzeum-2026.jpg",
+      "source": "https://www.facebook.com/photo/?fbid=1703166975144474&set=a.532717962189387"
+    }
   ],
   "2026-08-23": [
-     {
-    "date": "2026-08-23",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
-    ],
-    
-  "2026-08-25": [
-  {
-  "title": "🎹 XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
-  "time": "19:30",
-  "place": "Bazylika Katedralna, Łowicz",
-  "category": "Koncert",
-  "organizer": "Łowicki Ośrodek Kultury",
-  "image": "plakaty/festiwal-organowy-bach-2026.jpg",
-  "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
-},
     {
-    "date": "2026-08-25",
-    "title": "Czytanie przez poznawanie „Sensoryka”",
-    "time": "09:30",
-    "endTime": "10:30",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Dla dzieci",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-08-25",
-    "title": "Wokół książki: „Drzewa” Piotra Sochy i Wojciecha Grajkowskiego",
-    "time": "10:30",
-    "endTime": "12:00",
-    "location": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-      ],
-  
-"2026-08-27": [
-  {
-    "date": "2026-08-27",
-    "title": "Łowickie klimaty: Wyjazd do Centrum Folkloru Polskiego „Karolin”",
-    "time": "08:00",
-    "endTime": "15:30",
-    "location": "Centrum Folkloru Polskiego „Karolin”",
-    "category": "Wycieczka",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  },
-  {
-    "date": "2026-08-27",
-    "title": "Warsztaty taneczne „Polskie Tańce Ludowe”, obioca",
-    "time": "08:00",
-    "endTime": "15:30",
-    "location": "Centrum Folkloru Polskiego „Karolin”",
-    "category": "Warsztaty",
-    "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
-    "image": "plakaty/zaczytane-wakacje-20261.jpg",
-    "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-  }
-],
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ],
+  "2026-08-25": [
+    {
+      "title": "XXXVII Międzynarodowy Festiwal Organowy „J.S. Bach” – Koncert Inauguracyjny",
+      "time": "19:30",
+      "place": "Bazylika Katedralna, Łowicz",
+      "category": "Koncert",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/festiwal-organowy-bach-2026.jpg",
+      "source": "https://lok.art.pl/xxxvii-miedzynarodowy-festiwal-organowy-j-s-bach-8-vii-19-viii-copy/"
+    },
+    {
+      "title": "Czytanie przez poznawanie „Sensoryka”",
+      "time": "09:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Dla dzieci",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Wokół książki: „Drzewa” Piotra Sochy i Wojciecha Grajkowskiego",
+      "time": "10:30",
+      "place": "Biblioteka Miejska im. A. K. Cebrowskiego, Al. Sienkiewicza 62, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    }
+  ],
+  "2026-08-27": [
+    {
+      "title": "Łowickie klimaty: Wyjazd do Centrum Folkloru Polskiego „Karolin”",
+      "time": "08:00",
+      "place": "Centrum Folkloru Polskiego „Karolin”",
+      "category": "Wycieczka",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    },
+    {
+      "title": "Warsztaty taneczne „Polskie Tańce Ludowe”, oberek",
+      "time": "08:00",
+      "place": "Centrum Folkloru Polskiego „Karolin”",
+      "category": "Warsztaty",
+      "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
+      "image": "plakaty/zaczytane-wakacje-20261.jpg",
+      "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
+    }
+  ],
   "2026-08-28": [
-   {
-    "date": "2026-08-28",
-    "title": "Kabaret Paranienormalni – Ostre Cięcie",
-    "time": "20:00",
-    "location": "Muszla Koncertowa, Park Błonia, Łowicz",
-    "category": "Kabaret",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "image": "plakaty/paranienormalni-ostre-ciecie-2026.jpg",
-    "source": "https://lok.art.pl/kabaret-paranienormalni-ostre-ciecie-28-08-pt/"
-  }
-],
-   "2026-08-29": [
-       {
-    "date": "2026-08-29",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  },
-     {
-  "date": "2026-08-29",
-  "title": "Opera „Uprowadzenie z seraju”",
-  "time": "20:00",
-  "location": "Ogród Muzeum w Nieborowie, Aleja Lipowa 35, Nieborów",
-  "category": "Opera",
-  "organizer": "Muzeum w Nieborowie i Arkadii, Fundacja Trzy Trąby oraz Stowarzyszenie Polskich Artystów Muzyków Oddział Warszawski",
-  "image": "plakaty/opera-uprowadzenie-z-seraju-2026.jpg",
-  "source": "https://www.nieborow.art.pl/aktualnosci/opera-uprowadzenie-z-seraju,119.html"
-}
-     ],
-   "2026-08-30": [
-       {
-    "date": "2026-08-30",
-    "title": "Warsztaty Ludowe",
-    "time": "11:00-17:00",
-    "location": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
-    "category": "Warsztaty",
-    "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
-    "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
-    "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-  }
- ]
+    {
+      "title": "Kabaret Paranienormalni – Ostre Cięcie",
+      "time": "20:00",
+      "place": "Muszla Koncertowa, Park Błonia, Łowicz",
+      "category": "Kabaret",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "image": "plakaty/paranienormalni-ostre-ciecie-2026.jpg",
+      "source": "https://lok.art.pl/kabaret-paranienormalni-ostre-ciecie-28-08-pt/"
+    }
+  ],
+  "2026-08-29": [
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    },
+    {
+      "title": "Opera „Uprowadzenie z seraju”",
+      "time": "20:00",
+      "place": "Ogród Muzeum w Nieborowie, Aleja Lipowa 35, Nieborów",
+      "category": "Opera",
+      "organizer": "Muzeum w Nieborowie i Arkadii, Fundacja Trzy Trąby oraz Stowarzyszenie Polskich Artystów Muzyków Oddział Warszawski",
+      "image": "plakaty/opera-uprowadzenie-z-seraju-2026.jpg",
+      "source": "https://www.nieborow.art.pl/aktualnosci/opera-uprowadzenie-z-seraju,119.html"
+    }
+  ],
+  "2026-08-30": [
+    {
+      "title": "Warsztaty Ludowe",
+      "time": "11:00-17:00",
+      "place": "Folkstar – Muzeum Wycinanek w Budowie, Stary Rynek 10, Łowicz",
+      "category": "Warsztaty",
+      "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
+      "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
+      "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
+    }
+  ]
 }
