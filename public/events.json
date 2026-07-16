@@ -275,6 +275,16 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-sparingi-lato-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=1862397301867988&set=a.739635610810835"
+},
+    {
+  "date": "2026-07-18",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
   "2026-07-19": [
@@ -492,6 +502,16 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-sparingi-lato-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=1862397301867988&set=a.739635610810835"
+},
+    {
+  "date": "2026-07-25",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
   "2026-07-26": [
@@ -633,6 +653,16 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+    {
+  "date": "2026-08-01",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
   "2026-08-02": [
@@ -815,6 +845,16 @@
   "organizer": "Łączy Nas Łowicz",
   "image": "plakaty/lato-z-lnl-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=1407038381482023&set=pcb.1407041861481675&locale=pl_PL"
+},
+    {
+  "date": "2026-08-08",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
   "2026-08-09": [
@@ -906,9 +946,8 @@
   "organizer": "Miasto i Gmina Kiernozia",
   "image": "plakaty/dzien-kiernozkiego-dzika-2026.jpg",
   "source": "https://lowicz24.eu/artykul/dzien-kiernozkiego-dzika-n1838256"
-}
-      ],
-  "2026-08-15": [
+},
+     
     {
       "title": "Warsztaty Ludowe",
       "time": "11:00-17:00",
@@ -927,6 +966,16 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+      {
+  "date": "2026-08-15",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
   "2026-08-16": [
@@ -1069,6 +1118,16 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+    {
+  "date": "2026-08-22",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
   "2026-08-23": [
@@ -1246,7 +1305,17 @@
       "organizer": "Muzeum w Nieborowie i Arkadii, Fundacja Trzy Trąby oraz Stowarzyszenie Polskich Artystów Muzyków Oddział Warszawski",
       "image": "plakaty/opera-uprowadzenie-z-seraju-2026.jpg",
       "source": "https://www.nieborow.art.pl/aktualnosci/opera-uprowadzenie-z-seraju,119.html"
-    }
+    },
+    {
+  "date": "2026-08-29",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+}
   ],
   "2026-08-30": [
     {
@@ -1301,8 +1370,30 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+      {
+  "date": "2026-09-05",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
       ],
+   "2026-09-12": [
+  {
+  "date": "2026-09-12",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+}
+     ],
    "2026-09-19": [
   {
   "date": "2026-09-19",
@@ -1325,6 +1416,16 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+  {
+  "date": "2026-09-19",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
   
@@ -1383,6 +1484,18 @@
   "source": "https://biletyna.pl/spektakl/Recepta-na-szczescie-dwa/Lowicz"
 }
       ],
+ "2026-09-26": [
+  {
+  "date": "2026-09-26",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+}
+   ],
  "2026-09-27": [
       {  
         
@@ -1406,8 +1519,30 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+     {
+  "date": "2026-10-03",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
      ],
+"2026-10-10": [
+  {
+  "date": "2026-10-10",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+}
+  ],
 "2026-10-17": [
   {
   "date": "2026-10-17",
@@ -1418,7 +1553,18 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+  {
+  "date": "2026-10-17",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
+  
   ],
   "2026-10-23": [
     
@@ -1433,6 +1579,18 @@
   "source": "https://biletyna.pl/kabaret/Kabaret-Nowaki/Mielismy-do-tego-nie-wracac/Lowicz"
 }
     ],
+"2026-10-24": [
+  {
+  "date": "2026-10-24",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+}
+  ],
 
     "2026-10-31": [
 {
@@ -1444,6 +1602,16 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
+      {
+  "date": "2026-10-31",
+  "title": "Parkrun Łowicz",
+  "time": "09:00",
+  "place": "Park Błonie, Łowicz",
+  "category": "Sport",
+  "organizer": "Parkrun Łowicz",
+  "image": "plakaty/parkrun.jpg",
+  "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
        ],
 
