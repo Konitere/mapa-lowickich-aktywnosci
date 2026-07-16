@@ -623,7 +623,17 @@
       "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
       "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
       "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-    }
+    },
+    {
+  "date": "2026-08-01",
+  "title": "Pelikan Łowicz - ŁKS Łomża",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
   ],
   "2026-08-02": [
     {
@@ -907,7 +917,17 @@
       "organizer": "Stowarzyszenie Twórców Ludowych oraz Miasto Łowicz",
       "image": "plakaty/warsztaty-ludowe-sierpien-2026.jpg",
       "source": "https://lowicz24.eu/artykul/poznaj-lowickie-rekodzielo-n1835550"
-    }
+    },
+    {
+  "date": "2026-08-15",
+  "title": "Pelikan Łowicz - ŁKS Łódź II",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
   ],
   "2026-08-16": [
     {
@@ -1039,6 +1059,16 @@
   "organizer": "Łączy Nas Łowicz",
   "image": "plakaty/lato-z-lnl-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=1407038381482023&set=pcb.1407041861481675&locale=pl_PL"
+},
+    {
+  "date": "2026-08-22",
+  "title": "Pelikan Łowicz - Troszyn",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
 }
   ],
   "2026-08-23": [
@@ -1261,6 +1291,16 @@
   "organizer": "OSiR Łowicz",
   "image": "plakaty/aktywny-orlik-2026.jpg",
   "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+},
+      {
+  "date": "2026-09-05",
+  "title": "Pelikan Łowicz - Świt Nowy Dwór Mazowiecki",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
 }
       ],
    "2026-09-19": [
@@ -1275,6 +1315,19 @@
   "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
 }
      ],
+"2026-09-19": [
+  {
+  "date": "2026-09-19",
+  "title": "Pelikan Łowicz - Polonia Lidzbark Warmiński",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
+  ],
+  
   "2026-09-20": [
   {
   "date": "2026-09-20",
@@ -1343,7 +1396,32 @@
   "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
 }
    ],
+   "2026-10-03": [
+     {
+  "date": "2026-10-03",
+  "title": "Pelikan Łowicz - Widzew Łódź II",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
+     ],
+"2026-10-17": [
+  {
+  "date": "2026-10-17",
+  "title": "Pelikan Łowicz - Wigry Suwałki",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
+  ],
   "2026-10-23": [
+    
   {
   "date": "2026-10-23",
   "title": "Kabaret Nowaki – Mieliśmy do tego nie wracać",
@@ -1355,6 +1433,45 @@
   "source": "https://biletyna.pl/kabaret/Kabaret-Nowaki/Mielismy-do-tego-nie-wracac/Lowicz"
 }
     ],
+
+    "2026-10-31": [
+{
+  "date": "2026-10-31",
+  "title": "Pelikan Łowicz - Wisła Płock II",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
+       ],
+
+  "2026-11-07": [
+    {
+  "date": "2026-11-07",
+  "title": "Pelikan Łowicz - KTS Weszło",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
+],
+ "2026-11-28": [
+  {
+  "date": "2026-11-28",
+  "title": "Pelikan Łowicz - Mławianka Mława",
+  "time": "18:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+}
+   ],
+    
    "2026-11-29": [
   {
   "date": "2026-11-29",
