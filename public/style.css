@@ -1,4 +1,3 @@
-
 *{
     box-sizing:border-box;
 }
@@ -771,4 +770,421 @@ a.footer-contact-row:hover{color:var(--red)}
 .footer-contact-row{justify-content:center}
 .footer-bottom{font-size:13px;line-height:1.8}
 .footer-bottom span{margin:0 8px}
+}
+
+
+/* ======================================================
+   STRONA WYDARZENIA
+   Style specyficzne dla wydarzenie.html
+====================================================== */
+
+/* =========================
+   STRONA WYDARZENIA
+========================= */
+
+.event-page{
+    width:100%;
+    max-width:1060px;
+    margin:0 auto;
+    padding:48px 30px 90px;
+}
+
+
+/* =========================
+   POWRÓT
+========================= */
+
+.back-link{
+    display:inline-block;
+    margin-bottom:34px;
+    color:#777;
+    text-decoration:none;
+    font-size:13px;
+    font-weight:600;
+}
+
+.back-link:hover{
+    color:var(--red);
+}
+
+
+/* =========================
+   KATEGORIA
+========================= */
+
+.event-category{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:19px;
+}
+
+.category-icon{
+    width:37px;
+    height:37px;
+    border-radius:50%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:white;
+    font-size:16px;
+}
+
+.category-name{
+    color:#666;
+    font-size:14px;
+    line-height:1;
+    font-weight:400;
+}
+
+
+/* =========================
+   TYTUŁ
+========================= */
+
+.event-title{
+    margin:0 0 30px;
+    color:#252525;
+    font-size:42px;
+    line-height:1.14;
+    font-weight:600;
+    letter-spacing:-1px;
+}
+
+
+/* =========================
+   PLAKAT
+========================= */
+
+.poster-area{
+    position:relative;
+    width:100%;
+    max-height:720px;
+    min-height:360px;
+    overflow:hidden;
+    background:#ffffff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-bottom:30px;
+}
+
+.poster-background{
+    position:absolute;
+    inset:-45px;
+    width:calc(100% + 90px);
+    height:calc(100% + 90px);
+    object-fit:cover;
+    object-position:center;
+    filter:blur(35px);
+    opacity:.42;
+    transform:scale(1.12);
+    z-index:1;
+}
+
+.poster-area::after{
+    content:"";
+    position:absolute;
+    inset:0;
+    background:transparent;
+    z-index:2;
+    pointer-events:none;
+}
+
+.poster-main{
+    position:relative;
+    z-index:3;
+    max-width:100%;
+    max-height:720px;
+    width:auto;
+    height:auto;
+    object-fit:contain;
+}
+
+.no-poster{
+    position:relative;
+    z-index:3;
+    min-height:360px;
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:90px;
+}
+
+
+/* =========================
+   DATA I MIEJSCE
+========================= */
+
+.event-details{
+    width:100%;
+    margin-top:0;
+}
+
+.detail-row{
+    display:flex;
+    align-items:flex-start;
+    gap:18px;
+    padding:8px 0;
+}
+
+.detail-icon{
+    width:31px;
+    min-width:31px;
+    height:31px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#444;
+}
+
+.detail-icon svg{
+    width:27px;
+    height:27px;
+    stroke:currentColor;
+}
+
+.detail-text{
+    padding-top:3px;
+    color:#333;
+    font-size:16px;
+    line-height:1.55;
+    font-weight:400;
+}
+
+.event-date-time{
+    text-transform:lowercase;
+}
+
+
+/* =========================
+   ORGANIZATOR
+========================= */
+
+.organizer-row{
+    display:flex;
+    align-items:flex-start;
+    gap:18px;
+    padding:8px 0;
+}
+
+.organizer-text{
+    padding-top:3px;
+    color:#333;
+    font-size:16px;
+    line-height:1.55;
+}
+
+
+/* =========================
+   OPIS
+========================= */
+
+.description{
+    margin-top:38px;
+    padding-top:32px;
+    border-top:1px solid var(--border);
+}
+
+.description-title{
+    margin:0 0 19px;
+    color:#252525;
+    font-size:25px;
+    line-height:1.25;
+    font-weight:600;
+}
+
+.description-text{
+    color:#333;
+    font-size:16px;
+    line-height:1.75;
+    font-weight:400;
+    white-space:pre-line;
+}
+
+
+/* =========================
+   ŹRÓDŁO
+========================= */
+
+.source-wrap{
+    margin-top:32px;
+}
+
+.source-button{
+    display:inline-block;
+    padding:13px 25px;
+    background:var(--red);
+    color:white;
+    text-decoration:none;
+    font-size:13px;
+    line-height:1;
+    font-weight:700;
+    border-radius:2px;
+    transition:.2s;
+}
+
+.source-button:hover{
+    opacity:.86;
+}
+
+
+/* =========================
+   BŁĄD
+========================= */
+
+.error{
+    padding:80px 20px;
+    text-align:center;
+}
+
+.error h1{
+    color:var(--navy);
+    font-size:35px;
+}
+
+.error a{
+    color:var(--red);
+}
+
+
+/* =========================
+   STOPKA
+========================= */
+
+.footer{
+    border-top:1px solid var(--border);
+    padding:35px 20px;
+    text-align:center;
+    color:#777;
+    font-size:13px;
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media(max-width:800px){
+
+    .nav-inner{
+        grid-template-columns:repeat(4,1fr);
+    }
+
+    .nav-link{
+        min-height:82px;
+        padding:12px 5px;
+        gap:6px;
+        flex-direction:column;
+    }
+
+    .nav-icon{
+        width:27px;
+        height:27px;
+        font-size:23px;
+    }
+
+    .nav-text{
+        text-align:center;
+        font-size:9px;
+    }
+
+    .nav-link.active::after{
+        left:5%;
+        right:5%;
+        height:3px;
+    }
+
+    .event-page{
+        padding:28px 15px 60px;
+    }
+
+    .back-link{
+        margin-bottom:25px;
+        font-size:12px;
+    }
+
+    .event-category{
+        margin-bottom:16px;
+    }
+
+    .category-icon{
+        width:34px;
+        height:34px;
+        font-size:15px;
+    }
+
+    .category-name{
+        font-size:13px;
+    }
+
+    .event-title{
+        margin-bottom:24px;
+        font-size:31px;
+        line-height:1.13;
+        letter-spacing:-.6px;
+    }
+
+    .poster-area{
+        min-height:240px;
+        max-height:600px;
+        margin-bottom:24px;
+    }
+
+    .poster-main{
+        max-height:600px;
+    }
+
+    .detail-row,
+    .organizer-row{
+        gap:13px;
+        padding:7px 0;
+    }
+
+    .detail-icon{
+        width:27px;
+        min-width:27px;
+        height:27px;
+    }
+
+    .detail-icon svg{
+        width:24px;
+        height:24px;
+    }
+
+    .detail-text,
+    .organizer-text{
+        padding-top:2px;
+        font-size:15px;
+        line-height:1.5;
+    }
+
+    .description{
+        margin-top:31px;
+        padding-top:27px;
+    }
+
+    .description-title{
+        font-size:23px;
+    }
+
+    .description-text{
+        font-size:15px;
+        line-height:1.7;
+    }
+
+}
+
+
+@media(max-width:430px){
+
+    .nav-text{
+        font-size:8px;
+    }
+
+    .event-title{
+        font-size:28px;
+    }
+
 }
