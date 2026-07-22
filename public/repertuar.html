@@ -4,67 +4,215 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Kino Fenix – Repertuar</title>
-<link rel="stylesheet" href="style.css">
+<style>
+*{box-sizing:border-box}
+:root{--navy:#071d55;--red:#e30613;--border:#e5e7eb;--muted:#667085}
+body{margin:0;background:#f7f8fb;color:var(--navy);font-family:Arial,Helvetica,sans-serif}
+a{color:inherit;text-decoration:none}
+.page{max-width:1100px;margin:0 auto;padding:35px 20px 60px}
+.back{display:inline-flex;align-items:center;gap:8px;font-weight:800;margin-bottom:24px}
+.repertoire-box{background:white;border:1px solid var(--border);border-radius:18px;box-shadow:0 3px 14px rgba(7,29,85,.08);padding:30px}
+.heading{display:flex;align-items:center;justify-content:center;gap:14px;font-size:28px;font-weight:900;text-transform:uppercase}
+.heading-icon{font-size:34px;color:var(--red)}
+.place{text-align:center;margin-top:8px;font-size:13px;color:#303030}
+.days{display:flex;gap:10px;overflow-x:auto;padding:25px 0 15px;scrollbar-width:thin}
+.day-btn{min-width:94px;border:1px solid #d8dce5;background:white;color:var(--navy);border-radius:9px;padding:11px 12px;cursor:pointer;font-weight:800}
+.day-btn span{display:block;font-size:11px;text-transform:uppercase}
+.day-btn strong{display:block;margin-top:4px;font-size:13px}
+.day-btn.active{background:var(--red);border-color:var(--red);color:white}
+.movies{border:1px solid var(--border);border-radius:12px;overflow:hidden}
+.movie{display:grid;grid-template-columns:140px minmax(0,1fr) auto;gap:20px;align-items:center;padding:12px;border-bottom:1px solid var(--border)}
+.movie:last-child{border-bottom:0}
+.poster{width:140px;height:210px;border-radius:8px;overflow:hidden;background:#eee;display:flex;align-items:center;justify-content:center}
+.poster img{width:100%;height:100%;object-fit:contain;object-position:center}
+.movie-title{font-size:17px;font-weight:900;margin-bottom:8px}
+.movie-info{font-size:12px;color:#4b5563}
+.times{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
+.time{border:1.5px solid var(--red);color:var(--red);border-radius:7px;padding:8px 14px;font-size:13px;font-weight:900}
+.empty{text-align:center;padding:45px;color:var(--muted)}
+.note{margin-top:18px;font-size:12px;color:var(--muted)}
+.actions{display:flex;justify-content:center;margin-top:25px}
+.ticket{background:var(--navy);color:white;padding:13px 28px;border-radius:8px;font-weight:900}
+@media(max-width:700px){
+.page{padding:20px 10px 40px}
+.repertoire-box{padding:18px 12px}
+.heading{font-size:21px}
+.movie{grid-template-columns:82px minmax(0,1fr);gap:12px}
+.poster{width:82px;height:110px}
+.times{grid-column:1/-1;justify-content:flex-start;padding-left:94px}
+.day-btn{min-width:78px}
+}
+
+html,
+body,
+button,
+input,
+textarea,
+select{
+    font-family:"Montserrat", Arial, sans-serif !important;
+}
+
+
+.movie-title a{
+    color:inherit;
+    text-decoration:none;
+}
+
+.movie-title a:hover{
+    text-decoration:underline;
+}
+
+
+.filmweb-rating{
+    display:flex;
+    align-items:center;
+    gap:6px;
+    margin-top:9px;
+    font-size:13px;
+}
+
+.filmweb-star{
+    color:#ffc400;
+    font-size:18px;
+}
+
+.filmweb-rating strong{
+    font-size:15px;
+    color:#111827;
+}
+
+.filmweb-rating span:last-child{
+    color:#667085;
+}
+
+
+.poster a{
+    display:block;
+    width:100%;
+    height:100%;
+}
+
+</style>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
 </head>
 <body>
-
-<header class="site-header">
-<div class="header-image">
-<a href="index.html"><img src="naglowek.png" alt="Mapa Łowickich Aktywności"></a>
-</div>
-</header>
-
-<nav class="main-nav">
-<div class="nav-inner">
-<a href="index.html#kalendarz" class="nav-link active"><span class="nav-text">Kalendarz</span></a>
-<a href="index.html#oprojekcie" class="nav-link"><span class="nav-text">O projekcie</span></a>
-</div>
-</nav>
-
 <main class="page">
-<a class="back-link" href="index.html#kalendarz">← Wróć do kalendarza</a>
-
+<a class="back" href="index.html#kalendarz">← POWRÓT</a>
 <section class="repertoire-box">
 <div class="heading"><span class="heading-icon">🎬</span><span>Kino Fenix – repertuar</span></div>
 <div class="place">📍 Kino Fenix, Łowicz</div>
 <div class="days" id="days"></div>
 <div class="movies" id="movies"></div>
 <div class="note">ⓘ Repertuar może ulec zmianie. Aktualne informacje na stronie Łowickiego Ośrodka Kultury.</div>
-<div class="actions">
-<a class="ticket" href="https://lok.art.pl/repertuar/" target="_blank" rel="noopener">ZAREZERWUJ BILETY</a>
-</div>
+<div class="actions"><a class="ticket" href="https://lok.art.pl/repertuar/">ZAREZERWUJ BILETY</a></div>
 </section>
 </main>
-
-<footer class="site-footer">
-<div class="footer-main">
-<div class="footer-column footer-about">
-<h2>MAPA ŁOWICKICH<br><strong>AKTYWNOŚCI</strong></h2>
-<p>Twoje źródło informacji o wydarzeniach, koncertach, spektaklach, atrakcjach i aktywnościach w Łowiczu i powiecie łowickim.</p>
-</div>
-<div class="footer-column footer-contact">
-<h3>KONTAKT</h3>
-<p>Masz pytanie, sugestię lub chcesz zgłosić wydarzenie?</p>
-<a class="footer-contact-row" href="mailto:kplichta@interia.eu"><span class="footer-contact-icon">✉</span><span>kplichta@interia.eu</span></a>
-<div class="footer-contact-row"><span class="footer-contact-icon">⌖</span><span>Łowicz i powiat łowicki</span></div>
-<div class="footer-contact-row"><span class="footer-facebook">f</span><span>Mapa Łowickich Aktywności</span></div>
-</div>
-<div class="footer-column footer-follow">
-<h3>BĄDŹ NA BIEŻĄCO</h3>
-<p>Obserwuj nas, aby nie przegapić ciekawych wydarzeń!</p>
-</div>
-</div>
-<div class="footer-bottom">© 2026 Mapa Łowickich Aktywności <span>|</span> Wszelkie prawa zastrzeżone</div>
-</footer>
-
-<!-- Zachowaj cały dotychczasowy skrypt JavaScript z repertuar.html bez zmian -->
 <script>
-/* Wklej tutaj dotychczasowy kod JavaScript z repertuar.html.
-Nie wymaga zmian – zmieniony został jedynie wspólny szablon strony. */
-</script>
+const DAYS=["NDZ","PN","WT","ŚR","CZW","PT","SOB"];
+const MONTHS=["STY","LUT","MAR","KWI","MAJ","CZE","LIP","SIE","WRZ","PAŹ","LIS","GRU"];
+let cinemaData={};
+let selectedDate=null;
 
+function escapeHtml(value){
+    return String(value ?? "")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
+}
+
+async function loadCinema(){
+    try{
+        const response=await fetch("cinema.json?v="+Date.now());
+        if(!response.ok) throw new Error("Błąd cinema.json");
+        cinemaData=await response.json();
+        const dates=Object.keys(cinemaData)
+            .filter(key=>/^\d{4}-\d{2}-\d{2}$/.test(key))
+            .sort();
+        if(!dates.length) throw new Error("Brak repertuaru");
+        const today=new Date();
+        const todayKey=[
+            today.getFullYear(),
+            String(today.getMonth()+1).padStart(2,"0"),
+            String(today.getDate()).padStart(2,"0")
+        ].join("-");
+        selectedDate=dates.find(date=>date>=todayKey)||dates[0];
+        renderDays();
+        renderMovies();
+    }catch(error){
+        console.error(error);
+        document.getElementById("movies").innerHTML='<div class="empty">Nie udało się wczytać repertuaru.</div>';
+    }
+}
+
+function renderDays(){
+    const dates=Object.keys(cinemaData)
+        .filter(key=>/^\d{4}-\d{2}-\d{2}$/.test(key))
+        .sort();
+    document.getElementById("days").innerHTML=dates.map(dateKey=>{
+        const date=new Date(dateKey+"T12:00:00");
+        const active=dateKey===selectedDate?" active":"";
+        return `<button class="day-btn${active}" data-date="${dateKey}">
+            <span>${DAYS[date.getDay()]}</span>
+            <strong>${date.getDate()} ${MONTHS[date.getMonth()]}</strong>
+        </button>`;
+    }).join("");
+    document.querySelectorAll(".day-btn").forEach(button=>{
+        button.addEventListener("click",()=>{
+            selectedDate=button.dataset.date;
+            renderDays();
+            renderMovies();
+        });
+    });
+    const active=document.querySelector(".day-btn.active");
+    if(active) active.scrollIntoView({behavior:"smooth",block:"nearest",inline:"center"});
+}
+
+function renderMovies(){
+    const cinemaEvent=(cinemaData[selectedDate]||[]).find(event=>
+        event.type==="cinema" && Array.isArray(event.movies)
+    );
+    if(!cinemaEvent){
+        document.getElementById("movies").innerHTML='<div class="empty">Brak seansów w tym dniu.</div>';
+        return;
+    }
+    document.getElementById("movies").innerHTML=cinemaEvent.movies.map(movie=>`
+        <article class="movie">
+            <div class="poster">
+                ${movie.image
+                    ? movie.filmweb
+                        ? `<a href="${escapeHtml(movie.filmweb)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(movie.title)} na Filmwebie"><img src="${escapeHtml(movie.image)}" alt="${escapeHtml(movie.title)}"></a>`
+                        : `<img src="${escapeHtml(movie.image)}" alt="${escapeHtml(movie.title)}">`
+                    : ""
+                }
+            </div>
+            <div>
+                <div class="movie-title">
+                    ${movie.filmweb
+                        ? `<a href="${escapeHtml(movie.filmweb)}" target="_blank" rel="noopener noreferrer">${escapeHtml(movie.title)}</a>`
+                        : escapeHtml(movie.title)
+                    }
+                </div>
+                <div class="movie-info">Kino Fenix • Łowicz</div>
+                <div class="filmweb-rating">
+                    <span class="filmweb-star">★</span>
+                    <strong>${movie.filmwebRating || "—"}</strong>
+                    <span>Filmweb</span>
+                </div>
+            </div>
+            <div class="times">
+                ${(movie.times||[]).map(time=>`<span class="time">${escapeHtml(time)}</span>`).join("")}
+            </div>
+        </article>
+    `).join("");
+}
+
+loadCinema();
+</script>
 </body>
 </html>
