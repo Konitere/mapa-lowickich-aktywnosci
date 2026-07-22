@@ -2012,3 +2012,47 @@ a.footer-contact-row:hover{color:var(--red)}
 .footer-bottom{font-size:13px;line-height:1.8}
 .footer-bottom span{margin:0 8px}
 }
+
+
+/* =========================
+   O PROJEKCIE
+========================= */
+
+.about-page{
+    max-width:950px;
+    margin:0 auto;
+}
+
+.about-content{
+    max-width:900px;
+    margin:auto;
+    line-height:1.8;
+    font-size:17px;
+}
+
+.about-box{
+    margin:35px 0;
+    padding:28px;
+    background:#fafafa;
+    border-radius:18px;
+    border:1px solid #e5e5e5;
+}
+
+/* Nie używaj siatki wydarzeń na stronie O projekcie */
+.events-list.about-layout{
+    display:block;
+}
+
+.events-list.about-layout .event-card{
+    max-width:950px;
+    margin:0 auto;
+}
+
+.events-list.about-layout .event-tile{
+    cursor:default;
+}
+
+.events-list.about-layout .event-tile:hover{
+    transform:none;
+    box-shadow:0 2px 9px rgba(0,0,0,.12);
+}
