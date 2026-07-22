@@ -93,7 +93,16 @@ document.getElementById("emailError").style.display="none";
 document.getElementById("opisError").style.display="none";
 if(!em.checkValidity()){document.getElementById("emailError").style.display="block";ok=false;}
 if(op.value.trim()===""){document.getElementById("opisError").style.display="block";ok=false;}
-if(ok){alert("Etap 1 zakończony. W kolejnym etapie formularz będzie wysyłał zgłoszenie.");}
+if(ok)await fetch("/api/submit", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    email: em.value,
+    opis: op.value,
+    link: document.getElementById("link").value
+  })
 });
 </script>
 </body>
