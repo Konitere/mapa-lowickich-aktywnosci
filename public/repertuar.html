@@ -135,13 +135,26 @@ async function loadCinema(){
             .filter(key=>/^\d{4}-\d{2}-\d{2}$/.test(key))
             .sort();
         if(!dates.length) throw new Error("Brak repertuaru");
-        const today=new Date();
-        const todayKey=[
-            today.getFullYear(),
-            String(today.getMonth()+1).padStart(2,"0"),
-            String(today.getDate()).padStart(2,"0")
-        ].join("-");
-        selectedDate=dates.find(date=>date>=todayKey)||dates[0];
+        const params = new URLSearchParams(window.location.search);
+const requestedDate = params.get("date");
+
+if (requestedDate && dates.includes(requestedDate)) {
+
+    selectedDate = requestedDate;
+
+} else {
+
+    const today = new Date();
+
+    const todayKey = [
+        today.getFullYear(),
+        String(today.getMonth()+1).padStart(2,"0"),
+        String(today.getDate()).padStart(2,"0")
+    ].join("-");
+
+    selectedDate = dates.find(date=>date>=todayKey) || dates[0];
+
+}
         renderDays();
         renderMovies();
     }catch(error){
