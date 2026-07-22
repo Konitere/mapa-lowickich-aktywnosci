@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>O projekcie – Mapa Łowickich Aktywności</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="hero">
+    <div class="hero-content">
+        <h1>Mapa Łowickich Aktywności</h1>
+        <p>Twoje źródło informacji o wydarzeniach, koncertach, spektaklach, atrakcjach i aktywnościach w Łowiczu i powiecie łowickim.</p>
+    </div>
+</header>
+
+<main class="container">
+    <p><a href="index.html">← Powrót do strony głównej</a></p>
+
+    <section class="card">
+        <h2>O projekcie</h2>
+
+        <p><strong>Mapa Łowickich Aktywności</strong> to niezależny projekt, którego celem jest zebranie w jednym miejscu najciekawszych wydarzeń odbywających się w Łowiczu i powiecie łowickim.</p>
+
+        <p>Dzięki przejrzystemu kalendarzowi mieszkańcy oraz odwiedzający mogą szybko sprawdzić, co dzieje się w okolicy – od koncertów i spektakli, przez wydarzenia sportowe, rodzinne i plenerowe, aż po repertuar Kina Fenix.</p>
+
+        <h3>Co znajdziesz na stronie?</h3>
+        <ul>
+            <li>📅 kalendarz wydarzeń,</li>
+            <li>🎭 koncerty i spektakle,</li>
+            <li>👨‍👩‍👧 wydarzenia rodzinne,</li>
+            <li>🏃 imprezy sportowe,</li>
+            <li>🎨 warsztaty i zajęcia,</li>
+            <li>🎬 repertuar Kina Fenix,</li>
+            <li>🎪 festyny i wydarzenia plenerowe.</li>
+        </ul>
+
+        <h3>Skąd pochodzą informacje?</h3>
+
+        <p>Publikowane wydarzenia pochodzą z ogólnodostępnych źródeł – stron internetowych organizatorów, instytucji kultury, samorządów, oficjalnych profili w mediach społecznościowych oraz zgłoszeń przesyłanych przez organizatorów.</p>
+
+        <p>Każde wydarzenie zawiera odnośnik do źródła, dzięki czemu można łatwo sprawdzić najbardziej aktualne informacje.</p>
+
+        <h3>Zgłoś wydarzenie</h3>
+
+        <p>Organizujesz wydarzenie w Łowiczu lub powiecie łowickim? Skorzystaj z formularza <strong>„Zgłoś wydarzenie”</strong>. Po weryfikacji wydarzenie zostanie dodane do kalendarza.</p>
+
+        <h3>Współpraca</h3>
+
+        <p>Zapraszamy do współpracy instytucje, organizacje, stowarzyszenia oraz firmy, które chcą promować wydarzenia odbywające się w Łowiczu i powiecie łowickim.</p>
+
+        <h3>Kontakt</h3>
+
+        <p>📧 <strong>mapalowickichaktywnosci@gmail.com</strong><br>
+        📘 <a href="https://facebook.com/mapalowickichaktywnosci" target="_blank">facebook.com/mapalowickichaktywnosci</a></p>
+    </section>
+</main>
+
+<footer>
+    <p><strong>Mapa Łowickich Aktywności</strong></p>
+    <p>📧 mapalowickichaktywnosci@gmail.com</p>
+    <p>📘 <a href="https://facebook.com/mapalowickichaktywnosci" target="_blank">facebook.com/mapalowickichaktywnosci</a></p>
+    <p>© 2026 Mapa Łowickich Aktywności. Wszelkie prawa zastrzeżone.</p>
+</footer>
+
+</body>
+</html>
