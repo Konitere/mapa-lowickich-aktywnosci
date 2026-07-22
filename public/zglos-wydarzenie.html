@@ -93,7 +93,7 @@ document.getElementById("emailError").style.display="none";
 document.getElementById("opisError").style.display="none";
 if(!em.checkValidity()){document.getElementById("emailError").style.display="block";ok=false;}
 if(op.value.trim()===""){document.getElementById("opisError").style.display="block";ok=false;}
-if(ok)await fetch("/api/submit", {
+if(ok)await fetch("https://mapa-lowickich-api.kplichta.workers.dev/submit", {
   method: "POST",
   headers: {
     "Content-Type": "application/json"
