@@ -22,8 +22,7 @@ h1{color:var(--navy);font-size:42px;margin-bottom:10px}
 .lead{color:#666;line-height:1.7;margin-bottom:35px}
 label{display:block;font-weight:700;margin:22px 0 8px}
 .req{color:var(--red)}
-input[type=email],input[type=url],textarea{
-width:100%;padding:14px 16px;border:1px solid #ccc;border-radius:8px;font:inherit}
+input[type=email],input[type=url],textarea{width:100%;padding:14px 16px;border:1px solid #ccc;border-radius:8px;font:inherit}
 textarea{min-height:180px;resize:vertical}
 .help{font-size:13px;color:#777;margin-top:6px}
 .file-box{border:2px dashed #bbb;border-radius:10px;padding:28px;text-align:center}
@@ -32,11 +31,9 @@ button{margin-top:30px;background:var(--red);color:#fff;border:0;padding:16px 30
 button:disabled{opacity:.5;cursor:not-allowed}
 .error{color:#c00;font-size:13px;margin-top:6px;display:none}
 .footer-bottom{margin-top:70px;background:var(--navy);color:#fff;text-align:center;padding:25px}
-@media(max-width:800px){.nav-inner{grid-template-columns:1fr 1fr}h1{font-size:32px}}
 </style>
 </head>
 <body>
-
 <header class="site-header">
 <div class="header-image"><a href="index.html"><img src="naglowek.png" alt=""></a></div>
 </header>
@@ -50,59 +47,81 @@ button:disabled{opacity:.5;cursor:not-allowed}
 
 <div class="container">
 <h1>Zgłoś wydarzenie</h1>
-<p class="lead">
-Organizujesz wydarzenie w Łowiczu lub powiecie łowickim? Wyślij zgłoszenie.
-Po weryfikacji wydarzenie może zostać dodane do Mapy Łowickich Aktywności.
-</p>
+<p class="lead">Organizujesz wydarzenie w Łowiczu lub powiecie łowickim? Wyślij zgłoszenie. Po weryfikacji wydarzenie może zostać dodane do Mapy Łowickich Aktywności.</p>
 
 <form id="form">
-
 <label>Adres e-mail <span class="req">*</span></label>
 <input id="email" type="email" required placeholder="twoj@email.pl">
-<div class="help">Podaj adres e-mail, abyśmy mogli skontaktować się z Tobą w razie pytań.</div>
+<div class="help">Podaj adres e-mail, abyśmy mogli skontaktować się z Tobą.</div>
 <div id="emailError" class="error">Podaj poprawny adres e-mail.</div>
 
 <label>Opis wydarzenia <span class="req">*</span></label>
-<textarea id="opis" required placeholder="Opisz wydarzenie. Podaj nazwę, datę, godzinę, miejsce i najważniejsze informacje."></textarea>
-<div class="help">To jedyne obowiązkowe pole opisujące wydarzenie.</div>
+<textarea id="opis" required placeholder="Opisz wydarzenie."></textarea>
 <div id="opisError" class="error">Opis wydarzenia jest wymagany.</div>
 
 <label>Link do wydarzenia</label>
-<input type="url" placeholder="https://...">
+<input id="link" type="url" placeholder="https://...">
 
 <label>Dodaj załącznik</label>
 <div class="file-box">
-Możesz dodać plakat, zdjęcie lub inny plik związany z wydarzeniem.<br><br>
-<input type="file">
+<input id="file" type="file">
 </div>
 
 <button id="submitBtn" type="submit">Wyślij zgłoszenie</button>
-
 </form>
 </div>
 
 <div class="footer-bottom">© 2026 Mapa Łowickich Aktywności</div>
 
 <script>
-document.getElementById("form").addEventListener("submit",function(e){
+document.getElementById("form").addEventListener("submit", async function(e){
 e.preventDefault();
+
 let ok=true;
 const em=document.getElementById("email");
 const op=document.getElementById("opis");
+
 document.getElementById("emailError").style.display="none";
 document.getElementById("opisError").style.display="none";
-if(!em.checkValidity()){document.getElementById("emailError").style.display="block";ok=false;}
-if(op.value.trim()===""){document.getElementById("opisError").style.display="block";ok=false;}
-if(ok)await fetch("https://mapa-lowickich-api.kplichta.workers.dev/submit", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json"
-  },
-  body: JSON.stringify({
-    email: em.value,
-    opis: op.value,
-    link: document.getElementById("link").value
-  })
+
+if(!em.checkValidity()){
+document.getElementById("emailError").style.display="block";
+ok=false;
+}
+
+if(op.value.trim()===""){
+document.getElementById("opisError").style.display="block";
+ok=false;
+}
+
+if(!ok) return;
+
+const btn=document.getElementById("submitBtn");
+btn.disabled=true;
+btn.textContent="Wysyłanie...";
+
+try{
+const response=await fetch("https://mapa-lowickich-api.kplichta.workers.dev/submit",{
+method:"POST",
+headers:{"Content-Type":"application/json"},
+body:JSON.stringify({
+email:em.value,
+opis:op.value,
+link:document.getElementById("link").value
+})
+});
+
+if(!response.ok) throw new Error();
+
+alert("Dziękujemy! Zgłoszenie zostało wysłane.");
+document.getElementById("form").reset();
+}catch(err){
+alert("Nie udało się wysłać zgłoszenia.");
+console.error(err);
+}finally{
+btn.disabled=false;
+btn.textContent="Wyślij zgłoszenie";
+}
 });
 </script>
 </body>
