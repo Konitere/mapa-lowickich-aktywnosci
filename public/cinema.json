@@ -551,42 +551,7 @@
     }
   ],
   "2026-07-25": [
-    {
-      "title": "🎬 Repertuar Kina Fenix",
-      "type": "cinema",
-      "place": "Kino Fenix, Łowicz",
-      "category": "Kino",
-      "organizer": "Łowicki Ośrodek Kultury",
-      "source": "https://lok.art.pl/repertuar/",
-      "movies": [
-        {
-          "title": "Minionki i straszydła",
-          "image": "plakaty/minionki-i-straszydla.jpg",
-          "times": [
-            "15:30"
-          ],
-          "filmweb": "https://www.filmweb.pl/film/Minionki%2Bi%2Bstraszyd%C5%82a-2026-10056836",
-          "filmwebRating": "6,0"
-        },
-        {
-          "title": "Ekipa zwierzaków",
-          "image": "plakaty/ekipa-zwierzakow.jpg",
-          "times": [
-            "15:45",
-            "17:15"
-          ],
-          "filmweb": "https://www.filmweb.pl/film/Ekipa%2Bzwierzak%C3%B3w-2025-10087409",
-          "filmwebRating": null
-        },
-        {
-          "title": "Wypadek fortepianowy",
-          "image": "plakaty/wypadek-fortepianowy.jpg",
-          "times": [
-            "18:30"
-          ],
-          "filmweb": "https://www.filmweb.pl/film/Wypadek%2Bfortepianowy-2025-10069939",
-          "filmwebRating": "6,3"
-        },
+
         {
           "title": "Zaproszenie",
           "image": "plakaty/zaproszenie.jpg",
