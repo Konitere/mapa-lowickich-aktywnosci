@@ -551,12 +551,18 @@
     }
   ],
   "2026-07-25": [
-
+{
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
         {
           "title": "Zaproszenie",
           "image": "plakaty/zaproszenie.jpg",
-          "times": [
-            "19:00"
+          "times":             "19:00"
           ],
           "filmweb": "https://www.filmweb.pl/film/Zaproszenie-2026-10109168",
           "filmwebRating": "7,6"
