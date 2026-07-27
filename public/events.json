@@ -1133,19 +1133,10 @@
       "organizer": "Biblioteka Miejska im. A. K. Cebrowskiego",
       "image": "plakaty/zaczytane-wakacje-20261.jpg",
       "source": "https://cebrowski.pl/wiadomosci/zaczytane-wakacje-2026/"
-    },
-    {
-  "date": "2026-08-14",
-  "title": "Kino plenerowe na Zatorzu",
-  "time": "21:00",
-  "place": "Zatorze, Łowicz",
-  "category": "Kino plenerowe",
-  "organizer": "Łączy Nas Łowicz",
-  "image": "plakaty/lato-z-lnl-2026.jpg",
-  "source": "https://www.facebook.com/photo/?fbid=1407038381482023&set=pcb.1407041861481675&locale=pl_PL"
-}
+    }
+
   ],
-      "2026-08-11": [
+      "2026-08-14": [
   {
   "date": "2026-08-14",
   "title": "XX Obchody Dnia Kiernozkiego Dzika",
@@ -1155,6 +1146,16 @@
   "organizer": "Miasto i Gmina Kiernozia",
   "image": "plakaty/dzien-kiernozkiego-dzika-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=122310213242204650&set=a.1221104925322046506"
+},
+          {
+  "date": "2026-08-14",
+  "title": "Kino plenerowe na Zatorzu",
+  "time": "21:00",
+  "place": "Zatorze, Łowicz",
+  "category": "Kino plenerowe",
+  "organizer": "Łączy Nas Łowicz",
+  "image": "plakaty/kino1408.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1580514103863067&set=a.569622704952217"
 }
         ],
     "2026-08-15": [
