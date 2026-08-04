@@ -784,7 +784,7 @@
           "times": [
             "14:30"
           ],
-          "filmweb": "https://www.filmweb.pl/search?query=Wyschni%C4%99ci",
+          "filmweb": "https://www.filmweb.pl/film/Wyschni%C4%99ci-2026-10111380",
           "filmwebRating": null
         },
         {
@@ -803,7 +803,7 @@
             "16:15"
           ],
           "filmweb": "https://www.filmweb.pl/film/M%C5%82ody+Waszyngton-2026-10097476",
-          "filmwebRating": null
+          "filmwebRating": "5,4"
         },
         {
           "title": "Koniec imprezy",
@@ -811,8 +811,8 @@
           "times": [
             "18:30"
           ],
-          "filmweb": "https://www.filmweb.pl/search?query=Koniec+imprezy",
-          "filmwebRating": null
+          "filmweb": "https://www.filmweb.pl/film/Koniec+imprezy-2025-10079091",
+          "filmwebRating": "5,5"
         },
         {
           "title": "Spider-Man: Całkiem nowy dzień napisy",
@@ -842,7 +842,7 @@
             "11:00",
             "15:30"
           ],
-          "filmweb": "https://www.filmweb.pl/search?query=Wyschni%C4%99ci",
+          "filmweb": "https://www.filmweb.pl/film/Wyschni%C4%99ci-2026-10111380",
           "filmwebRating": null
         },
         {
@@ -852,7 +852,7 @@
             "17:00"
           ],
           "filmweb": "https://www.filmweb.pl/film/M%C5%82ody+Waszyngton-2026-10097476",
-          "filmwebRating": null
+          "filmwebRating": "5,4"
         },
         {
           "title": "Spider-Man: Całkiem nowy dzień dubbing",
@@ -869,8 +869,8 @@
           "times": [
             "19:00"
           ],
-          "filmweb": "https://www.filmweb.pl/search?query=Koniec+imprezy",
-          "filmwebRating": null
+          "filmweb": "https://www.filmweb.pl/film/Koniec+imprezy-2025-10079091",
+          "filmwebRating": "5,5"
         },
         {
           "title": "Spider-Man: Całkiem nowy dzień napisy",
@@ -899,7 +899,7 @@
           "times": [
             "15:30"
           ],
-          "filmweb": "https://www.filmweb.pl/search?query=Wyschni%C4%99ci",
+          "filmweb": "https://www.filmweb.pl/film/Wyschni%C4%99ci-2026-10111380",
           "filmwebRating": null
         },
         {
@@ -909,7 +909,7 @@
             "17:00"
           ],
           "filmweb": "https://www.filmweb.pl/film/M%C5%82ody+Waszyngton-2026-10097476",
-          "filmwebRating": null
+          "filmwebRating": "5,4"
         },
         {
           "title": "Spider-Man: Całkiem nowy dzień dubbing",
@@ -926,8 +926,8 @@
           "times": [
             "19:00"
           ],
-          "filmweb": "https://www.filmweb.pl/search?query=Koniec+imprezy",
-          "filmwebRating": null
+          "filmweb": "https://www.filmweb.pl/film/Koniec+imprezy-2025-10079091",
+          "filmwebRating": "5,5"
         },
         {
           "title": "Spider-Man: Całkiem nowy dzień napisy",
