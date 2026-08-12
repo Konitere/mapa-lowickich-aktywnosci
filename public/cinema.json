@@ -1146,14 +1146,14 @@
       ]
     }
   ],
-  "2026-08-13": [
+ "2026-08-13": [
   {
     "title": "🎬 Repertuar Kina Fenix",
     "type": "cinema",
     "place": "Kino Fenix, Łowicz",
     "category": "Kino",
     "organizer": "Łowicki Ośrodek Kultury",
-    "source": "[https://lok.art.pl/repertuar/](https://lok.art.pl/repertuar/)",
+    "source": "https://lok.art.pl/repertuar/",
     "movies": [
       {
         "title": "Psi Patrol i dinozaury",
@@ -1163,26 +1163,357 @@
           "16:00",
           "16:45"
         ],
-        "filmweb": "[https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508](https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508)",
-        "filmwebRating": "6,6"
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": null
       },
       {
-        "title": "Spider-Man: Całkiem nowy dzień dubbing",
-        "image": "plakaty/spider-man-calkiem-nowy-dzien.jpg",
+        "title": "Spider-Man: Całkiem nowy dzień napisy",
+        "image": "plakaty/spiderman-calkiem-nowy-dzien.jpg",
         "times": [
           "18:30"
         ],
-        "filmweb": "[https://www.filmweb.pl/film/Spider%2BMan%3A%2BCa%C5%82kiem%2Bnowy%2Bdzie%C5%84-2026-10068064](https://www.filmweb.pl/film/Spider%2BMan%3A%2BCa%C5%82kiem%2Bnowy%2Bdzie%C5%84-2026-10068064)",
-        "filmwebRating": "7,8"
+        "filmweb": "https://www.filmweb.pl/film/Spider-Man%3A%2BCa%C5%82kiem%2Bnowy%2Bdzie%C5%84-2026-10068064",
+        "filmwebRating": "7,9"
       },
       {
-        "title": "Wielki Łuk",
+        "title": "Wielki łuk",
         "image": "plakaty/wielki-luk.jpg",
         "times": [
           "18:45"
         ],
-        "filmweb": "[https://www.filmweb.pl/film/Wielki%2B%C5%81uk-2025-10078595](https://www.filmweb.pl/film/Wielki%2B%C5%81uk-2025-10078595)",
+        "filmweb": "https://www.filmweb.pl/film/Wielki%2B%C5%81uk-2025-10078595",
         "filmwebRating": "6,5"
+      }
+    ]
+  }
+],
+  "2026-08-14": [
+
+{
+
+"title": "🎬 Repertuar Kina Fenix",
+
+"type": "cinema",
+
+"place": "Kino Fenix, Łowicz",
+
+"category": "Kino",
+
+"organizer": "Łowicki Ośrodek Kultury",
+
+"source": "https://lok.art.pl/repertuar/",
+
+"movies": [
+
+{
+
+"title": "Psi Patrol i dinozaury",
+
+"image": "plakaty/psi-patrol-i-dinozaury.jpg",
+
+"times": [
+
+"15:30"
+
+],
+
+"filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+
+"filmwebRating": null
+
+},
+
+{
+
+"title": "Ostatni konsjerż",
+
+"image": "plakaty/ostatni-konsjerz.jpg",
+
+"times": [
+
+"17:00"
+
+],
+
+"filmweb": "https://www.filmweb.pl/film/Ostatni%2Bkonsjer%C5%BC-2025-10090061",
+
+"filmwebRating": "4,3"
+
+},
+
+{
+
+"title": "O czym sobie nie mówimy",
+
+"image": "plakaty/o-czym-sobie-nie-mowimy.jpg",
+
+"times": [
+
+"18:30"
+
+],
+
+"filmweb": "https://www.filmweb.pl/film/O%2Bczym%2Bsobie%2Bnie%2Bm%C3%B3wimy-2026-10114137",
+
+"filmwebRating": "7,1"
+
+},
+
+{
+
+"title": "Ice Cream Man",
+
+"image": "plakaty/ice-cream-man.jpg",
+
+"times": [
+
+"19:00"
+
+],
+
+"filmweb": "https://www.filmweb.pl/film/Ice%2BCream%2BMan-2026-10119514",
+
+"filmwebRating": "3,3"
+
+}
+
+]
+
+}
+
+],
+  "2026-08-15": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "17:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": null
+      },
+      {
+        "title": "Ostatni konsjerż",
+        "image": "plakaty/ostatni-konsjerz.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ostatni%2Bkonsjer%C5%BC-2025-10090061",
+        "filmwebRating": "2,8"
+      },
+      {
+        "title": "O czym sobie nie mówimy",
+        "image": "plakaty/o-czym-sobie-nie-mowimy.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/O%2Bczym%2Bsobie%2Bnie%2Bm%C3%B3wimy-2026-10114137",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Ice Cream Man",
+        "image": "plakaty/ice-cream-man.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ice%2BCream%2BMan-2026-10119514",
+        "filmwebRating": null
+      }
+    ]
+  }
+],
+  "2026-08-16": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "17:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": null
+      },
+      {
+        "title": "Ostatni konsjerż",
+        "image": "plakaty/ostatni-konsjerz.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ostatni%2Bkonsjer%C5%BC-2025-10090061",
+        "filmwebRating": "2,8"
+      },
+      {
+        "title": "O czym sobie nie mówimy",
+        "image": "plakaty/o-czym-sobie-nie-mowimy.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/O%2Bczym%2Bsobie%2Bnie%2Bm%C3%B3wimy-2026-10114137",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Ice Cream Man",
+        "image": "plakaty/ice-cream-man.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ice%2BCream%2BMan-2026-10119514",
+        "filmwebRating": null
+      }
+    ]
+  }
+],
+  "2026-08-18": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "17:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": null
+      },
+      {
+        "title": "Ice Cream Man",
+        "image": "plakaty/ice-cream-man.jpg",
+        "times": [
+          "16:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ice%2BCream%2BMan-2026-10119514",
+        "filmwebRating": null
+      },
+      {
+        "title": "O czym sobie nie mówimy",
+        "image": "plakaty/o-czym-sobie-nie-mowimy.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/O%2Bczym%2Bsobie%2Bnie%2Bm%C3%B3wimy-2026-10114137",
+        "filmwebRating": "7,1"
+      }
+    ]
+  }
+],
+  "2026-08-19": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "17:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": null
+      },
+      {
+        "title": "Ostatni konsjerż",
+        "image": "plakaty/ostatni-konsjerz.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ostatni%2Bkonsjer%C5%BC-2025-10090061",
+        "filmwebRating": "2,8"
+      },
+      {
+        "title": "O czym sobie nie mówimy",
+        "image": "plakaty/o-czym-sobie-nie-mowimy.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/O%2Bczym%2Bsobie%2Bnie%2Bm%C3%B3wimy-2026-10114137",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Ice Cream Man",
+        "image": "plakaty/ice-cream-man.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ice%2BCream%2BMan-2026-10119514",
+        "filmwebRating": null
+      }
+    ]
+  }
+],
+  "2026-08-20": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "17:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": null
+      },
+      {
+        "title": "Ostatni konsjerż",
+        "image": "plakaty/ostatni-konsjerz.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ostatni%2Bkonsjer%C5%BC-2025-10090061",
+        "filmwebRating": "2,8"
+      },
+      {
+        "title": "O czym sobie nie mówimy",
+        "image": "plakaty/o-czym-sobie-nie-mowimy.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/O%2Bczym%2Bsobie%2Bnie%2Bm%C3%B3wimy-2026-10114137",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Ice Cream Man",
+        "image": "plakaty/ice-cream-man.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ice%2BCream%2BMan-2026-10119514",
+        "filmwebRating": null
       }
     ]
   }
