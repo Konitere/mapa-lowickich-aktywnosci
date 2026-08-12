@@ -1145,6 +1145,46 @@
         }
       ]
     }
-  ]
-  
+  ],
+  "2026-08-13": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "[https://lok.art.pl/repertuar/](https://lok.art.pl/repertuar/)",
+    "movies": [
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:00",
+          "16:00",
+          "16:45"
+        ],
+        "filmweb": "[https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508](https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508)",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Spider-Man: Całkiem nowy dzień dubbing",
+        "image": "plakaty/spider-man-calkiem-nowy-dzien.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "[https://www.filmweb.pl/film/Spider%2BMan%3A%2BCa%C5%82kiem%2Bnowy%2Bdzie%C5%84-2026-10068064](https://www.filmweb.pl/film/Spider%2BMan%3A%2BCa%C5%82kiem%2Bnowy%2Bdzie%C5%84-2026-10068064)",
+        "filmwebRating": "7,8"
+      },
+      {
+        "title": "Wielki Łuk",
+        "image": "plakaty/wielki-luk.jpg",
+        "times": [
+          "18:45"
+        ],
+        "filmweb": "[https://www.filmweb.pl/film/Wielki%2B%C5%81uk-2025-10078595](https://www.filmweb.pl/film/Wielki%2B%C5%81uk-2025-10078595)",
+        "filmwebRating": "6,5"
+      }
+    ]
+  }
+],
 }
