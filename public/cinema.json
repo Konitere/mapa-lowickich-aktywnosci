@@ -1517,5 +1517,669 @@
       }
     ]
   }
+],
+  "2026-08-21": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Pucio kocha zwierzaki",
+        "image": "plakaty/pucio-kocha-zwierzaki.jpg",
+        "times": [
+          "16:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/serial/Pucio%2Bkocha%2Bzwierzaki-2026-10129391"
+      },
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "16:30",
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": "6,5"
+      },
+      {
+        "title": "Nowa fala",
+        "image": "plakaty/nowa-fala.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Nowa%2Bfala-2025-10053131",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Odyseja",
+        "image": "plakaty/odyseja.jpg",
+        "times": [
+          "18:45"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+        "filmwebRating": "7,7"
+      }
+    ]
+  }
+],
+  "2026-08-22": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Pucio kocha zwierzaki",
+        "image": "plakaty/pucio-kocha-zwierzaki.jpg",
+        "times": [
+          "16:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/serial/Pucio%2Bkocha%2Bzwierzaki-2026-10129391"
+      },
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "16:30",
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": "6,5"
+      },
+      {
+        "title": "Nowa fala",
+        "image": "plakaty/nowa-fala.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Nowa%2Bfala-2025-10053131",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Odyseja",
+        "image": "plakaty/odyseja.jpg",
+        "times": [
+          "18:45"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+        "filmwebRating": "7,7"
+      }
+    ]
+  }
+],
+
+  "2026-08-23": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Pucio kocha zwierzaki",
+        "image": "plakaty/pucio-kocha-zwierzaki.jpg",
+        "times": [
+          "15:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/serial/Pucio%2Bkocha%2Bzwierzaki-2026-10129391"
+      },
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": "6,5"
+      },
+      {
+        "title": "Nowa fala",
+        "image": "plakaty/nowa-fala.jpg",
+        "times": [
+          "17:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Nowa%2Bfala-2025-10053131",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Odyseja",
+        "image": "plakaty/odyseja.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+        "filmwebRating": "7,7"
+      }
+    ]
+  }
+],
+  "2026-08-25": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Pucio kocha zwierzaki",
+        "image": "plakaty/pucio-kocha-zwierzaki.jpg",
+        "times": [
+          "16:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/serial/Pucio%2Bkocha%2Bzwierzaki-2026-10129391"
+      },
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "16:30",
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": "6,5"
+      },
+      {
+        "title": "Nowa fala",
+        "image": "plakaty/nowa-fala.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Nowa%2Bfala-2025-10053131",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Odyseja",
+        "image": "plakaty/odyseja.jpg",
+        "times": [
+          "18:45"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+        "filmwebRating": "7,7"
+      }
+    ]
+  }
+],
+  "2026-08-26": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Pucio kocha zwierzaki",
+        "image": "plakaty/pucio-kocha-zwierzaki.jpg",
+        "times": [
+          "15:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/serial/Pucio%2Bkocha%2Bzwierzaki-2026-10129391"
+      },
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": "6,5"
+      },
+      {
+        "title": "Odyseja",
+        "image": "plakaty/odyseja.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Nowa fala",
+        "image": "plakaty/nowa-fala.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Nowa%2Bfala-2025-10053131",
+        "filmwebRating": "6,6"
+      }
+    ]
+  }
+],
+  "2026-08-27": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Pucio kocha zwierzaki",
+        "image": "plakaty/pucio-kocha-zwierzaki.jpg",
+        "times": [
+          "15:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/serial/Pucio%2Bkocha%2Bzwierzaki-2026-10129391"
+      },
+      {
+        "title": "Psi Patrol i dinozaury",
+        "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+        "times": [
+          "15:30",
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+        "filmwebRating": "6,5"
+      },
+      {
+        "title": "Odyseja",
+        "image": "plakaty/odyseja.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Nowa fala",
+        "image": "plakaty/nowa-fala.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Nowa%2Bfala-2025-10053131",
+        "filmwebRating": "6,6"
+      }
+    ]
+  }
+],
+"2026-08-28": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "14:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "15:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "16:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie%2Br%C3%B3wnoleg%C5%82e-2025-10074233"
+      }
+    ]
+  }
+],
+  "2026-08-28": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "14:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "15:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "16:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+        "filmwebRating": "5,8"
+      }
+    ]
+  }
+],
+  "2026-08-29": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie%2Br%C3%B3wnoleg%C5%82e-2025-10074233"
+      }
+    ]
+  }
+],
+
+  "2026-08-30": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+        "filmwebRating": "5,8"
+      }
+    ]
+  }
+],
+  "2026-08-31": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+        "filmwebRating": "5,8"
+      }
+    ]
+  }
+],
+  "2026-09-01": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+        "filmwebRating": "5,8"
+      }
+    ]
+  }
+],
+  "2026-09-02": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+        "filmwebRating": "5,8"
+      }
+    ]
+  }
+],
+  "2026-09-03": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Superfutrzak i złośliwa wiewiórka",
+        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+        "times": [
+          "16:15"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
+      },
+      {
+        "title": "Frances Ha",
+        "image": "plakaty/frances-ha.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+        "filmwebRating": "7,1"
+      },
+      {
+        "title": "Wszyscy moi wrogowie",
+        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+        "times": [
+          "18:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+        "filmwebRating": "6,6"
+      },
+      {
+        "title": "Historie równoległe",
+        "image": "plakaty/historie-rownolegle.jpg",
+        "times": [
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+        "filmwebRating": "5,8"
+      }
+    ]
+  }
 ]
 }
