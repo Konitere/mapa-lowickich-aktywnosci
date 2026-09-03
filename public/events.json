@@ -1956,7 +1956,7 @@
   {
   "date": "2026-09-04",
   "title": "Recepta na Szczęście",
-  "time": "17:30, 20:00",
+  "time": "19:00",
   "place": "Łowicki Ośrodek Kultury, ul. Podrzeczna 20, Łowicz",
   "category": "Spektakl",
   "organizer": "O La La Teatr",
@@ -1972,7 +1972,47 @@
   "organizer": "Momenty - Bar & Restaurant i BLISS parties",
   "image": "plakaty/latino-party-04-09-2026.jpg",
   "source": "https://www.facebook.com/photo/?fbid=12202097178400073&set=gm.2821735371542941"
-}
+},
+    {
+  "date": "2026-09-04",
+  "title": "Z Łowicza do Doliny Śmierci – spotkanie z Maciejem Jędruchowiczem",
+  "time": "18:00",
+  "place": "Piwnica Muzeum w Łowiczu, Stary Rynek 5/7",
+  "category": "Spotkanie",
+  "organizer": "Powiat Łowicki",
+  "image": "plakaty/z-lowicza-do-doliny-smierci-maciej-jedruchowicz-2026.jpg",
+  "source": "https://lowicz24.eu/artykul/jak-przebiec-przez-doline-n1852251"
+},
+    {
+  "date": "2026-09-04",
+  "title": "Narodowe Czytanie – „Dziady. Od Gustawa do Konrada”",
+  "time": "18:00",
+  "place": "Park Błonie, przy Pomniku Trzech Narodów",
+  "category": "Kultura",
+  "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
+  "image": "plakaty/narodowe-czytanie-dziady-2026.jpg",
+  "source": "https://cebrowski.pl/kalendarz-wydarzen/narodowe-czytanie-2026-w-lowiczu-dziady-od-gustawa-do-konrada"
+},
+    {
+  "date": "2026-09-04",
+  "title": "Kino plenerowe na plaży nad Bzurą – „Jaś Fasola: Nie wie, co to strach, nie wie, co to ryzyko, nie wie nic”",
+  "time": "20:15",
+  "place": "Plaża nad Bzurą",
+  "category": "Kino",
+  "organizer": "Łączy nas Łowicz",
+  "image": "plakaty/kino-plenerowe-plaza-nad-bzura-2026.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1485687760262124&set=pcb.1485691603595073"
+},
+       {
+  "date": "2026-09-04",
+  "title": "Pelikan Łowicz - Świt Nowy Dwór Mazowiecki",
+  "time": "17:00",
+  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
+  "category": "Sport",
+  "organizer": "KS Pelikan Łowicz",
+  "image": "plakaty/pelikan-2026-2027.jpg",
+  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
+},
     ],
     "2026-09-05": [
       {
@@ -1985,16 +2025,7 @@
   "image": "plakaty/aktywny-orlik-2026.jpg",
   "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
 },
-      {
-  "date": "2026-09-05",
-  "title": "Pelikan Łowicz - Świt Nowy Dwór Mazowiecki",
-  "time": "18:00",
-  "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
-  "category": "Sport",
-  "organizer": "KS Pelikan Łowicz",
-  "image": "plakaty/pelikan-2026-2027.jpg",
-  "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
-},
+     
       {
   "date": "2026-09-05",
   "title": "Parkrun Łowicz",
@@ -2004,8 +2035,75 @@
   "organizer": "Parkrun Łowicz",
   "image": "plakaty/parkrun.jpg",
   "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+},
+      {
+  "date": "2026-09-05",
+  "title": "Pokaz Husarii na Zamku Łowicz",
+  "time": "15:00",
+  "place": "Zamek w Łowiczu, ul. Zamkowa 1, 99-400 Łowicz",
+  "category": "Historia",
+  "organizer": "Powiat Łowicki",
+  "image": "plakaty/pokaz-husarii-zamek-lowicz-2026.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1359860669648817&set=pcb.1359867882981429"
+},
+      {
+  "date": "2026-09-05",
+  "title": "Wielka Trasa Śniadaniowa Radia ZET – śniadanie z OSM Łowicz",
+  "time": "11:00-14:00",
+  "place": "Nowy Rynek, Łowicz",
+  "category": "Spotkanie",
+  "organizer": "Radio ZET",
+  "image": "plakaty/wielka-trasa-sniadaniowa-radio-zet-lowicz-2026.jpg",
+  "source": "https://lowicz24.eu/artykul/radio-zet-rozpoczyna-n1852545"
+},
+      {
+  "date": "2026-09-05",
+  "title": "Łowicz Night Skating 8",
+  "time": "20:00",
+  "place": "Park im. A. Mickiewicza, Łowicz",
+  "category": "Sport",
+  "organizer": "Łączy nas Łowicz",
+  "image": "plakaty/lowicz-night-skating-8-2026.jpg",
+  "source": "https://lowicz24.eu/artykul/lowicki-night-skating-n1849668"
 }
       ],
+  "2026-09-06": [
+  {
+  "date": "2026-09-06",
+  "title": "Bieg na orientację „Zagubieni w Skansenie”",
+  "time": "10:00-12:00",
+  "place": "Skansen w Maurzycach",
+  "category": "Sport",
+  "organizer": "Centrum Kultury Turystyki i Promocji Ziemi Łowickiej",
+  "image": "plakaty/bieg-na-orientacje-zagubieni-w-skansenie-2026.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1374552718173966&set=a.499772088985371"
+}
+    ],
+"2026-09-07": [
+  
+  {
+  "date": "2026-09-07",
+  "title": "Chełmoński czyta Mickiewicza – Dziady Adama Mickiewicza",
+  "time": "12:00",
+  "place": "Sala gimnastyczna",
+  "category": "Kultura",
+  "organizer": "",
+  "image": "plakaty/chelmonski-czyta-mickiewicza-2026.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1779021560897211&set=a.463855075747206"
+}
+   ],
+  "2026-09-09": [
+  {
+  "date": "2026-09-09",
+  "title": "Klub Miłośników Komiksu – warsztaty nauki rysowania komiksu",
+  "time": "16:00",
+  "place": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu, Aleje Sienkiewicza 62",
+  "category": "Warsztaty",
+  "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
+  "image": "plakaty/klub-milosnikow-komiksu-2026.jpg",
+  "source": "https://cebrowski.pl/kalendarz-wydarzen/klub-milosnikow-komiksu-6/"
+}
+    ],
    "2026-09-12": [
   {
   "date": "2026-09-12",
@@ -2016,8 +2114,30 @@
   "organizer": "Parkrun Łowicz",
   "image": "plakaty/parkrun.jpg",
   "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+},
+     {
+  "date": "2026-09-12",
+  "title": "XXIII Rajd Szlakiem Bojowym 10 Pułku Piechoty",
+  "time": "",
+  "place": "Kompina",
+  "category": "Turystyka",
+  "organizer": "PTTK Oddział w Łowiczu, Urząd Miejski w Łowiczu, Urząd Gminy Nieborów",
+  "image": "plakaty/xxiii-rajd-szlakiem-bojowym-10-pulku-piechoty-2026.jpg",
+  "source": "http://pttklowicz.pl/2026/09/02/zapraszamy-na-xxiii-rajd-szlakiem-bojowym-10-pulku-piechoty/"
 }
      ],
+"2026-09-13": [
+  {
+  "date": "2026-09-13",
+  "title": "Gminne Dożynki w Jamnie",
+  "time": "12:30",
+  "place": "Teren przy OSP Jamno",
+  "category": "Kultura",
+  "organizer": "Gminna Biblioteka Publiczna w Bocheniu",
+  "image": "plakaty/gminne-dozynki-w-jamnie-2026.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1379708454266158&set=pcb.1379709210932749"
+}
+  ],
    "2026-09-19": [
   {
   "date": "2026-09-19",
@@ -2131,6 +2251,16 @@
   "organizer": "OSiR Łowicz",
   "image": "plakaty/aktywny-orlik-2026.jpg",
   "source": "https://www.facebook.com/photo?fbid=1552720929981071&set=pcb.1552721123314385&locale=pl_PL"
+},
+   {
+  "date": "2026-09-27",
+  "title": "Pożegnanie lata w Skansenie w Maurzycach",
+  "time": "11:00-16:00",
+  "place": "Skansen w Maurzycach",
+  "category": "Kultura",
+  "organizer": "Muzeum w Łowiczu",
+  "image": "plakaty/pozegnanie-lata-skansen-maurzyce-2026.jpg",
+  "source": "https://facebook.com/photo/?fbid=1677236741079309&set=a.363318822471114"
 }
    ],
    "2026-10-03": [
