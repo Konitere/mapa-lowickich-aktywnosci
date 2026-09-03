@@ -2012,7 +2012,7 @@
   "organizer": "KS Pelikan Łowicz",
   "image": "plakaty/pelikan-2026-2027.jpg",
   "source": "https://www.flashscore.pl/druzyna/pelikan-lowicz/hnzUd9Cr/mecze/"
-},
+}
     ],
     "2026-09-05": [
       {
@@ -2065,6 +2065,16 @@
   "organizer": "Łączy nas Łowicz",
   "image": "plakaty/lowicz-night-skating-8-2026.jpg",
   "source": "https://lowicz24.eu/artykul/lowicki-night-skating-n1849668"
+},
+      {
+  "date": "2026-09-05",
+  "title": "Letnie Kino Plenerowe – „Jak zostałem samurajem”",
+  "time": "20:00",
+  "place": "Boisko przy ul. Łyszkowickiej, Łowicz",
+  "category": "Kino",
+  "organizer": "Zarząd Osiedla Przedmieście",
+  "image": "plakaty/letnie-kino-plenerowe-jak-zostalem-samurajem-2026.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1396800462552096&set=a.430057392559746&locale=pl_PL"
 }
       ],
   "2026-09-06": [
@@ -2148,13 +2158,12 @@
   "organizer": "Fundacja „Warto Żyć Dla Kogoś” – oddział Łowicz",
   "image": "plakaty/wakacyjny-aktywator-wendo-2026.jpg",
   "source": "https://www.lowiczturystyczny.eu/Mamy-dla-Was-kolejna-fantastyczna-propozycje-na-wakacje-,13,4527"
-}
-     ],
-"2026-09-19": [
+},
+
   {
   "date": "2026-09-19",
   "title": "Pelikan Łowicz - Polonia Lidzbark Warmiński",
-  "time": "18:00",
+  "time": "15:00",
   "place": "Stadion Miejski, ul. Starzyńskiego 6/8, Łowicz",
   "category": "Sport",
   "organizer": "KS Pelikan Łowicz",
