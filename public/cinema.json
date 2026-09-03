@@ -2135,51 +2135,615 @@
     ]
   }
 ],
+ {
   "2026-09-03": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Pucio kocha zwierzaki",
+          "image": "plakaty/pucio-kocha-zwierzaki.jpg",
+          "times": [
+            "16:00"
+          ],
+          "filmweb": "https://www.filmweb.pl/serial/Pucio%2Bkocha%2Bzwierzaki-2026-10129391",
+          "filmwebRating": "6,7"
+        },
+        {
+          "title": "Psi Patrol i dinozaury",
+          "image": "plakaty/psi-patrol-i-dinozaury.jpg",
+          "times": [
+            "16:30",
+            "17:00"
+          ],
+          "filmweb": "https://www.filmweb.pl/film/Psi%2BPatrol%2Bi%2Bdinozaury-2026-10074508",
+          "filmwebRating": "6,4"
+        },
+        {
+          "title": "Nowa fala",
+          "image": "plakaty/nowa-fala.jpg",
+          "times": [
+            "18:30"
+          ],
+          "filmweb": "https://www.filmweb.pl/film/Nowa%2Bfala-2025-10053131",
+          "filmwebRating": "6,7"
+        },
+        {
+          "title": "Odyseja",
+          "image": "plakaty/odyseja.jpg",
+          "times": [
+            "18:45"
+          ],
+          "filmweb": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+          "filmwebRating": "7,7"
+        }
+      ]
+    }
+  ],
   {
-    "title": "🎬 Repertuar Kina Fenix",
-    "type": "cinema",
-    "place": "Kino Fenix, Łowicz",
-    "category": "Kino",
-    "organizer": "Łowicki Ośrodek Kultury",
-    "source": "https://lok.art.pl/repertuar/",
-    "movies": [
-      {
-        "title": "Superfutrzak i złośliwa wiewiórka",
-        "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
-        "times": [
-          "16:15"
-        ],
-        "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345"
-      },
-      {
-        "title": "Frances Ha",
-        "image": "plakaty/frances-ha.jpg",
-        "times": [
-          "17:00"
-        ],
-        "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
-        "filmwebRating": "7,1"
-      },
-      {
-        "title": "Wszyscy moi wrogowie",
-        "image": "plakaty/wszyscy-moi-wrogowie.jpg",
-        "times": [
-          "18:00"
-        ],
-        "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
-        "filmwebRating": "6,6"
-      },
-      {
-        "title": "Historie równoległe",
-        "image": "plakaty/historie-rownolegle.jpg",
-        "times": [
-          "18:30"
-        ],
-        "filmweb": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
-        "filmwebRating": "5,8"
-      }
-    ]
-  }
-]
+  "2026-09-07": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Ekipa zwierzaków",
+          "image": "plakaty/ekipa-zwierzakow.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Ekipa%2Bzwierzak%C3%B3w-2025-10087409",
+          "filmwebRating": "3,7"
+        },
+        {
+          "title": "Księga pustyni",
+          "image": "plakaty/ksiega-pustyni.jpg",
+          "times": ["16:30"],
+          "filmweb": "https://www.filmweb.pl/film/Ksi%C4%99ga%2Bpustyni-2026-10111754",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Wszyscy moi wrogowie",
+          "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Frances Ha",
+          "image": "plakaty/frances-ha.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+          "filmwebRating": "7,1"
+        }
+      ]
+    }
+  ],
+  "2026-09-08": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Ekipa zwierzaków",
+          "image": "plakaty/ekipa-zwierzakow.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Ekipa%2Bzwierzak%C3%B3w-2025-10087409",
+          "filmwebRating": "3,7"
+        },
+        {
+          "title": "Księga pustyni",
+          "image": "plakaty/ksiega-pustyni.jpg",
+          "times": ["16:30"],
+          "filmweb": "https://www.filmweb.pl/film/Ksi%C4%99ga%2Bpustyni-2026-10111754",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Wszyscy moi wrogowie",
+          "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Frances Ha",
+          "image": "plakaty/frances-ha.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+          "filmwebRating": "7,1"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-09": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Ekipa zwierzaków",
+          "image": "plakaty/ekipa-zwierzakow.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Ekipa%2Bzwierzak%C3%B3w-2025-10087409",
+          "filmwebRating": "3,7"
+        },
+        {
+          "title": "Księga pustyni",
+          "image": "plakaty/ksiega-pustyni.jpg",
+          "times": ["16:30"],
+          "filmweb": "https://www.filmweb.pl/film/Ksi%C4%99ga%2Bpustyni-2026-10111754",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Wszyscy moi wrogowie",
+          "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Frances Ha",
+          "image": "plakaty/frances-ha.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+          "filmwebRating": "7,1"
+        }
+      ]
+    }
+  ],
+  "2026-09-10": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Ekipa zwierzaków",
+          "image": "plakaty/ekipa-zwierzakow.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Ekipa%2Bzwierzak%C3%B3w-2025-10087409",
+          "filmwebRating": "3,7"
+        },
+        {
+          "title": "Księga pustyni",
+          "image": "plakaty/ksiega-pustyni.jpg",
+          "times": ["16:30"],
+          "filmweb": "https://www.filmweb.pl/film/Ksi%C4%99ga%2Bpustyni-2026-10111754",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Wszyscy moi wrogowie",
+          "image": "plakaty/wszyscy-moi-wrogowie.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Wszyscy%2Bmoi%2Bwrogowie-2025-10075422",
+          "filmwebRating": "6,3"
+        },
+        {
+          "title": "Frances Ha",
+          "image": "plakaty/frances-ha.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Frances%2BHa-2012-661331",
+          "filmwebRating": "7,1"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-11": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Dzień dziecka księdza Jana Kaczkowskiego",
+          "image": "plakaty/dzien-dziecka-ksiedza-jana-kaczkowskiego.jpg",
+          "times": ["15:30"],
+          "filmweb": "https://www.filmweb.pl/film/Dzie%C5%84%2Bdziecka%2Bksi%C4%99dza%2BJana%2BKaczkowskiego-2026-10122967",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Superfutrzak i złośliwa wiewiórka",
+          "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345",
+          "filmwebRating": "4,1"
+        },
+        {
+          "title": "Tony",
+          "image": "plakaty/tony.jpg",
+          "times": ["17:00"],
+          "filmweb": "https://www.filmweb.pl/film/Tony-2026-10079933",
+          "filmwebRating": "7,2"
+        },
+        {
+          "title": "100 dni: Misja Zeus",
+          "image": "plakaty/100-dni-misja-zeus.jpg",
+          "times": ["17:45", "19:30"],
+          "filmweb": "https://www.filmweb.pl/film/100%2Bdni%3A%2BMisja%2BZeus-2026-10126145",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Wałkonie",
+          "image": "plakaty/walkonie.jpg",
+          "times": ["19:00"],
+          "filmweb": "https://www.filmweb.pl/film/Wa%C5%82konie-1953-30936",
+          "filmwebRating": "7,4"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-12": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Superfutrzak i złośliwa wiewiórka",
+          "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345",
+          "filmwebRating": "4,1"
+        },
+        {
+          "title": "Dzień dziecka księdza Jana Kaczkowskiego",
+          "image": "plakaty/dzien-dziecka-ksiedza-jana-kaczkowskiego.jpg",
+          "times": ["17:00"],
+          "filmweb": "https://www.filmweb.pl/film/Dzie%C5%84%2Bdziecka%2Bksi%C4%99dza%2BJana%2BKaczkowskiego-2026-10122967",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "100 dni: Misja Zeus",
+          "image": "plakaty/100-dni-misja-zeus.jpg",
+          "times": ["17:30", "19:30"],
+          "filmweb": "https://www.filmweb.pl/film/100%2Bdni%3A%2BMisja%2BZeus-2026-10126145",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Tony",
+          "image": "plakaty/tony.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Tony-2026-10079933",
+          "filmwebRating": "7,2"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-13": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Superfutrzak i złośliwa wiewiórka",
+          "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345",
+          "filmwebRating": "4,1"
+        },
+        {
+          "title": "Tony",
+          "image": "plakaty/tony.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Tony-2026-10079933",
+          "filmwebRating": "7,2"
+        },
+        {
+          "title": "100 dni: Misja Zeus",
+          "image": "plakaty/100-dni-misja-zeus.jpg",
+          "times": ["17:15", "19:00"],
+          "filmweb": "https://www.filmweb.pl/film/100%2Bdni%3A%2BMisja%2BZeus-2026-10126145",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Noce Cabirii",
+          "image": "plakaty/noce-cabirii.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Noce%2BCabirii-1957-30934",
+          "filmwebRating": "7,9"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-14": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Superfutrzak i złośliwa wiewiórka",
+          "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345",
+          "filmwebRating": "4,1"
+        },
+        {
+          "title": "Dzień dziecka księdza Jana Kaczkowskiego",
+          "image": "plakaty/dzien-dziecka-ksiedza-jana-kaczkowskiego.jpg",
+          "times": ["17:30"],
+          "filmweb": "https://www.filmweb.pl/film/Dzie%C5%84%2Bdziecka%2Bksi%C4%99dza%2BJana%2BKaczkowskiego-2026-10122967",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "100 dni: Misja Zeus",
+          "image": "plakaty/100-dni-misja-zeus.jpg",
+          "times": ["17:45", "19:30"],
+          "filmweb": "https://www.filmweb.pl/film/100%2Bdni%3A%2BMisja%2BZeus-2026-10126145",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Tony",
+          "image": "plakaty/tony.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Tony-2026-10079933",
+          "filmwebRating": "7,2"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-15": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Dzień dziecka księdza Jana Kaczkowskiego",
+          "image": "plakaty/dzien-dziecka-ksiedza-jana-kaczkowskiego.jpg",
+          "times": ["15:30"],
+          "filmweb": "https://www.filmweb.pl/film/Dzie%C5%84%2Bdziecka%2Bksi%C4%99dza%2BJana%2BKaczkowskiego-2026-10122967",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Superfutrzak i złośliwa wiewiórka",
+          "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345",
+          "filmwebRating": "4,1"
+        },
+        {
+          "title": "Tony",
+          "image": "plakaty/tony.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Tony-2026-10079933",
+          "filmwebRating": "7,2"
+        },
+        {
+          "title": "100 dni: Misja Zeus",
+          "image": "plakaty/100-dni-misja-zeus.jpg",
+          "times": ["17:45", "19:30"],
+          "filmweb": "https://www.filmweb.pl/film/100%2Bdni%3A%2BMisja%2BZeus-2026-10126145",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Brzezina",
+          "image": "plakaty/brzezina.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Brzezina-1970-1121",
+          "filmwebRating": "7,2"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-16": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Superfutrzak i złośliwa wiewiórka",
+          "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345",
+          "filmwebRating": "4,1"
+        },
+        {
+          "title": "Dzień dziecka księdza Jana Kaczkowskiego",
+          "image": "plakaty/dzien-dziecka-ksiedza-jana-kaczkowskiego.jpg",
+          "times": ["17:00"],
+          "filmweb": "https://www.filmweb.pl/film/Dzie%C5%84%2Bdziecka%2Bksi%C4%99dza%2BJana%2BKaczkowskiego-2026-10122967",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "100 dni: Misja Zeus",
+          "image": "plakaty/100-dni-misja-zeus.jpg",
+          "times": ["17:45", "19:30"],
+          "filmweb": "https://www.filmweb.pl/film/100%2Bdni%3A%2BMisja%2BZeus-2026-10126145",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Tony",
+          "image": "plakaty/tony.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Tony-2026-10079933",
+          "filmwebRating": "7,2"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-17": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Superfutrzak i złośliwa wiewiórka",
+          "image": "plakaty/superfutrzak-i-zlosliwa-wiewiorka.jpg",
+          "times": ["16:00"],
+          "filmweb": "https://www.filmweb.pl/film/Superfutrzak%2Bi%2Bz%C5%82o%C5%9Bliwa%2Bwiewi%C3%B3rka-2025-10100345",
+          "filmwebRating": "4,1"
+        },
+        {
+          "title": "Dzień dziecka księdza Jana Kaczkowskiego",
+          "image": "plakaty/dzien-dziecka-ksiedza-jana-kaczkowskiego.jpg",
+          "times": ["17:00"],
+          "filmweb": "https://www.filmweb.pl/film/Dzie%C5%84%2Bdziecka%2Bksi%C4%99dza%2BJana%2BKaczkowskiego-2026-10122967",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "100 dni: Misja Zeus",
+          "image": "plakaty/100-dni-misja-zeus.jpg",
+          "times": ["17:45", "19:30"],
+          "filmweb": "https://www.filmweb.pl/film/100%2Bdni%3A%2BMisja%2BZeus-2026-10126145",
+          "filmwebRating": "brak ocen"
+        },
+        {
+          "title": "Tony",
+          "image": "plakaty/tony.jpg",
+          "times": ["18:30"],
+          "filmweb": "https://www.filmweb.pl/film/Tony-2026-10079933",
+          "filmwebRating": "7,2"
+        }
+      ]
+    }
+  ],
+  {
+  "2026-09-18": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Słodkie życie",
+          "image": "plakaty/slodkie-zycie.jpg",
+          "times": ["19:00"],
+          "filmweb": "https://www.filmweb.pl/film/S%C5%82odkie%2B%C5%BCycie-1960-30940",
+          "filmwebRating": "7,9"
+        }
+      ]
+    }
+  ],
+  "2026-09-20": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Osiem i pół",
+          "image": "plakaty/osiem-i-pol.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Osiem%2Bi%2Bp%C3%B3%C5%82-1963-30830",
+          "filmwebRating": "7,8"
+        }
+      ]
+    }
+  ],
+  "2026-09-25": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Giulietta i duchy",
+          "image": "plakaty/giulietta-i-duchy.jpg",
+          "times": ["19:00"],
+          "filmweb": "https://www.filmweb.pl/film/Giulietta%2Bi%2Bduchy-1965-30829",
+          "filmwebRating": "7,4"
+        }
+      ]
+    }
+  ],
+  "2026-09-27": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Głos z księżyca",
+          "image": "plakaty/glos-z-ksiezyca.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/G%C5%82os%2Bz%2Bksi%C4%99%C5%BCyca-1990-30818",
+          "filmwebRating": "6,4"
+        }
+      ]
+    }
+  ],
+  "2026-09-29": [
+    {
+      "title": "🎬 Repertuar Kina Fenix",
+      "type": "cinema",
+      "place": "Kino Fenix, Łowicz",
+      "category": "Kino",
+      "organizer": "Łowicki Ośrodek Kultury",
+      "source": "https://lok.art.pl/repertuar/",
+      "movies": [
+        {
+          "title": "Kronika wypadków miłosnych",
+          "image": "plakaty/kronika-wypadkow-milosnych.jpg",
+          "times": ["18:00"],
+          "filmweb": "https://www.filmweb.pl/film/Kronika%2Bwypadk%C3%B3w%2Bmi%C5%82osnych-1985-1190",
+          "filmwebRating": "6,7"
+        }
+      ]
+    }
+  ]
+
+
 }
