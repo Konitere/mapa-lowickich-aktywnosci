@@ -2397,6 +2397,18 @@
   "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
+  "2026-10-16": [
+  {
+  "date": "2026-10-16",
+  "title": "Noc Bibliotek 2026 – „Biblioteka (się) sprawdza!”",
+  "time": "15:00",
+  "place": "Biblioteka – Centrum Animacji i Kultury, Aleja Legionów Polskich 3, Nieborów",
+  "category": "Warsztaty",
+  "organizer": "Biblioteka – Centrum Animacji i Kultury w Nieborowie",
+  "image": "plakaty/noc-bibliotek-2026-nieborow.jpg",
+  "source": "https://lowicz24.eu/artykul/noc-bibliotek-dla-calych-n1868721"
+}
+    ],
 "2026-10-17": [
   {
   "date": "2026-10-17",
@@ -2417,9 +2429,31 @@
   "organizer": "Parkrun Łowicz",
   "image": "plakaty/parkrun.jpg",
   "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
+},
+  {
+  "date": "2026-10-17",
+  "title": "Gala Human Labs Live – Sutari",
+  "time": "",
+  "place": "Łowicki Ośrodek Kultury, Łowicz",
+  "category": "Koncert",
+  "organizer": "Łowickie Forum",
+  "image": "plakaty/sutari-fbi.jpg",
+  "source": "https://lowickiosrodekkultury.eu/wp-content/uploads/2026/09/sutari-fbi.jpg"
 }
   
   ],
+    "2026-10-22": [
+  {
+  "date": "2026-10-22",
+  "title": "Cyrk Zalewski – Widowisko 2026",
+  "time": "",
+  "place": "Namiot Cyrkowy, Łowicz",
+  "category": "Dla dzieci",
+  "organizer": "Cyrk Zalewski",
+  "image": "plakaty/cyrk-zalewski-2026.jpg",
+  "source": "https://biletyna.pl/cyrk/Cyrk-Zalewski/Widowisko/Lowicz"
+}
+      ],
   "2026-10-23": [
     
   {
@@ -2468,7 +2502,18 @@
   "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
        ],
-
+  "2026-11-06": [
+  {
+  "date": "2026-11-06",
+  "title": "Nie wygładzaj różnic – autorski stand-up Joanna Warecha. Spotkania z cyklu „JESTEM SILNA”",
+  "time": "17:00",
+  "place": "Łowicki Ośrodek Kultury, Łowicz",
+  "category": "Stand-up",
+  "organizer": "Kobiety w Centrum",
+  "image": "plakaty/joanna-warecha-nie-wygladzaj-roznic.jpg",
+  "source": "https://www.facebook.com/events/1427228988739241/"
+}
+     ],
   "2026-11-07": [
     {
   "date": "2026-11-07",
