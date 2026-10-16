@@ -2407,7 +2407,37 @@
   "organizer": "Biblioteka – Centrum Animacji i Kultury w Nieborowie",
   "image": "plakaty/noc-bibliotek-2026-nieborow.jpg",
   "source": "https://lowicz24.eu/artykul/noc-bibliotek-dla-calych-n1868721"
-}
+},
+    {
+  "date": "2026-10-16",
+  "title": "Noc Bibliotek 2026 – „Biblioteka się sprawdza”",
+  "time": "16:00",
+  "place": "Powiatowa Biblioteka Publiczna im. ks. prał. Stefana Wysockiego w Łowiczu",
+  "category": "Kultura",
+  "organizer": "Powiatowa Biblioteka Publiczna w Łowiczu",
+  "image": "plakaty/noc-bibliotek-2026-lowicz.jpg",
+  "source": "https://lowicz24.eu/artykul/ksiazkowe-zaga"
+},
+    {
+  "date": "2026-10-17",
+  "title": "Noc Bibliotek 2026 – „Śladami książkowej tajemnicy”",
+  "time": "18:00",
+  "place": "Gminna Biblioteka Publiczna w Bocheniu",
+  "category": "Kultura",
+  "organizer": "Gminna Biblioteka Publiczna w Bocheniu",
+  "image": "plakaty/noc-bibliotek-2026-bochen.jpg",
+  "source": "https://lowicz24.eu/artykul/ksiazkowe-zagadki-i-n1868191"
+},
+    {
+    "date": "2026-10-17",
+    "title": "II Wielkie Sprzątanie Łowickich Lasów – Dąbkowice",
+    "time": "10:00",
+    "place": "Dąbkowice, powiat łowicki",
+    "category": "Ekologia",
+    "organizer": "Gmina Łowicz",
+    "image": "plakaty/ii-wielkie-sprzatanie-lowickich-lasow.jpg",
+    "source": "https://www.facebook.com/photo/?fbid=1512150490949184&set=a.397134139117497"
+  }
     ],
 "2026-10-17": [
   {
@@ -2439,8 +2469,29 @@
   "organizer": "Łowickie Forum",
   "image": "plakaty/sutari-fbi.jpg",
   "source": "https://lowickiosrodekkultury.eu/wp-content/uploads/2026/09/sutari-fbi.jpg"
+},
+  {
+  "date": "2026-10-17",
+  "title": "Rajd pieszy „Powitanie jesieni”",
+  "time": "09:30",
+  "place": "Zbiórka: parking za ratuszem, Łowicz",
+  "category": "Turystyka",
+  "organizer": "PTTK Łowicz",
+  "image": "plakaty/rajd-powitanie-jesieni-2026.jpg",
+  "source": "https://pttklowicz.pl"
 }
-  
+  ],
+  "2026-10-18": [
+  {
+  "date": "2026-10-18",
+  "title": "Edukacja i sztuka. Pijarzy w Łowiczu – wystawa",
+  "time": "10:00",
+  "place": "Muzeum w Łowiczu, Stary Rynek 5/7, Łowicz",
+  "category": "Wystawa",
+  "organizer": "Muzeum w Łowiczu",
+  "image": "plakaty/edukacja-i-sztuka-pijarzy-w-lowiczu.jpg",
+  "source": "https://www.facebook.com/events/1354160104450233/"
+}
   ],
     "2026-10-22": [
   {
@@ -2479,7 +2530,40 @@
   "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
 }
   ],
-
+  "2026-10-25": [
+  {
+    "date": "2026-10-25",
+    "title": "II Wielkie Sprzątanie Łowickich Lasów – Zielkowice",
+    "time": "10:00",
+    "place": "Zielkowice, powiat łowicki",
+    "category": "Ekologia",
+    "organizer": "Gmina Łowicz",
+    "image": "plakaty/ii-wielkie-sprzatanie-lowickich-lasow.jpg",
+    "source": "https://www.facebook.com/photo/?fbid=1512150490949184&set=a.397134139117497"
+  }
+     ],
+   "2026-10-27": [
+  {
+  "date": "2026-10-27",
+  "title": "Zróbmy to razem! – III edycja sprzątania Cmentarza Ewangelicko-Augsburskiego",
+  "time": "10:00",
+  "place": "Cmentarz Ewangelicko-Augsburski, ul. Boczna, Łowicz",
+  "category": "Ekologia",
+  "organizer": "PTTK Oddział w Łowiczu",
+  "image": "plakaty/zrobmy-to-razem-sprzatanie-cmentarza-2026.jpg",
+  "source": "https://lowicz24.eu/artykul/posprzataja-zapomniane-n1862591"
+},
+     {
+  "date": "2026-10-27",
+  "title": "Sympozjum „Dzieje rodu Szembeków i Fredrów”",
+  "time": "09:00",
+  "place": "Muzeum w Łowiczu, Stary Rynek 5/7, Łowicz",
+  "category": "Historia",
+  "organizer": "Muzeum w Łowiczu",
+  "image": "plakaty/sympozjum-dzieje-rodu-szembekow-i-fredrow.jpg",
+  "source": "https://www.facebook.com/events/1674784207502650/"
+}
+       ],
     "2026-10-31": [
 {
   "date": "2026-10-31",
@@ -2500,7 +2584,17 @@
   "organizer": "Parkrun Łowicz",
   "image": "plakaty/parkrun.jpg",
   "source": "https://www.facebook.com/parkrunparkmiejskilowicz/"
-}
+},
+      {
+    "date": "2026-10-31",
+    "title": "II Wielkie Sprzątanie Łowickich Lasów – Parma",
+    "time": "10:00",
+    "place": "Parma, powiat łowicki",
+    "category": "Ekologia",
+    "organizer": "Gmina Łowicz",
+    "image": "plakaty/ii-wielkie-sprzatanie-lowickich-lasow.jpg",
+    "source": "https://www.facebook.com/photo/?fbid=1512150490949184&set=a.397134139117497"
+  }
        ],
   "2026-11-06": [
   {
