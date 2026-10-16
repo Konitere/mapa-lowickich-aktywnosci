@@ -2745,5 +2745,558 @@
     }
   ]
 
+"2026-10-16": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Lalka",
+        "image": "plakaty/lalka.jpg",
+        "times": [
+          "14:00",
+          "18:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Vincent. Legenda oceanu",
+        "image": "plakaty/vincent-legenda-oceanu.jpg",
+        "times": [
+          "16:30"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Vincent.%2BLegenda%2Boceanu-2025-10117297",
+        "filmwebRating": "5,5"
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": [
+          "17:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      },
+      {
+        "title": "Konwicki – Ostatni dzień lata",
+        "image": "plakaty/konwicki-ostatni-dzien-lata.jpg",
+        "times": [
+          "19:00"
+        ],
+        "filmweb": "https://www.filmweb.pl/film/Ostatni%2Bdzie%C5%84%2Blata-1958-8423",
+        "filmwebRating": "7,3"
+      }
+    ]
+  }
+],
 
+  "2026-10-17": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Lalka",
+        "image": "plakaty/lalka.jpg",
+        "times": ["14:00", "19:00"],
+        "filmweb": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["17:00"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      }
+    ]
+  }
+],
+  "2026-10-18": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["15:00"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      },
+      {
+        "title": "Vincent. Legenda oceanu",
+        "image": "plakaty/vincent-legenda-oceanu.jpg",
+        "times": ["16:00"],
+        "filmweb": "https://www.filmweb.pl/film/Vincent.%2BLegenda%2Boceanu-2025-10117297",
+        "filmwebRating": "5,5"
+      },
+      {
+        "title": "Lalka",
+        "image": "plakaty/lalka.jpg",
+        "times": ["17:00", "18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+        "filmwebRating": "7,7"
+      }
+    ]
+  }
+],
+  "2026-10-19": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Lalka",
+        "image": "plakaty/lalka.jpg",
+        "times": ["15:30", "18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Vincent. Legenda oceanu",
+        "image": "plakaty/vincent-legenda-oceanu.jpg",
+        "times": ["16:00"],
+        "filmweb": "https://www.filmweb.pl/film/Vincent.%2BLegenda%2Boceanu-2025-10117297",
+        "filmwebRating": "5,5"
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["18:30"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      }
+    ]
+  }
+],
+
+  "2026-10-20": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Lalka",
+        "image": "plakaty/lalka.jpg",
+        "times": ["15:30", "18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Vincent. Legenda oceanu",
+        "image": "plakaty/vincent-legenda-oceanu.jpg",
+        "times": ["16:00"],
+        "filmweb": "https://www.filmweb.pl/film/Vincent.%2BLegenda%2Boceanu-2025-10117297",
+        "filmwebRating": "5,5"
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["18:30"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      }
+    ]
+  }
+],
+
+  "2026-10-21": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Lalka",
+        "image": "plakaty/lalka.jpg",
+        "times": ["15:30", "18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Vincent. Legenda oceanu",
+        "image": "plakaty/vincent-legenda-oceanu.jpg",
+        "times": ["16:00"],
+        "filmweb": "https://www.filmweb.pl/film/Vincent.%2BLegenda%2Boceanu-2025-10117297",
+        "filmwebRating": "5,5"
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["18:30"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      }
+    ]
+  }
+],
+
+  "2026-10-22": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Lalka",
+        "image": "plakaty/lalka.jpg",
+        "times": ["15:30", "18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+        "filmwebRating": "7,7"
+      },
+      {
+        "title": "Vincent. Legenda oceanu",
+        "image": "plakaty/vincent-legenda-oceanu.jpg",
+        "times": ["16:00"],
+        "filmweb": "https://www.filmweb.pl/film/Vincent.%2BLegenda%2Boceanu-2025-10117297",
+        "filmwebRating": "5,5"
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["18:30"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      }
+    ]
+  }
+],
+
+  "2026-10-23": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Supermocni",
+        "image": "plakaty/supermocni.jpg",
+        "times": ["16:30"],
+        "filmweb": "",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["17:00"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      },
+      {
+        "title": "Jak żyć, żeby nie zwariować",
+        "image": "plakaty/jak-zyc-zeby-nie-zwariowac.jpg",
+        "times": ["18:30"],
+        "filmweb": "",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Digger",
+        "image": "plakaty/digger.jpg",
+        "times": ["19:00"],
+        "filmweb": "",
+        "filmwebRating": ""
+      }
+    ]
+  }
+],
+
+  "2026-10-25": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Jak żyć, żeby nie zwariować",
+        "image": "plakaty/jak-zyc-zeby-nie-zwariowac.jpg",
+        "times": ["16:00"],
+        "filmweb": "",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Konwicki Salto",
+        "image": "plakaty/konwicki-salto.jpg",
+        "times": ["18:00"],
+        "filmweb": "",
+        "filmwebRating": ""
+      }
+    ]
+  }
+],
+
+  "2026-10-26": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Supermocni",
+        "image": "plakaty/supermocni.jpg",
+        "times": ["16:30"],
+        "filmweb": "",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["17:00"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      },
+      {
+        "title": "Jak żyć, żeby nie zwariować",
+        "image": "plakaty/jak-zyc-zeby-nie-zwariowac.jpg",
+        "times": ["18:30"],
+        "filmweb": "",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Digger",
+        "image": "plakaty/digger.jpg",
+        "times": ["19:00"],
+        "filmweb": "",
+        "filmwebRating": ""
+      }
+    ]
+  }
+],
+
+  "2026-10-27": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Supermocni",
+        "image": "plakaty/supermocni.jpg",
+        "times": ["14:15"],
+        "filmweb": "https://www.filmweb.pl/film/Supermocni-2026-10120107",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Jak żyć, żeby nie zwariować",
+        "image": "plakaty/jak-zyc-zeby-nie-zwariowac.jpg",
+        "times": ["16:00"],
+        "filmweb": "https://www.filmweb.pl/film/Jak%2B%C5%BCy%C4%87%2C%2B%C5%BCeby%2Bnie%2Bzwariowa%C4%87-2026-10089450",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Wajda Re-wizje Bez znieczulenia",
+        "image": "plakaty/wajda-rewizje-bez-znieczulenia.jpg",
+        "times": ["18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Bez%2Bznieczulenia-1978-4154",
+        "filmwebRating": "7,6"
+      },
+      {
+        "title": "Digger",
+        "image": "plakaty/digger.jpg",
+        "times": ["19:30"],
+        "filmweb": "https://www.filmweb.pl/film/Digger-2026-10104607",
+        "filmwebRating": "7,0"
+      }
+    ]
+  }
+],
+
+  "2026-10-28": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Supermocni",
+        "image": "plakaty/supermocni.jpg",
+        "times": ["16:30"],
+        "filmweb": "https://www.filmweb.pl/film/Supermocni-2026-10120107",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["17:00"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      },
+      {
+        "title": "Jak żyć, żeby nie zwariować",
+        "image": "plakaty/jak-zyc-zeby-nie-zwariowac.jpg",
+        "times": ["18:30"],
+        "filmweb": "https://www.filmweb.pl/film/Jak%2B%C5%BCy%C4%87%2C%2B%C5%BCeby%2Bnie%2Bzwariowa%C4%87-2026-10089450",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Digger",
+        "image": "plakaty/digger.jpg",
+        "times": ["19:00"],
+        "filmweb": "https://www.filmweb.pl/film/Digger-2026-10104607",
+        "filmwebRating": "7,0"
+      }
+    ]
+  }
+],
+
+  "2026-10-29": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Supermocni",
+        "image": "plakaty/supermocni.jpg",
+        "times": ["16:30"],
+        "filmweb": "https://www.filmweb.pl/film/Supermocni-2026-10120107",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Czas, który nie nadszedł",
+        "image": "plakaty/czas-ktory-nie-nadszedl.jpg",
+        "times": ["17:00"],
+        "filmweb": "https://www.filmweb.pl/film/Czas%2C%2Bkt%C3%B3ry%2Bnie%2Bnadszed%C5%82-2026-10082282",
+        "filmwebRating": "5,3"
+      },
+      {
+        "title": "Jak żyć, żeby nie zwariować",
+        "image": "plakaty/jak-zyc-zeby-nie-zwariowac.jpg",
+        "times": ["18:30"],
+        "filmweb": "https://www.filmweb.pl/film/Jak%2B%C5%BCy%C4%87%2C%2B%C5%BCeby%2Bnie%2Bzwariowa%C4%87-2026-10089450",
+        "filmwebRating": ""
+      },
+      {
+        "title": "Digger",
+        "image": "plakaty/digger.jpg",
+        "times": ["19:00"],
+        "filmweb": "https://www.filmweb.pl/film/Digger-2026-10104607",
+        "filmwebRating": "7,0"
+      }
+    ]
+  }
+],
+
+  "2026-11-06": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Konwicki Dolina Issy",
+        "image": "plakaty/konwicki-dolina-issy.jpg",
+        "times": ["19:00"],
+        "filmweb": "https://www.filmweb.pl/film/Dolina+Issy-1982-4044",
+        "filmwebRating": ""
+      }
+    ]
+  }
+],
+"2026-11-11": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Wajda Re-wizje Ziemia obiecana",
+        "image": "plakaty/wajda-rewizje-ziemia-obiecana.jpg",
+        "times": ["18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Ziemia+obiecana-1974-1147",
+        "filmwebRating": "7,8"
+      }
+    ]
+  }
+],
+
+  "2026-11-13": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Konwicki Ława",
+        "image": "plakaty/konwicki-lawa.jpg",
+        "times": ["19:00"],
+        "filmweb": "",
+        "filmwebRating": ""
+      }
+    ]
+  }
+],
+"2026-12-08": [
+  {
+    "title": "🎬 Repertuar Kina Fenix",
+    "type": "cinema",
+    "place": "Kino Fenix, Łowicz",
+    "category": "Kino",
+    "organizer": "Łowicki Ośrodek Kultury",
+    "source": "https://lok.art.pl/repertuar/",
+    "movies": [
+      {
+        "title": "Wajda Re-wizje Wszystko na sprzedaż",
+        "image": "plakaty/wajda-rewizje-wszystko-na-sprzedaz.jpg",
+        "times": ["18:00"],
+        "filmweb": "https://www.filmweb.pl/film/Wszystko+na+sprzedaż-1968-1164",
+        "filmwebRating": "7,0"
+      }
+    ]
+  }
+]
 }
