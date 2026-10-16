@@ -2419,6 +2419,18 @@
   "source": "https://lowicz24.eu/artykul/ksiazkowe-zaga"
 },
     {
+    "date": "2026-10-16",
+    "title": "Październikowe Dance Party w Starej Łaźni",
+    "time": "20:00",
+    "place": "Restauracja Stara Łaźnia, ul. Tkaczew 8, Łowicz",
+    "category": "Imprezy",
+    "organizer": "Restauracja Stara Łaźnia",
+    "image": "plakaty/pazdziernikowe-dance-party-stara-laznia.jpg",
+    "source": "https://www.facebook.com/events/1667012548362593/"
+  },
+    ],
+    "2026-10-17": [
+    {
   "date": "2026-10-17",
   "title": "Noc Bibliotek 2026 – „Śladami książkowej tajemnicy”",
   "time": "18:00",
@@ -2437,9 +2449,8 @@
     "organizer": "Gmina Łowicz",
     "image": "plakaty/ii-wielkie-sprzatanie-lowickich-lasow.jpg",
     "source": "https://www.facebook.com/photo/?fbid=1512150490949184&set=a.397134139117497"
-  }
-    ],
-"2026-10-17": [
+  },
+
   {
   "date": "2026-10-17",
   "title": "Pelikan Łowicz - Wigry Suwałki",
@@ -2489,6 +2500,16 @@
   "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
   "image": "plakaty/czytaki-17-10.png",
   "source": "https://cebrowski.pl/kalendarz-wydarzen/klub-czytajacych-rodzin-dzieciaki-czytaki-7/"
+},
+  {
+  "date": "2026-10-17",
+  "title": "Pumpkin Party w Winnicy Natale",
+  "time": "14:00",
+  "place": "Winnica Natale, Łasiewiczniki 63, 99-417 Bolimów",
+  "category": "Imprezy",
+  "organizer": "Winnica Natale",
+  "image": "plakaty/pumpkin-party-winnica-natale.jpg",
+  "source": "https://www.facebook.com/events/1752570929301559/"
 }
   ],
   "2026-10-18": [
@@ -2501,6 +2522,16 @@
   "organizer": "Muzeum w Łowiczu",
   "image": "plakaty/edukacja-i-sztuka-pijarzy-w-lowiczu.jpg",
   "source": "https://www.facebook.com/events/1354160104450233/"
+},
+    {
+  "date": "2026-10-18",
+  "title": "Chwile ulotne – koncert muzyki fortepianowej i kameralnej",
+  "time": "18:30",
+  "place": "Pałac Radziwiłłów w Nieborowie",
+  "category": "Koncert",
+  "organizer": "Muzeum w Nieborowie i Arkadii – Oddział Muzeum Narodowego w Warszawie",
+  "image": "plakaty/chwile-ulotne-koncert-nieborow.jpg",
+  "source": "https://www.facebook.com/photo/?fbid=1809788924482278&set=a.532717962189387"
 }
   ],
     "2026-10-22": [
@@ -2536,7 +2567,17 @@
   "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
   "image": "plakaty/noc-z-cebrowskim-2026-scaled-1.png",
   "source": "https://cebrowski.pl/kalendarz-wydarzen/noc-bibliotek-z-cebrowskim-2/"
-}
+},
+    {
+    "date": "2026-10-23",
+    "title": "Październikowe Dance Party w Starej Łaźni",
+    "time": "20:00",
+    "place": "Restauracja Stara Łaźnia, ul. Tkaczew 8, Łowicz",
+    "category": "Imprezy",
+    "organizer": "Restauracja Stara Łaźnia",
+    "image": "plakaty/pazdziernikowe-dance-party-stara-laznia.jpg",
+    "source": "https://www.facebook.com/events/1667012548362593/"
+  }
     ],
 "2026-10-24": [
   {
@@ -2626,7 +2667,17 @@
     "organizer": "Gmina Łowicz",
     "image": "plakaty/ii-wielkie-sprzatanie-lowickich-lasow.jpg",
     "source": "https://www.facebook.com/photo/?fbid=1512150490949184&set=a.397134139117497"
-  }
+  },
+     {
+  "date": "2026-10-31",
+  "title": "Halloween Party w Momentach",
+  "time": "20:30",
+  "place": "Momenty – Bar & Restaurant, Łowicz",
+  "category": "Imprezy",
+  "organizer": "Momenty – Bar & Restaurant",
+  "image": "plakaty/halloween-party-momenty-2026.jpg",
+  "source": "https://www.facebook.com/events/1328061239281233/"
+}
        ],
  "2026-11-05": [
   {
@@ -2676,6 +2727,18 @@
   "source": "https://www.kupbilecik.pl/imprezy/217324/%C5%81owicz/Micha%C5%82+Kutek/"
 }
 ],
+  "2026-11-14": [
+  {
+  "date": "2026-11-14",
+  "title": "Planszówki Łowickie – 5. Łowicki Festiwal Gier Planszowych, Fantastyki i Rzemiosł Dawnych",
+  "time": "10:00",
+  "place": "I Liceum Ogólnokształcące im. Józefa Chełmońskiego w Łowiczu",
+  "category": "Festiwal",
+  "organizer": "Planszówki Łowickie",
+  "image": "plakaty/planszowki-lowickie-2026.jpg",
+  "source": "https://www.facebook.com/events/1752570929301541/"
+}
+    ],
   "2026-11-18": [
   {
   "date": "2026-11-18",
