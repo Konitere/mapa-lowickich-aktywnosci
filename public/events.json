@@ -2479,6 +2479,16 @@
   "organizer": "PTTK Łowicz",
   "image": "plakaty/rajd-powitanie-jesieni-2026.jpg",
   "source": "https://pttklowicz.pl"
+},
+  {
+  "date": "2026-10-17",
+  "title": "Poznajemy świat z Basią! – Klub Czytających Rodzin „Dzieciaki Czytaki”",
+  "time": "12:00",
+  "place": "Miejska Biblioteka im. A. K. Cebrowskiego, al. Sienkiewicza 62, Łowicz",
+  "category": "Dla dzieci",
+  "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
+  "image": "plakaty/czytaki-17-10.png",
+  "source": "https://cebrowski.pl/kalendarz-wydarzen/klub-czytajacych-rodzin-dzieciaki-czytaki-7/"
 }
   ],
   "2026-10-18": [
@@ -2516,6 +2526,16 @@
   "organizer": "Eskander",
   "image": "plakaty/kabaret-nowaki-mielismy-do-tego-nie-wracac-2026.jpg",
   "source": "https://biletyna.pl/kabaret/Kabaret-Nowaki/Mielismy-do-tego-nie-wracac/Lowicz"
+},
+    {
+  "date": "2026-10-23",
+  "title": "Noc Bibliotek z Cebrowskim",
+  "time": "12:00",
+  "place": "Miejska Biblioteka im. A. K. Cebrowskiego, al. Sienkiewicza 62, Łowicz",
+  "category": "Kultura",
+  "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
+  "image": "plakaty/noc-z-cebrowskim-2026-scaled-1.png",
+  "source": "https://cebrowski.pl/kalendarz-wydarzen/noc-bibliotek-z-cebrowskim-2/"
 }
     ],
 "2026-10-24": [
@@ -2564,6 +2584,18 @@
   "source": "https://www.facebook.com/events/1674784207502650/"
 }
        ],
+"2026-10-29": [
+  {
+  "date": "2026-10-29",
+  "title": "Spotkanie autorskie z Krzysztofem Markiem Wiśniewskim",
+  "time": "16:30",
+  "place": "Miejska Biblioteka im. A. K. Cebrowskiego, al. Sienkiewicza 62, Łowicz",
+  "category": "Spotkanie autorskie",
+  "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
+  "image": "plakaty/spotkanie-autorskie-krzysztof-marek-wisniewski-scaled.png",
+  "source": "https://cebrowski.pl/kalendarz-wydarzen/spotkanie-autorskie-z-krzysztofem-markiem-wisniewskim/"
+}
+  ],
     "2026-10-31": [
 {
   "date": "2026-10-31",
@@ -2596,6 +2628,18 @@
     "source": "https://www.facebook.com/photo/?fbid=1512150490949184&set=a.397134139117497"
   }
        ],
+ "2026-11-05": [
+  {
+  "date": "2026-11-05",
+  "title": "Spotkanie autorskie z Iwoną Klimczak",
+  "time": "17:00",
+  "place": "Miejska Biblioteka im. A. K. Cebrowskiego, al. Sienkiewicza 62, Łowicz",
+  "category": "Spotkanie autorskie",
+  "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
+  "image": "plakaty/spotkanie-autorskie-iwona-klimczak-scaled.png",
+  "source": "https://cebrowski.pl/kalendarz-wydarzen/spotkanie-autorskie-z-iwona-klimczak/"
+}
+    ],
   "2026-11-06": [
   {
   "date": "2026-11-06",
@@ -2654,6 +2698,16 @@
   "organizer": "Łowicki Ośrodek Kultury",
   "image": "plakaty/jacek-dewodzki-dzem-session-2026.jpg",
   "source": "https://www.kupbilecik.pl/imprezy/216609/%C5%81owicz/Jacek+Dew%C3%B3dzki+%28ex+D%C5%BCem%29+i+zesp%C3%B3%C5%82+D%C5%BCem+Session/"
+},
+     {
+  "date": "2026-11-26",
+  "title": "Spotkanie autorskie z Wojciechem Wolnickim",
+  "time": "17:00",
+  "place": "Miejska Biblioteka im. A. K. Cebrowskiego, al. Sienkiewicza 62, Łowicz",
+  "category": "Spotkanie autorskie",
+  "organizer": "Miejska Biblioteka im. A. K. Cebrowskiego w Łowiczu",
+  "image": "plakaty/spotkanie-autorskie-wojciech-wolnicki-scaled.png",
+  "source": "https://cebrowski.pl/kalendarz-wydarzen/spotkanie-autorskie-z-wojciechem-wolnickim/"
 }
      ],
  "2026-11-28": [
